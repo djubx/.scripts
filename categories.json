@@ -1,0 +1,827 @@
+{
+  "Flutter Packages": [
+    {
+      "🎨 UI Components and Styling": [
+        {
+          "Animation Libraries 🎬": {
+            "description": "Tools for creating and managing complex animations in Flutter apps.",
+            "packages": [
+              "lottie",
+              "flutter_animate",
+              "animations",
+              "animate_do"
+            ]
+          }
+        },
+        {
+          "Visual Effects ✨": {
+            "description": "Libraries for adding visual enhancements like shimmer, glow, and particle effects.",
+            "packages": [
+              "shimmer",
+              "shimmer_animation",
+              "avatar_glow",
+              "confetti"
+            ]
+          }
+        },
+        {
+          "Input and Forms 📝": {
+            "description": "Packages for creating customizable input fields and form management.",
+            "packages": [
+              "flutter_form_builder",
+              "pinput",
+              "flutter_typeahead",
+              "flutter_rating_bar",
+              "country_code_picker",
+              "numberpicker"
+            ]
+          }
+        },
+        {
+          "Layout and Responsiveness 📏": {
+            "description": "Tools for building adaptive and responsive layouts across different screen sizes.",
+            "packages": [
+              "responsive_framework",
+              "responsive_builder",
+              "flutter_layout_grid",
+              "gap",
+              "expandable_page_view"
+            ]
+          }
+        },
+        {
+          "Icons and Fonts 🔤": {
+            "description": "Additional icon sets and font management utilities for Flutter apps.",
+            "packages": [
+              "font_awesome_flutter",
+              "ionicons"
+            ]
+          }
+        },
+        {
+          "Dialogs and Notifications 💬": {
+            "description": "Libraries for creating custom in-app alerts, toasts, and notifications.",
+            "packages": [
+              "another_flushbar",
+              "toastification",
+              "flutter_styled_toast",
+              "oktoast",
+              "adaptive_dialog",
+              "awesome_snackbar_content"
+            ]
+          }
+        },
+        {
+          "Theming and Styling 🎭": {
+            "description": "Packages for managing app-wide themes and dynamic styling.",
+            "packages": [
+              "adaptive_theme",
+              "flex_color_picker"
+            ]
+          }
+        },
+        {
+          "Progress Indicators 🔄": {
+            "description": "Customizable loading animations and progress visualization widgets.",
+            "packages": [
+              "percent_indicator",
+              "smooth_page_indicator",
+              "loading_indicator",
+              "circular_countdown_timer",
+              "loading_animation_widget"
+            ]
+          }
+        },
+        {
+          "Miscellaneous UI 🧩": {
+            "description": "Diverse collection of specialized UI components and effects.",
+            "packages": [
+              "badges",
+              "toggle_switch",
+              "skeletonizer",
+              "showcaseview",
+              "flutter_native_splash",
+              "custom_refresh_indicator",
+              "dotted_line",
+              "popover",
+              "animated_toggle_switch",
+              "flutter_credit_card"
+            ]
+          }
+        },
+        {
+          "Calendar 📅": {
+            "description": "Widgets for implementing calendars and date pickers.",
+            "packages": [
+              "table_calendar",
+              "calendar_date_picker2"
+            ]
+          }
+        },
+        {
+          "Layout 📐": {
+            "description": "Advanced layout control and post-layout operation utilities.",
+            "packages": [
+              "after_layout"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🧭 Navigation and Routing": [
+        {
+          "Bottom Navigation 🚀": {
+            "description": "Custom bottom navigation bar implementations with various styles.",
+            "packages": [
+              "curved_navigation_bar",
+              "convex_bottom_bar",
+              "salomon_bottom_bar"
+            ]
+          }
+        },
+        {
+          "Page Transitions 🔀": {
+            "description": "Libraries for creating custom transitions between screens or pages.",
+            "packages": [
+              "page_transition"
+            ]
+          }
+        },
+        {
+          "Drawers 🗄️": {
+            "description": "Packages for implementing advanced drawer layouts and animations.",
+            "packages": [
+              "flutter_zoom_drawer"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🧠 State Management": [
+        {
+          "BLoC Pattern 🧱": {
+            "description": "State management solutions using the Business Logic Component pattern.",
+            "packages": [
+              "flutter_bloc",
+              "bloc",
+              "hydrated_bloc",
+              "bloc_concurrency"
+            ]
+          }
+        },
+        {
+          "Provider and Riverpod 🏗️": {
+            "description": "Dependency injection and state management tools based on the provider pattern.",
+            "packages": [
+              "provider",
+              "flutter_riverpod",
+              "hooks_riverpod",
+              "riverpod"
+            ]
+          }
+        },
+        {
+          "MobX 📊": {
+            "description": "Reactive state management implementation using MobX for Flutter.",
+            "packages": [
+              "flutter_mobx",
+              "mobx"
+            ]
+          }
+        },
+        {
+          "Other State Management 🔄": {
+            "description": "Alternative state management solutions and utilities.",
+            "packages": [
+              "get_it",
+              "equatable",
+              "freezed"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "💾 Data Storage and Persistence": [
+        {
+          "Local Storage 📦": {
+            "description": "Packages for storing data locally on the device.",
+            "packages": [
+              "shared_preferences",
+              "flutter_secure_storage",
+              "get_storage"
+            ]
+          }
+        },
+        {
+          "Databases 🗃️": {
+            "description": "Libraries for integrating local SQL and NoSQL databases.",
+            "packages": [
+              "sqflite",
+              "drift",
+              "realm",
+              "sembast"
+            ]
+          }
+        },
+        {
+          "File System 📂": {
+            "description": "Utilities for file and directory operations on the device.",
+            "packages": [
+              "path_provider",
+              "path"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🌐 Networking and API": [
+        {
+          "HTTP Clients 🌍": {
+            "description": "Libraries for making HTTP requests and handling RESTful services.",
+            "packages": [
+              "dio",
+              "http"
+            ]
+          }
+        },
+        {
+          "Network Utilities 🔌": {
+            "description": "Tools for network operations, logging, and connectivity management.",
+            "packages": [
+              "pretty_dio_logger",
+              "retry",
+              "connectivity_plus",
+              "internet_connection_checker",
+              "internet_connection_checker_plus",
+              "network_info_plus"
+            ]
+          }
+        },
+        {
+          "Server 🖥️": {
+            "description": "Packages for creating server-side applications in Dart.",
+            "packages": [
+              "shelf"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "📷 Media Handling": [
+        {
+          "Image Processing 🖼️": {
+            "description": "Tools for image picking, caching, compression, and saving.",
+            "packages": [
+              "image_picker",
+              "cached_network_image",
+              "flutter_image_compress",
+              "image_gallery_saver"
+            ]
+          }
+        },
+        {
+          "Audio 🎵": {
+            "description": "Libraries for audio playback, recording, and processing.",
+            "packages": [
+              "audioplayers",
+              "just_audio",
+              "flutter_sound",
+              "flutter_tts",
+              "audio_service",
+              "audio_waveforms",
+              "audio_video_progress_bar"
+            ]
+          }
+        },
+        {
+          "Video 🎥": {
+            "description": "Packages for video playback and YouTube integration.",
+            "packages": [
+              "chewie",
+              "youtube_player_iframe"
+            ]
+          }
+        },
+        {
+          "Camera 📸": {
+            "description": "APIs for accessing and controlling device cameras.",
+            "packages": [
+              "camera"
+            ]
+          }
+        },
+        {
+          "Record 🎙️": {
+            "description": "Packages specifically for audio recording functionality.",
+            "packages": [
+              "record"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "📍 Location and Maps": [
+        {
+          "Location Services 📍": {
+            "description": "APIs for accessing device location and geolocation services.",
+            "packages": [
+              "geolocator",
+              "location"
+            ]
+          }
+        },
+        {
+          "Maps 🗺️": {
+            "description": "Libraries for integrating maps and location-based services.",
+            "packages": [
+              "google_maps_flutter",
+              "flutter_map",
+              "map_launcher",
+              "maps_launcher"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "📁 File Handling": [
+        {
+          "File Operations 📂": {
+            "description": "Utilities for file picking, selection, and cache management.",
+            "packages": [
+              "file_picker",
+              "file_selector",
+              "flutter_cache_manager"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🔐 Authentication": [
+        {
+          "Social Authentication 🔑": {
+            "description": "Libraries for implementing social media sign-in functionality.",
+            "packages": [
+              "google_sign_in",
+              "sign_in_with_apple"
+            ]
+          }
+        },
+        {
+          "Local Authentication 🔒": {
+            "description": "Packages for device-level authentication like biometrics.",
+            "packages": [
+              "local_auth"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "📊 Charts and Data Visualization": [
+        {
+          "Charting Libraries 📈": {
+            "description": "Tools for creating various types of charts and data visualizations.",
+            "packages": [
+              "fl_chart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🔒 Permissions and Device Info": [
+        {
+          "Permissions 🔓": {
+            "description": "APIs for handling and requesting system permissions.",
+            "packages": [
+              "permission_handler"
+            ]
+          }
+        },
+        {
+          "Device Information 📱": {
+            "description": "Packages for accessing device-specific details and identifiers.",
+            "packages": [
+              "package_info_plus",
+              "platform_device_id"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🛠️ Utilities": [
+        {
+          "Logging and Debugging 🐛": {
+            "description": "Tools for implementing logging and debugging features.",
+            "packages": [
+              "logger",
+              "logging"
+            ]
+          }
+        },
+        {
+          "Code Generation 🏗️": {
+            "description": "Utilities for automating code creation in Flutter projects.",
+            "packages": [
+              "build_runner",
+              "flutter_gen"
+            ]
+          }
+        },
+        {
+          "Linting and Testing 🧪": {
+            "description": "Packages for code quality assurance and testing.",
+            "packages": [
+              "flutter_lints",
+              "custom_lint",
+              "bloc_test",
+              "mocktail"
+            ]
+          }
+        },
+        {
+          "Data Manipulation 🔧": {
+            "description": "Utilities for various data manipulation tasks.",
+            "packages": [
+              "uuid",
+              "crypto",
+              "jiffy",
+              "formz",
+              "decimal",
+              "characters"
+            ]
+          }
+        },
+        {
+          "Mock Data 🎭": {
+            "description": "Tools for generating fake data for testing and prototyping.",
+            "packages": [
+              "english_words",
+              "faker"
+            ]
+          }
+        },
+        {
+          "Email Validation ✉️": {
+            "description": "Packages for validating email addresses.",
+            "packages": [
+              "email_validator"
+            ]
+          }
+        },
+        {
+          "XML Parsing 📄": {
+            "description": "Tools for parsing and manipulating XML data.",
+            "packages": [
+              "xml"
+            ]
+          }
+        },
+        {
+          "MIME 📎": {
+            "description": "Utilities for working with MIME types.",
+            "packages": [
+              "mime"
+            ]
+          }
+        },
+        {
+          "YAML 📝": {
+            "description": "Packages for parsing and manipulating YAML data.",
+            "packages": [
+              "yaml"
+            ]
+          }
+        },
+        {
+          "Timezone 🌐": {
+            "description": "Tools for handling timezone-related operations.",
+            "packages": [
+              "flutter_timezone"
+            ]
+          }
+        },
+        {
+          "Stream Transformation 🔄": {
+            "description": "Utilities for transforming and manipulating data streams.",
+            "packages": [
+              "stream_transform"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🔌 Platform Integration": [
+        {
+          "Web Integration 🌐": {
+            "description": "Packages for integrating web content and features in Flutter apps.",
+            "packages": [
+              "webview_flutter",
+              "url_strategy",
+              "pointer_interceptor"
+            ]
+          }
+        },
+        {
+          "Desktop Integration 🖥️": {
+            "description": "Libraries for desktop-specific functionality in Flutter apps.",
+            "packages": [
+              "window_manager",
+              "flutter_windowmanager"
+            ]
+          }
+        },
+        {
+          "Mobile Integration 📱": {
+            "description": "Packages for accessing mobile-specific features and sensors.",
+            "packages": [
+              "vibration",
+              "sensors_plus",
+              "battery_plus",
+              "wakelock_plus"
+            ]
+          }
+        },
+        {
+          "Sharing 📤": {
+            "description": "Tools for implementing content sharing functionality.",
+            "packages": [
+              "share_plus"
+            ]
+          }
+        },
+        {
+          "App Review and Update 🔄": {
+            "description": "Packages for in-app review prompts and update management.",
+            "packages": [
+              "in_app_review",
+              "in_app_update"
+            ]
+          }
+        },
+        {
+          "Contacts 👥": {
+            "description": "APIs for accessing and managing device contacts.",
+            "packages": [
+              "flutter_contacts"
+            ]
+          }
+        },
+        {
+          "FFI 🔗": {
+            "description": "Tools for Foreign Function Interface to interact with native code.",
+            "packages": [
+              "ffi"
+            ]
+          }
+        },
+        {
+          "Win32 🪟": {
+            "description": "Packages for Windows-specific functionality in desktop apps.",
+            "packages": [
+              "win32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🔔 Notifications": [
+        {
+          "Push Notifications 📲": {
+            "description": "Libraries for implementing push notification services.",
+            "packages": [
+              "awesome_notifications"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "💰 Ads and Monetization": [
+        {
+          "Mobile Ads 📱💰": {
+            "description": "Packages for integrating mobile advertisements.",
+            "packages": [
+              "google_mobile_ads"
+            ]
+          }
+        },
+        {
+          "In-App Purchases 💳": {
+            "description": "Tools for implementing and managing in-app purchases.",
+            "packages": [
+              "in_app_purchase"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "📄 PDF Handling": [
+        {
+          "PDF Viewing and Processing 📚": {
+            "description": "Libraries for viewing, creating, and manipulating PDF files.",
+            "packages": [
+              "pdf",
+              "printing",
+              "flutter_pdfview",
+              "flutter_cached_pdfview"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "📷 Barcode and QR": [
+        {
+          "Barcode Scanning and Generation 📊": {
+            "description": "Tools for scanning and generating barcodes and QR codes.",
+            "packages": [
+              "mobile_scanner",
+              "flutter_barcode_scanner",
+              "barcode_widget",
+              "pretty_qr_code"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "☁️ Backend as a Service": [
+        {
+          "Supabase 🗄️": {
+            "description": "Packages for integrating Supabase backend services.",
+            "packages": [
+              "supabase_flutter"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🎮 Game Development": [
+        {
+          "Game Engines 🕹️": {
+            "description": "Libraries for 2D game development in Flutter.",
+            "packages": [
+              "flame"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🌍 Internationalization": [
+        {
+          "Localization 🌐": {
+            "description": "Tools for implementing multi-language support in apps.",
+            "packages": [
+              "flutter_localization"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "🔧 Miscellaneous": [
+        {
+          "UI Helpers 🧩": {
+            "description": "Miscellaneous utilities for various UI-related tasks.",
+            "packages": [
+              "flutter_keyboard_visibility",
+              "grouped_list",
+              "readmore",
+              "card_swiper",
+              "flutter_quill",
+              "sliver_tools",
+              "flutter_chat_ui"
+            ]
+          }
+        },
+        {
+          "HTML Rendering 📄": {
+            "description": "Packages for rendering HTML content within Flutter apps.",
+            "packages": [
+              "flutter_widget_from_html",
+              "flutter_widget_from_html_core"
+            ]
+          }
+        },
+        {
+          "App Functionality 🛠️": {
+            "description": "Diverse set of packages for various app features and integrations.",
+            "packages": [
+              "app_links",
+              "injectable",
+              "signature",
+              "app_tracking_transparency",
+              "event_bus",
+              "palette_generator",
+              "loader_overlay",
+              "envied",
+              "restart_app",
+              "pay",
+              "synchronized",
+              "android_intent_plus",
+              "quick_actions",
+              "home_widget"
+            ]
+          }
+        },
+        {
+          "Machine Learning 🤖": {
+            "description": "Tools for integrating on-device machine learning capabilities.",
+            "packages": [
+              "google_ml_kit"
+            ]
+          }
+        },
+        {
+          "App Store Integration 📦": {
+            "description": "Packages for app store-related functionalities.",
+            "packages": [
+              "store_redirect"
+            ]
+          }
+        },
+        {
+          "Responsive Design 📐": {
+            "description": "Utilities for implementing responsive UI designs.",
+            "packages": [
+              "responsive_sizer"
+            ]
+          }
+        },
+        {
+          "Networking 🌐": {
+            "description": "Specialized networking libraries for MQTT and gRPC.",
+            "packages": [
+              "mqtt_client",
+              "grpc"
+            ]
+          }
+        },
+        {
+          "Debugging 🐛": {
+            "description": "Tools for advanced debugging and error tracking.",
+            "packages": [
+              "stack_trace"
+            ]
+          }
+        },
+        {
+          "Timers ⏱️": {
+            "description": "Packages for implementing precise timers and stopwatches.",
+            "packages": [
+              "stop_watch_timer"
+            ]
+          }
+        },
+        {
+          "Analytics 📊": {
+            "description": "Libraries for integrating app analytics and event tracking.",
+            "packages": [
+              "facebook_app_events"
+            ]
+          }
+        },
+        {
+          "Input Formatting 📝": {
+            "description": "Utilities for formatting specialized text inputs.",
+            "packages": [
+              "currency_text_input_formatter"
+            ]
+          }
+        },
+        {
+          "Parsing 📝": {
+            "description": "Libraries for parsing various data formats.",
+            "packages": [
+              "petitparser",
+              "http_parser"
+            ]
+          }
+        },
+        {
+          "Value Types 🔢": {
+            "description": "Packages for implementing value types in Dart.",
+            "packages": [
+              "built_value"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
