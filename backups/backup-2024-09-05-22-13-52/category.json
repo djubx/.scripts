@@ -1,0 +1,191 @@
+[
+  {
+    "_updatedAt": "2024-09-04T20:00:42Z",
+    "order": 0,
+    "_createdAt": "2024-09-04T20:00:42Z",
+    "_rev": "4gmBGwifQuSypgRenUbTpg",
+    "_type": "category",
+    "name": "🎨 UI Components and Styling",
+    "_id": "4gmBGwifQuSypgRenUbTrr"
+  },
+  {
+    "_type": "category",
+    "name": "🧭 Navigation and Routing",
+    "_id": "4gmBGwifQuSypgRenUbTyO",
+    "_updatedAt": "2024-09-04T20:00:43Z",
+    "order": 1,
+    "_createdAt": "2024-09-04T20:00:43Z",
+    "_rev": "4gmBGwifQuSypgRenUbTwD"
+  },
+  {
+    "_updatedAt": "2024-09-04T20:00:44Z",
+    "order": 2,
+    "_createdAt": "2024-09-04T20:00:44Z",
+    "_rev": "4gmBGwifQuSypgRenUbU2k",
+    "_type": "category",
+    "name": "🧠 State Management",
+    "_id": "4gmBGwifQuSypgRenUbU4v"
+  },
+  {
+    "name": "💾 Data Storage and Persistence",
+    "_id": "4gmBGwifQuSypgRenUbUBS",
+    "_updatedAt": "2024-09-04T20:00:45Z",
+    "order": 3,
+    "_createdAt": "2024-09-04T20:00:45Z",
+    "_rev": "4gmBGwifQuSypgRenUbU9H",
+    "_type": "category"
+  },
+  {
+    "_createdAt": "2024-09-04T20:00:47Z",
+    "_rev": "4gmBGwifQuSypgRenUbUFo",
+    "_type": "category",
+    "name": "📷 Media Handling",
+    "_id": "4gmBGwifQuSypgRenUbUHz",
+    "_updatedAt": "2024-09-04T20:00:47Z",
+    "order": 5
+  },
+  {
+    "_id": "4gmBGwifQuSypgRenUbUOW",
+    "_updatedAt": "2024-09-04T20:00:48Z",
+    "order": 6,
+    "_createdAt": "2024-09-04T20:00:48Z",
+    "_rev": "4gmBGwifQuSypgRenUbUML",
+    "_type": "category",
+    "name": "📍 Location and Maps"
+  },
+  {
+    "_createdAt": "2024-09-04T20:00:50Z",
+    "_rev": "4gmBGwifQuSypgRenUbUSs",
+    "_type": "category",
+    "name": "🔐 Authentication",
+    "_id": "4gmBGwifQuSypgRenUbUV3",
+    "_updatedAt": "2024-09-04T20:00:50Z",
+    "order": 8
+  },
+  {
+    "order": 9,
+    "_createdAt": "2024-09-04T20:00:51Z",
+    "_rev": "4gmBGwifQuSypgRenUbUZP",
+    "_type": "category",
+    "name": "📊 Charts and Data Visualization",
+    "_id": "4gmBGwifQuSypgRenUbUba",
+    "_updatedAt": "2024-09-04T20:00:51Z"
+  },
+  {
+    "_rev": "4gmBGwifQuSypgRenUbUfw",
+    "_type": "category",
+    "name": "🔒 Permissions and Device Info",
+    "_id": "4gmBGwifQuSypgRenUbUi7",
+    "_updatedAt": "2024-09-04T20:00:52Z",
+    "order": 10,
+    "_createdAt": "2024-09-04T20:00:52Z"
+  },
+  {
+    "name": "🔔 Notifications",
+    "_id": "4gmBGwifQuSypgRenUbUvB",
+    "_updatedAt": "2024-09-04T20:00:55Z",
+    "order": 13,
+    "_createdAt": "2024-09-04T20:00:55Z",
+    "_rev": "4gmBGwifQuSypgRenUbUt0",
+    "_type": "category"
+  },
+  {
+    "_rev": "4gmBGwifQuSypgRenUbUzX",
+    "_type": "category",
+    "name": "💰 Ads and Monetization",
+    "_id": "4gmBGwifQuSypgRenUbV1i",
+    "_updatedAt": "2024-09-04T20:00:56Z",
+    "order": 14,
+    "_createdAt": "2024-09-04T20:00:56Z"
+  },
+  {
+    "_updatedAt": "2024-09-04T20:00:59Z",
+    "order": 17,
+    "_createdAt": "2024-09-04T20:00:59Z",
+    "_rev": "4gmBGwifQuSypgRenUbV64",
+    "_type": "category",
+    "name": "☁️ Backend as a Service",
+    "_id": "4gmBGwifQuSypgRenUbV8F"
+  },
+  {
+    "name": "🌍 Internationalization",
+    "_id": "4gmBGwifQuSypgRenUbVEm",
+    "_updatedAt": "2024-09-04T20:01:01Z",
+    "order": 19,
+    "_createdAt": "2024-09-04T20:01:01Z",
+    "_rev": "4gmBGwifQuSypgRenUbVCb",
+    "_type": "category"
+  },
+  {
+    "order": 20,
+    "_createdAt": "2024-09-04T20:01:02Z",
+    "_rev": "4gmBGwifQuSypgRenUbVJ8",
+    "_type": "category",
+    "name": "🔧 Miscellaneous",
+    "_id": "4gmBGwifQuSypgRenUbVLJ",
+    "_updatedAt": "2024-09-04T20:01:02Z"
+  },
+  {
+    "name": "🌐 Networking and API",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFcn",
+    "_updatedAt": "2024-09-04T20:00:46Z",
+    "order": 4,
+    "_createdAt": "2024-09-04T20:00:46Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFc0",
+    "_type": "category"
+  },
+  {
+    "order": 11,
+    "_createdAt": "2024-09-04T20:00:53Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFfx",
+    "_type": "category",
+    "name": "🛠️ Utilities",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFgk",
+    "_updatedAt": "2024-09-04T20:00:53Z"
+  },
+  {
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFiK",
+    "_type": "category",
+    "name": "📷 Barcode and QR",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFj7",
+    "_updatedAt": "2024-09-04T20:00:58Z",
+    "order": 16,
+    "_createdAt": "2024-09-04T20:00:58Z"
+  },
+  {
+    "_id": "t8DYBEKn49O4mjbyRAf966",
+    "_updatedAt": "2024-09-04T20:00:49Z",
+    "order": 7,
+    "_createdAt": "2024-09-04T20:00:49Z",
+    "_rev": "t8DYBEKn49O4mjbyRAf91E",
+    "_type": "category",
+    "name": "📁 File Handling"
+  },
+  {
+    "_createdAt": "2024-09-04T20:00:54Z",
+    "_rev": "t8DYBEKn49O4mjbyRAf9Pa",
+    "_type": "category",
+    "name": "🔌 Platform Integration",
+    "_id": "t8DYBEKn49O4mjbyRAf9US",
+    "_updatedAt": "2024-09-04T20:00:54Z",
+    "order": 12
+  },
+  {
+    "order": 15,
+    "_createdAt": "2024-09-04T20:00:57Z",
+    "_rev": "t8DYBEKn49O4mjbyRAf9so",
+    "_type": "category",
+    "name": "📄 PDF Handling",
+    "_id": "t8DYBEKn49O4mjbyRAf9xg",
+    "_updatedAt": "2024-09-04T20:00:57Z"
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:00Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfA7Q",
+    "_type": "category",
+    "name": "🎮 Game Development",
+    "_id": "t8DYBEKn49O4mjbyRAfACI",
+    "_updatedAt": "2024-09-04T20:01:00Z",
+    "order": 18
+  }
+]

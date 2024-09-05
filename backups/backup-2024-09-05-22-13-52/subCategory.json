@@ -1,0 +1,1465 @@
+[
+  {
+    "slug": {
+      "_type": "slug",
+      "current": "animation-libraries"
+    },
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:04Z",
+    "_type": "subCategory",
+    "name": "Animation Libraries 🎬",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:04Z",
+    "_rev": "4gmBGwifQuSypgRenUbVU1",
+    "description": "Tools for creating and managing complex animations in Flutter apps.",
+    "_id": "4gmBGwifQuSypgRenUbVWC",
+    "tags": []
+  },
+  {
+    "_type": "subCategory",
+    "_id": "4gmBGwifQuSypgRenUbVh5",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "icons-and-fonts",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_rev": "4gmBGwifQuSypgRenUbVeu",
+    "_createdAt": "2024-09-04T20:01:09Z",
+    "name": "Icons and Fonts 🔤",
+    "description": "Additional icon sets and font management utilities for Flutter apps.",
+    "_updatedAt": "2024-09-04T20:01:09Z",
+    "packagesCount": 2
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:11Z",
+    "_type": "subCategory",
+    "description": "Packages for managing app-wide themes and dynamic styling.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "tags": [],
+    "packagesCount": 2,
+    "_rev": "4gmBGwifQuSypgRenUbVlR",
+    "name": "Theming and Styling 🎭",
+    "_id": "4gmBGwifQuSypgRenUbVnc",
+    "_updatedAt": "2024-09-04T20:01:11Z",
+    "slug": {
+      "current": "theming-and-styling",
+      "_type": "slug"
+    }
+  },
+  {
+    "_type": "subCategory",
+    "tags": [],
+    "_rev": "4gmBGwifQuSypgRenUbVu9",
+    "name": "Network Utilities 🔌",
+    "description": "Tools for network operations, logging, and connectivity management.",
+    "_id": "4gmBGwifQuSypgRenUbVwK",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFcn",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:27Z",
+    "packagesCount": 6,
+    "_createdAt": "2024-09-04T20:01:27Z",
+    "slug": {
+      "current": "network-utilities",
+      "_type": "slug"
+    }
+  },
+  {
+    "packagesCount": 1,
+    "_rev": "4gmBGwifQuSypgRenUbW0g",
+    "_type": "subCategory",
+    "name": "Server 🖥️",
+    "description": "Packages for creating server-side applications in Dart.",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFcn",
+      "_type": "reference"
+    },
+    "_createdAt": "2024-09-04T20:01:28Z",
+    "_id": "4gmBGwifQuSypgRenUbW2r",
+    "_updatedAt": "2024-09-04T20:01:28Z",
+    "slug": {
+      "current": "server",
+      "_type": "slug"
+    },
+    "tags": []
+  },
+  {
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUHz",
+      "_type": "reference"
+    },
+    "tags": [],
+    "_rev": "4gmBGwifQuSypgRenUbW7D",
+    "_type": "subCategory",
+    "_id": "4gmBGwifQuSypgRenUbW9O",
+    "description": "Libraries for audio playback, recording, and processing.",
+    "_updatedAt": "2024-09-04T20:01:30Z",
+    "slug": {
+      "current": "audio",
+      "_type": "slug"
+    },
+    "packagesCount": 7,
+    "_createdAt": "2024-09-04T20:01:30Z",
+    "name": "Audio 🎵"
+  },
+  {
+    "_type": "subCategory",
+    "name": "Camera 📸",
+    "_id": "4gmBGwifQuSypgRenUbWFv",
+    "tags": [],
+    "_updatedAt": "2024-09-04T20:01:32Z",
+    "slug": {
+      "current": "camera",
+      "_type": "slug"
+    },
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:01:32Z",
+    "_rev": "4gmBGwifQuSypgRenUbWDk",
+    "description": "APIs for accessing and controlling device cameras.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUHz",
+      "_type": "reference"
+    }
+  },
+  {
+    "slug": {
+      "current": "record",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:01:33Z",
+    "_type": "subCategory",
+    "_id": "4gmBGwifQuSypgRenUbWMS",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUHz",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:33Z",
+    "_rev": "4gmBGwifQuSypgRenUbWKH",
+    "name": "Record 🎙️",
+    "description": "Packages specifically for audio recording functionality."
+  },
+  {
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:35Z",
+    "_rev": "4gmBGwifQuSypgRenUbWQo",
+    "_type": "subCategory",
+    "name": "Maps 🗺️",
+    "_id": "4gmBGwifQuSypgRenUbWSz",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUOW",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "maps",
+      "_type": "slug"
+    },
+    "tags": [],
+    "description": "Libraries for integrating maps and location-based services.",
+    "_updatedAt": "2024-09-04T20:01:35Z"
+  },
+  {
+    "description": "Utilities for file picking, selection, and cache management.",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf966",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:36Z",
+    "slug": {
+      "current": "file-operations",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 3,
+    "_rev": "4gmBGwifQuSypgRenUbWds",
+    "_type": "subCategory",
+    "name": "File Operations 📂",
+    "_id": "4gmBGwifQuSypgRenUbWg3",
+    "_createdAt": "2024-09-04T20:01:36Z"
+  },
+  {
+    "_updatedAt": "2024-09-04T20:01:37Z",
+    "slug": {
+      "current": "social-authentication",
+      "_type": "slug"
+    },
+    "tags": [],
+    "description": "Libraries for implementing social media sign-in functionality.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUV3",
+      "_type": "reference"
+    },
+    "_rev": "4gmBGwifQuSypgRenUbWkP",
+    "_type": "subCategory",
+    "name": "Social Authentication 🔑",
+    "_id": "4gmBGwifQuSypgRenUbWma",
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:01:37Z"
+  },
+  {
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:01:39Z",
+    "_rev": "4gmBGwifQuSypgRenUbWqw",
+    "_id": "4gmBGwifQuSypgRenUbWt7",
+    "tags": [],
+    "_type": "subCategory",
+    "name": "Charting Libraries 📈",
+    "description": "Tools for creating various types of charts and data visualizations.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUba",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:39Z",
+    "slug": {
+      "current": "charting-libraries",
+      "_type": "slug"
+    }
+  },
+  {
+    "_type": "subCategory",
+    "name": "Permissions 🔓",
+    "_id": "4gmBGwifQuSypgRenUbWze",
+    "_createdAt": "2024-09-04T20:01:40Z",
+    "_rev": "4gmBGwifQuSypgRenUbWxT",
+    "description": "APIs for handling and requesting system permissions.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUi7",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:40Z",
+    "slug": {
+      "current": "permissions",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 1
+  },
+  {
+    "slug": {
+      "_type": "slug",
+      "current": "code-generation"
+    },
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:01:43Z",
+    "_rev": "4gmBGwifQuSypgRenUbX40",
+    "description": "Utilities for automating code creation in Flutter projects.",
+    "_id": "4gmBGwifQuSypgRenUbX6B",
+    "_updatedAt": "2024-09-04T20:01:43Z",
+    "_type": "subCategory",
+    "name": "Code Generation 🏗️",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "tags": []
+  },
+  {
+    "_rev": "4gmBGwifQuSypgRenUbXAX",
+    "description": "Packages for code quality assurance and testing.",
+    "_updatedAt": "2024-09-04T20:01:44Z",
+    "slug": {
+      "current": "linting-and-testing",
+      "_type": "slug"
+    },
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:44Z",
+    "_type": "subCategory",
+    "name": "Linting and Testing 🧪",
+    "_id": "4gmBGwifQuSypgRenUbXCi",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "tags": []
+  },
+  {
+    "slug": {
+      "current": "mock-data",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 2,
+    "_type": "subCategory",
+    "description": "Tools for generating fake data for testing and prototyping.",
+    "_id": "4gmBGwifQuSypgRenUbXJF",
+    "_updatedAt": "2024-09-04T20:01:46Z",
+    "_createdAt": "2024-09-04T20:01:46Z",
+    "_rev": "4gmBGwifQuSypgRenUbXH4",
+    "name": "Mock Data 🎭",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    }
+  },
+  {
+    "slug": {
+      "current": "email-validation",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_type": "subCategory",
+    "_id": "4gmBGwifQuSypgRenUbXRx",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:47Z",
+    "description": "Packages for validating email addresses.",
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:01:47Z",
+    "_rev": "4gmBGwifQuSypgRenUbXPm",
+    "name": "Email Validation ✉️"
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:48Z",
+    "_rev": "4gmBGwifQuSypgRenUbXWJ",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "description": "Tools for parsing and manipulating XML data.",
+    "_id": "4gmBGwifQuSypgRenUbXYU",
+    "_updatedAt": "2024-09-04T20:01:48Z",
+    "slug": {
+      "_type": "slug",
+      "current": "xml-parsing"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_type": "subCategory",
+    "name": "XML Parsing 📄"
+  },
+  {
+    "_type": "subCategory",
+    "name": "Timezone 🌐",
+    "description": "Tools for handling timezone-related operations.",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:51Z",
+    "packagesCount": 1,
+    "_rev": "4gmBGwifQuSypgRenUbXcq",
+    "_id": "4gmBGwifQuSypgRenUbXf1",
+    "slug": {
+      "_type": "slug",
+      "current": "timezone"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:51Z"
+  },
+  {
+    "_id": "4gmBGwifQuSypgRenUbXlY",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:52Z",
+    "_rev": "4gmBGwifQuSypgRenUbXjN",
+    "_createdAt": "2024-09-04T20:01:52Z",
+    "_type": "subCategory",
+    "name": "Stream Transformation 🔄",
+    "description": "Utilities for transforming and manipulating data streams.",
+    "slug": {
+      "current": "stream-transformation",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 1
+  },
+  {
+    "_type": "subCategory",
+    "description": "Tools for Foreign Function Interface to interact with native code.",
+    "_id": "4gmBGwifQuSypgRenUbXwR",
+    "_updatedAt": "2024-09-04T20:01:59Z",
+    "slug": {
+      "current": "ffi",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:01:59Z",
+    "_rev": "4gmBGwifQuSypgRenUbXuG",
+    "name": "FFI 🔗",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf9US",
+      "_type": "reference"
+    }
+  },
+  {
+    "description": "Libraries for implementing push notification services.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUvB",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:01Z",
+    "slug": {
+      "_type": "slug",
+      "current": "push-notifications"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:02:01Z",
+    "_type": "subCategory",
+    "name": "Push Notifications 📲",
+    "_id": "4gmBGwifQuSypgRenUbY2y",
+    "packagesCount": 1,
+    "_rev": "4gmBGwifQuSypgRenUbY0n"
+  },
+  {
+    "_updatedAt": "2024-09-04T20:02:02Z",
+    "_createdAt": "2024-09-04T20:02:02Z",
+    "_rev": "4gmBGwifQuSypgRenUbY7K",
+    "_type": "subCategory",
+    "name": "Mobile Ads 📱💰",
+    "slug": {
+      "_type": "slug",
+      "current": "mobile-ads"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "description": "Packages for integrating mobile advertisements.",
+    "_id": "4gmBGwifQuSypgRenUbY9V",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbV1i",
+      "_type": "reference"
+    }
+  },
+  {
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:02:03Z",
+    "_rev": "4gmBGwifQuSypgRenUbYDr",
+    "_type": "subCategory",
+    "_updatedAt": "2024-09-04T20:02:03Z",
+    "name": "In-App Purchases 💳",
+    "description": "Tools for implementing and managing in-app purchases.",
+    "_id": "4gmBGwifQuSypgRenUbYG2",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbV1i",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "in-app-purchases",
+      "_type": "slug"
+    },
+    "tags": []
+  },
+  {
+    "tags": [],
+    "_createdAt": "2024-09-04T20:02:07Z",
+    "name": "Game Engines 🕹️",
+    "_updatedAt": "2024-09-04T20:02:07Z",
+    "slug": {
+      "current": "game-engines",
+      "_type": "slug"
+    },
+    "_id": "4gmBGwifQuSypgRenUbYT6",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAfACI",
+      "_type": "reference"
+    },
+    "packagesCount": 1,
+    "_rev": "4gmBGwifQuSypgRenUbYQv",
+    "_type": "subCategory",
+    "description": "Libraries for 2D game development in Flutter."
+  },
+  {
+    "_rev": "4gmBGwifQuSypgRenUbYXS",
+    "name": "Responsive Design 📐",
+    "description": "Utilities for implementing responsive UI designs.",
+    "slug": {
+      "current": "responsive-design",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:02:14Z",
+    "_type": "subCategory",
+    "_id": "4gmBGwifQuSypgRenUbYZd",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:14Z"
+  },
+  {
+    "_rev": "4gmBGwifQuSypgRenUbYgA",
+    "_type": "subCategory",
+    "name": "Timers ⏱️",
+    "tags": [],
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:02:17Z",
+    "description": "Packages for implementing precise timers and stopwatches.",
+    "_id": "4gmBGwifQuSypgRenUbYiL",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:17Z",
+    "slug": {
+      "current": "timers",
+      "_type": "slug"
+    }
+  },
+  {
+    "_createdAt": "2024-09-04T20:02:21Z",
+    "_rev": "4gmBGwifQuSypgRenUbYmh",
+    "name": "Value Types 🔢",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_type": "subCategory",
+    "description": "Packages for implementing value types in Dart.",
+    "_id": "4gmBGwifQuSypgRenUbYos",
+    "_updatedAt": "2024-09-04T20:02:21Z",
+    "slug": {
+      "_type": "slug",
+      "current": "value-types"
+    }
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:08Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFkh",
+    "_type": "subCategory",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "tags": [],
+    "packagesCount": 5,
+    "name": "Layout and Responsiveness 📏",
+    "description": "Tools for building adaptive and responsive layouts across different screen sizes.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFlU",
+    "_updatedAt": "2024-09-04T20:01:08Z",
+    "slug": {
+      "_type": "slug",
+      "current": "layout-and-responsiveness"
+    }
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:10Z",
+    "name": "Dialogs and Notifications 💬",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "tags": [],
+    "_updatedAt": "2024-09-04T20:01:10Z",
+    "slug": {
+      "current": "dialogs-and-notifications",
+      "_type": "slug"
+    },
+    "packagesCount": 6,
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFn4",
+    "_type": "subCategory",
+    "description": "Libraries for creating custom in-app alerts, toasts, and notifications.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFnr"
+  },
+  {
+    "name": "Progress Indicators 🔄",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFqE",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:12Z",
+    "packagesCount": 5,
+    "_createdAt": "2024-09-04T20:01:12Z",
+    "_type": "subCategory",
+    "tags": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFpR",
+    "description": "Customizable loading animations and progress visualization widgets.",
+    "slug": {
+      "current": "progress-indicators",
+      "_type": "slug"
+    }
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:13Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFro",
+    "_type": "subCategory",
+    "name": "Miscellaneous UI 🧩",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "miscellaneous-ui",
+      "_type": "slug"
+    },
+    "packagesCount": 10,
+    "description": "Diverse collection of specialized UI components and effects.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFsb",
+    "_updatedAt": "2024-09-04T20:01:13Z",
+    "tags": []
+  },
+  {
+    "packagesCount": 2,
+    "_type": "subCategory",
+    "name": "Calendar 📅",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFuy",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:14Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFuB",
+    "description": "Widgets for implementing calendars and date pickers.",
+    "_updatedAt": "2024-09-04T20:01:14Z",
+    "slug": {
+      "current": "calendar",
+      "_type": "slug"
+    }
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:15Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFwY",
+    "slug": {
+      "_type": "slug",
+      "current": "layout"
+    },
+    "tags": [],
+    "_updatedAt": "2024-09-04T20:01:15Z",
+    "packagesCount": 1,
+    "_type": "subCategory",
+    "name": "Layout 📐",
+    "description": "Advanced layout control and post-layout operation utilities.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPFxL",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:16Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPFzi",
+    "_updatedAt": "2024-09-04T20:01:16Z",
+    "slug": {
+      "current": "bottom-navigation",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 3,
+    "_type": "subCategory",
+    "name": "Bottom Navigation 🚀",
+    "description": "Custom bottom navigation bar implementations with various styles.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPG0V",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTyO",
+      "_type": "reference"
+    }
+  },
+  {
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:01:18Z",
+    "_type": "subCategory",
+    "name": "Drawers 🗄️",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTyO",
+      "_type": "reference"
+    },
+    "_rev": "EyMM3FfV3Ih5n1NWrhPG25",
+    "description": "Packages for implementing advanced drawer layouts and animations.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPG2s",
+    "_updatedAt": "2024-09-04T20:01:18Z",
+    "slug": {
+      "current": "drawers",
+      "_type": "slug"
+    },
+    "tags": []
+  },
+  {
+    "tags": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhPG4S",
+    "_type": "subCategory",
+    "description": "State management solutions using the Business Logic Component pattern.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbU4v",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:19Z",
+    "slug": {
+      "current": "bloc-pattern",
+      "_type": "slug"
+    },
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:19Z",
+    "name": "BLoC Pattern 🧱",
+    "_id": "EyMM3FfV3Ih5n1NWrhPG5F"
+  },
+  {
+    "slug": {
+      "current": "mobx",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhPG9C",
+    "name": "MobX 📊",
+    "_id": "EyMM3FfV3Ih5n1NWrhPG9z",
+    "_updatedAt": "2024-09-04T20:01:21Z",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbU4v",
+      "_type": "reference"
+    },
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:01:21Z",
+    "_type": "subCategory",
+    "description": "Reactive state management implementation using MobX for Flutter."
+  },
+  {
+    "_id": "EyMM3FfV3Ih5n1NWrhPGCM",
+    "_updatedAt": "2024-09-04T20:01:22Z",
+    "slug": {
+      "current": "other-state-management",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:22Z",
+    "name": "Other State Management 🔄",
+    "description": "Alternative state management solutions and utilities.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbU4v",
+      "_type": "reference"
+    },
+    "packagesCount": 3,
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGBZ",
+    "_type": "subCategory"
+  },
+  {
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGDw",
+    "description": "Packages for storing data locally on the device.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGEj",
+    "category": {
+      "_type": "reference",
+      "_ref": "4gmBGwifQuSypgRenUbUBS"
+    },
+    "slug": {
+      "current": "local-storage",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 3,
+    "_createdAt": "2024-09-04T20:01:23Z",
+    "_type": "subCategory",
+    "name": "Local Storage 📦",
+    "_updatedAt": "2024-09-04T20:01:23Z"
+  },
+  {
+    "_type": "subCategory",
+    "name": "Databases 🗃️",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGH6",
+    "_updatedAt": "2024-09-04T20:01:24Z",
+    "slug": {
+      "current": "databases",
+      "_type": "slug"
+    },
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:24Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGGJ",
+    "description": "Libraries for integrating local SQL and NoSQL databases.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUBS",
+      "_type": "reference"
+    },
+    "tags": []
+  },
+  {
+    "slug": {
+      "current": "image-processing",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGJT",
+    "description": "Tools for image picking, caching, compression, and saving.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGKG",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUHz",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:29Z",
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:29Z",
+    "_type": "subCategory",
+    "name": "Image Processing 🖼️"
+  },
+  {
+    "slug": {
+      "current": "location-services",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:34Z",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGMd",
+    "_type": "subCategory",
+    "name": "Location Services 📍",
+    "description": "APIs for accessing device location and geolocation services.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUOW",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:34Z",
+    "packagesCount": 2,
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGLq"
+  },
+  {
+    "_updatedAt": "2024-09-04T20:01:38Z",
+    "slug": {
+      "current": "local-authentication",
+      "_type": "slug"
+    },
+    "_type": "subCategory",
+    "description": "Packages for device-level authentication like biometrics.",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGRN",
+    "name": "Local Authentication 🔒",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGSA",
+    "category": {
+      "_type": "reference",
+      "_ref": "4gmBGwifQuSypgRenUbUV3"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:01:38Z"
+  },
+  {
+    "_updatedAt": "2024-09-04T20:01:41Z",
+    "packagesCount": 2,
+    "_type": "subCategory",
+    "name": "Device Information 📱",
+    "description": "Packages for accessing device-specific details and identifiers.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGUX",
+    "_createdAt": "2024-09-04T20:01:41Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGTk",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUi7",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "device-information",
+      "_type": "slug"
+    },
+    "tags": []
+  },
+  {
+    "tags": [],
+    "packagesCount": 2,
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGW7",
+    "name": "Logging and Debugging 🐛",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGWu",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:42Z",
+    "_createdAt": "2024-09-04T20:01:42Z",
+    "_type": "subCategory",
+    "description": "Tools for implementing logging and debugging features.",
+    "slug": {
+      "current": "logging-and-debugging",
+      "_type": "slug"
+    }
+  },
+  {
+    "_type": "subCategory",
+    "description": "Utilities for working with MIME types.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGar",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "mime",
+      "_type": "slug"
+    },
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGa4",
+    "_createdAt": "2024-09-04T20:01:49Z",
+    "name": "MIME 📎",
+    "_updatedAt": "2024-09-04T20:01:49Z",
+    "tags": [],
+    "packagesCount": 1
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:50Z",
+    "_type": "subCategory",
+    "name": "YAML 📝",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGdE",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "yaml",
+      "_type": "slug"
+    },
+    "packagesCount": 1,
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGcR",
+    "description": "Packages for parsing and manipulating YAML data.",
+    "_updatedAt": "2024-09-04T20:01:50Z",
+    "tags": []
+  },
+  {
+    "_type": "subCategory",
+    "_updatedAt": "2024-09-04T20:01:53Z",
+    "tags": [],
+    "packagesCount": 3,
+    "_createdAt": "2024-09-04T20:01:53Z",
+    "description": "Packages for integrating web content and features in Flutter apps.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGfb",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf9US",
+      "_type": "reference"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "web-integration"
+    },
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGeo",
+    "name": "Web Integration 🌐"
+  },
+  {
+    "category": {
+      "_type": "reference",
+      "_ref": "t8DYBEKn49O4mjbyRAf9US"
+    },
+    "slug": {
+      "current": "desktop-integration",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:01:54Z",
+    "_type": "subCategory",
+    "name": "Desktop Integration 🖥️",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGhB",
+    "description": "Libraries for desktop-specific functionality in Flutter apps.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGhy",
+    "_updatedAt": "2024-09-04T20:01:54Z"
+  },
+  {
+    "_createdAt": "2024-09-04T20:02:04Z",
+    "description": "Libraries for viewing, creating, and manipulating PDF files.",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf9xg",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:04Z",
+    "slug": {
+      "current": "pdf-viewing-and-processing",
+      "_type": "slug"
+    },
+    "packagesCount": 4,
+    "_type": "subCategory",
+    "name": "PDF Viewing and Processing 📚",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGp5",
+    "tags": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGoI"
+  },
+  {
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFj7",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:05Z",
+    "slug": {
+      "current": "barcode-scanning-and-generation",
+      "_type": "slug"
+    },
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:02:05Z",
+    "name": "Barcode Scanning and Generation 📊",
+    "description": "Tools for scanning and generating barcodes and QR codes.",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGqf",
+    "_type": "subCategory",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGrS",
+    "tags": []
+  },
+  {
+    "packagesCount": 7,
+    "_createdAt": "2024-09-04T20:02:09Z",
+    "name": "UI Helpers 🧩",
+    "tags": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGuc",
+    "_type": "subCategory",
+    "description": "Miscellaneous utilities for various UI-related tasks.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGvP",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:09Z",
+    "slug": {
+      "current": "ui-helpers",
+      "_type": "slug"
+    }
+  },
+  {
+    "_updatedAt": "2024-09-04T20:02:11Z",
+    "_createdAt": "2024-09-04T20:02:11Z",
+    "description": "Diverse set of packages for various app features and integrations.",
+    "_id": "EyMM3FfV3Ih5n1NWrhPGxm",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "app-functionality",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 14,
+    "_rev": "EyMM3FfV3Ih5n1NWrhPGwz",
+    "_type": "subCategory",
+    "name": "App Functionality 🛠️"
+  },
+  {
+    "_type": "subCategory",
+    "description": "Tools for integrating on-device machine learning capabilities.",
+    "tags": [],
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:12Z",
+    "slug": {
+      "_type": "slug",
+      "current": "machine-learning"
+    },
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:02:12Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPH09",
+    "name": "Machine Learning 🤖",
+    "_id": "EyMM3FfV3Ih5n1NWrhPH0w"
+  },
+  {
+    "_id": "EyMM3FfV3Ih5n1NWrhPH3J",
+    "packagesCount": 1,
+    "description": "Packages for app store-related functionalities.",
+    "_type": "subCategory",
+    "name": "App Store Integration 📦",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:13Z",
+    "slug": {
+      "current": "app-store-integration",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:02:13Z",
+    "_rev": "EyMM3FfV3Ih5n1NWrhPH2W"
+  },
+  {
+    "_id": "EyMM3FfV3Ih5n1NWrhPHC0",
+    "slug": {
+      "current": "analytics",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhPHBD",
+    "name": "Analytics 📊",
+    "description": "Libraries for integrating app analytics and event tracking.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:18Z",
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:02:18Z",
+    "_type": "subCategory"
+  },
+  {
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:05Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfAM2",
+    "_updatedAt": "2024-09-04T20:01:05Z",
+    "_type": "subCategory",
+    "name": "Visual Effects ✨",
+    "description": "Libraries for adding visual enhancements like shimmer, glow, and particle effects.",
+    "_id": "t8DYBEKn49O4mjbyRAfAQu",
+    "category": {
+      "_type": "reference",
+      "_ref": "4gmBGwifQuSypgRenUbTrr"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "visual-effects"
+    },
+    "tags": []
+  },
+  {
+    "description": "Packages for creating customizable input fields and form management.",
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:06Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfAfW",
+    "_type": "subCategory",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbTrr",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:06Z",
+    "slug": {
+      "current": "input-and-forms",
+      "_type": "slug"
+    },
+    "packagesCount": 6,
+    "name": "Input and Forms 📝",
+    "_id": "t8DYBEKn49O4mjbyRAfAkO"
+  },
+  {
+    "slug": {
+      "current": "page-transitions",
+      "_type": "slug"
+    },
+    "packagesCount": 1,
+    "name": "Page Transitions 🔀",
+    "category": {
+      "_type": "reference",
+      "_ref": "4gmBGwifQuSypgRenUbTyO"
+    },
+    "description": "Libraries for creating custom transitions between screens or pages.",
+    "_id": "t8DYBEKn49O4mjbyRAfB3s",
+    "_updatedAt": "2024-09-04T20:01:17Z",
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:17Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfAz0",
+    "_type": "subCategory"
+  },
+  {
+    "name": "Provider and Riverpod 🏗️",
+    "description": "Dependency injection and state management tools based on the provider pattern.",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbU4v",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:20Z",
+    "slug": {
+      "current": "provider-and-riverpod",
+      "_type": "slug"
+    },
+    "packagesCount": 4,
+    "_createdAt": "2024-09-04T20:01:20Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfBDc",
+    "_type": "subCategory",
+    "_id": "t8DYBEKn49O4mjbyRAfBIU",
+    "tags": []
+  },
+  {
+    "_createdAt": "2024-09-04T20:01:25Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfBSE",
+    "name": "File System 📂",
+    "_id": "t8DYBEKn49O4mjbyRAfBX6",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUBS",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:25Z",
+    "slug": {
+      "current": "file-system",
+      "_type": "slug"
+    },
+    "packagesCount": 2,
+    "description": "Utilities for file and directory operations on the device.",
+    "tags": [],
+    "_type": "subCategory"
+  },
+  {
+    "tags": [],
+    "_rev": "t8DYBEKn49O4mjbyRAfBgq",
+    "_type": "subCategory",
+    "name": "HTTP Clients 🌍",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFcn",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "http-clients",
+      "_type": "slug"
+    },
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:01:26Z",
+    "description": "Libraries for making HTTP requests and handling RESTful services.",
+    "_id": "t8DYBEKn49O4mjbyRAfBli",
+    "_updatedAt": "2024-09-04T20:01:26Z"
+  },
+  {
+    "_id": "t8DYBEKn49O4mjbyRAfCJo",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbUHz",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:31Z",
+    "tags": [],
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:01:31Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfCEw",
+    "name": "Video 🎥",
+    "_type": "subCategory",
+    "description": "Packages for video playback and YouTube integration.",
+    "slug": {
+      "current": "video",
+      "_type": "slug"
+    }
+  },
+  {
+    "name": "Data Manipulation 🔧",
+    "_id": "t8DYBEKn49O4mjbyRAfCdI",
+    "category": {
+      "_ref": "EyMM3FfV3Ih5n1NWrhPFgk",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "data-manipulation",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:45Z",
+    "_type": "subCategory",
+    "description": "Utilities for various data manipulation tasks.",
+    "_updatedAt": "2024-09-04T20:01:45Z",
+    "packagesCount": 6,
+    "_rev": "t8DYBEKn49O4mjbyRAfCYQ"
+  },
+  {
+    "_rev": "t8DYBEKn49O4mjbyRAfE7q",
+    "_type": "subCategory",
+    "_id": "t8DYBEKn49O4mjbyRAfECi",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf9US",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "mobile-integration",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 4,
+    "name": "Mobile Integration 📱",
+    "description": "Packages for accessing mobile-specific features and sensors.",
+    "_updatedAt": "2024-09-04T20:01:55Z",
+    "_createdAt": "2024-09-04T20:01:55Z"
+  },
+  {
+    "_type": "subCategory",
+    "name": "Sharing 📤",
+    "description": "Tools for implementing content sharing functionality.",
+    "_id": "t8DYBEKn49O4mjbyRAfERK",
+    "_updatedAt": "2024-09-04T20:01:56Z",
+    "slug": {
+      "current": "sharing",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_rev": "t8DYBEKn49O4mjbyRAfEMS",
+    "_createdAt": "2024-09-04T20:01:56Z",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf9US",
+      "_type": "reference"
+    },
+    "packagesCount": 1
+  },
+  {
+    "slug": {
+      "current": "app-review-and-update",
+      "_type": "slug"
+    },
+    "_createdAt": "2024-09-04T20:01:57Z",
+    "name": "App Review and Update 🔄",
+    "category": {
+      "_type": "reference",
+      "_ref": "t8DYBEKn49O4mjbyRAf9US"
+    },
+    "description": "Packages for in-app review prompts and update management.",
+    "_id": "t8DYBEKn49O4mjbyRAfEfw",
+    "_updatedAt": "2024-09-04T20:01:57Z",
+    "tags": [],
+    "packagesCount": 2,
+    "_rev": "t8DYBEKn49O4mjbyRAfEb4",
+    "_type": "subCategory"
+  },
+  {
+    "slug": {
+      "current": "contacts",
+      "_type": "slug"
+    },
+    "packagesCount": 1,
+    "name": "Contacts 👥",
+    "_id": "t8DYBEKn49O4mjbyRAfEuY",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf9US",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:01:58Z",
+    "tags": [],
+    "_createdAt": "2024-09-04T20:01:58Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfEpg",
+    "_type": "subCategory",
+    "description": "APIs for accessing and managing device contacts."
+  },
+  {
+    "description": "Packages for Windows-specific functionality in desktop apps.",
+    "category": {
+      "_ref": "t8DYBEKn49O4mjbyRAf9US",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "win32",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_rev": "t8DYBEKn49O4mjbyRAfF9A",
+    "_type": "subCategory",
+    "name": "Win32 🪟",
+    "_updatedAt": "2024-09-04T20:02:00Z",
+    "packagesCount": 1,
+    "_createdAt": "2024-09-04T20:02:00Z",
+    "_id": "t8DYBEKn49O4mjbyRAfFE2"
+  },
+  {
+    "description": "Packages for integrating Supabase backend services.",
+    "slug": {
+      "current": "supabase",
+      "_type": "slug"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:02:06Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfGxC",
+    "_type": "subCategory",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbV8F",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:06Z",
+    "packagesCount": 1,
+    "name": "Supabase 🗄️",
+    "_id": "t8DYBEKn49O4mjbyRAfH24"
+  },
+  {
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVEm",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "localization",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_rev": "t8DYBEKn49O4mjbyRAfHBo",
+    "_type": "subCategory",
+    "description": "Tools for implementing multi-language support in apps.",
+    "_createdAt": "2024-09-04T20:02:08Z",
+    "name": "Localization 🌐",
+    "_id": "t8DYBEKn49O4mjbyRAfHGg",
+    "_updatedAt": "2024-09-04T20:02:08Z"
+  },
+  {
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "slug": {
+      "current": "html-rendering",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:02:10Z",
+    "name": "HTML Rendering 📄",
+    "description": "Packages for rendering HTML content within Flutter apps.",
+    "_id": "t8DYBEKn49O4mjbyRAfHVI",
+    "_rev": "t8DYBEKn49O4mjbyRAfHQQ",
+    "_type": "subCategory",
+    "_updatedAt": "2024-09-04T20:02:10Z"
+  },
+  {
+    "slug": {
+      "current": "networking",
+      "_type": "slug"
+    },
+    "packagesCount": 2,
+    "_createdAt": "2024-09-04T20:02:15Z",
+    "_type": "subCategory",
+    "description": "Specialized networking libraries for MQTT and gRPC.",
+    "_id": "t8DYBEKn49O4mjbyRAfHom",
+    "category": {
+      "_type": "reference",
+      "_ref": "4gmBGwifQuSypgRenUbVLJ"
+    },
+    "_updatedAt": "2024-09-04T20:02:15Z",
+    "tags": [],
+    "_rev": "t8DYBEKn49O4mjbyRAfHju",
+    "name": "Networking 🌐"
+  },
+  {
+    "slug": {
+      "current": "debugging",
+      "_type": "slug"
+    },
+    "_createdAt": "2024-09-04T20:02:16Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfHyW",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "_updatedAt": "2024-09-04T20:02:16Z",
+    "_id": "t8DYBEKn49O4mjbyRAfI3O",
+    "tags": [],
+    "packagesCount": 1,
+    "_type": "subCategory",
+    "name": "Debugging 🐛",
+    "description": "Tools for advanced debugging and error tracking."
+  },
+  {
+    "_createdAt": "2024-09-04T20:02:19Z",
+    "name": "Input Formatting 📝",
+    "category": {
+      "_type": "reference",
+      "_ref": "4gmBGwifQuSypgRenUbVLJ"
+    },
+    "_id": "t8DYBEKn49O4mjbyRAfIMs",
+    "_updatedAt": "2024-09-04T20:02:19Z",
+    "slug": {
+      "current": "input-formatting",
+      "_type": "slug"
+    },
+    "tags": [],
+    "packagesCount": 1,
+    "_rev": "t8DYBEKn49O4mjbyRAfII0",
+    "_type": "subCategory",
+    "description": "Utilities for formatting specialized text inputs."
+  },
+  {
+    "description": "Libraries for parsing various data formats.",
+    "_id": "t8DYBEKn49O4mjbyRAfIgM",
+    "category": {
+      "_ref": "4gmBGwifQuSypgRenUbVLJ",
+      "_type": "reference"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "parsing"
+    },
+    "tags": [],
+    "_createdAt": "2024-09-04T20:02:20Z",
+    "_rev": "t8DYBEKn49O4mjbyRAfIbU",
+    "name": "Parsing 📝",
+    "packagesCount": 2,
+    "_type": "subCategory",
+    "_updatedAt": "2024-09-04T20:02:20Z"
+  }
+]

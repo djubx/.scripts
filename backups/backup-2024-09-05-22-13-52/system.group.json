@@ -1,0 +1,198 @@
+[
+  {
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": [
+      "pedQgsAMK",
+      "pbnYWbmK7"
+    ],
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp",
+    "_type": "system.group",
+    "_id": "_.groups.administrator",
+    "_updatedAt": "2024-09-04T14:08:13Z",
+    "grants": [
+      {
+        "filter": "_id in path(\"**\")",
+        "permissions": [
+          "history",
+          "read",
+          "update",
+          "create"
+        ]
+      },
+      {
+        "filter": "(_id in path(\"**\")) && _id in path(\"drafts.**\")",
+        "permissions": [
+          "history",
+          "read",
+          "update",
+          "create"
+        ]
+      }
+    ]
+  },
+  {
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp",
+    "_type": "system.group",
+    "_id": "_.groups.create-session",
+    "_updatedAt": "2024-08-28T04:37:17Z",
+    "grants": [],
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": []
+  },
+  {
+    "grants": [
+      {
+        "filter": "_id in path(\"*\")",
+        "permissions": [
+          "read"
+        ]
+      }
+    ],
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": [
+      "everyone"
+    ],
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp",
+    "_type": "system.group",
+    "_id": "_.groups.public",
+    "_updatedAt": "2024-08-28T04:37:17Z"
+  },
+  {
+    "members": [
+      "p-kJWM6FO45gkj"
+    ],
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp",
+    "_type": "system.group",
+    "_id": "_.groups.read",
+    "_updatedAt": "2024-09-04T14:27:21Z",
+    "grants": [],
+    "_createdAt": "2024-08-28T04:37:17Z"
+  },
+  {
+    "_type": "system.group",
+    "_id": "_.groups.sanity.contributor",
+    "_updatedAt": "2024-08-28T04:37:17Z",
+    "grants": [
+      {
+        "filter": "_id in path(\"**\")",
+        "permissions": [
+          "history",
+          "read"
+        ]
+      },
+      {
+        "filter": "(_id in path(\"**\")) && _id in path(\"drafts.**\")",
+        "permissions": [
+          "history",
+          "read",
+          "update",
+          "create"
+        ]
+      }
+    ],
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": [],
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp"
+  },
+  {
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp",
+    "_type": "system.group",
+    "_id": "_.groups.sanity.developer",
+    "_updatedAt": "2024-09-04T19:40:35Z",
+    "grants": [
+      {
+        "filter": "_id in path(\"**\")",
+        "permissions": [
+          "history",
+          "read",
+          "update",
+          "create"
+        ]
+      },
+      {
+        "filter": "(_id in path(\"**\")) && _id in path(\"drafts.**\")",
+        "permissions": [
+          "history",
+          "read",
+          "update",
+          "create"
+        ]
+      }
+    ],
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": [
+      "p-HwjbUnjGhC6L"
+    ]
+  },
+  {
+    "_type": "system.group",
+    "_id": "_.groups.sanity.editor",
+    "_updatedAt": "2024-09-04T19:40:44Z",
+    "grants": [
+      {
+        "filter": "_id in path(\"**\")",
+        "permissions": [
+          "history",
+          "read",
+          "update",
+          "create"
+        ]
+      },
+      {
+        "filter": "(_id in path(\"**\")) && _id in path(\"drafts.**\")",
+        "permissions": [
+          "history",
+          "read",
+          "update",
+          "create"
+        ]
+      }
+    ],
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": [
+      "p-nA5qxzgZ6vL9",
+      "p-PnHhZNVeilZR",
+      "p-rGVUVPsGGqIl"
+    ],
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp"
+  },
+  {
+    "grants": [
+      {
+        "filter": "_id in path(\"**\")",
+        "permissions": [
+          "history",
+          "read"
+        ]
+      },
+      {
+        "filter": "(_id in path(\"**\")) && _id in path(\"drafts.**\")",
+        "permissions": [
+          "history",
+          "read"
+        ]
+      }
+    ],
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": [
+      "p-kJWM6FO45gkj"
+    ],
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp",
+    "_type": "system.group",
+    "_id": "_.groups.sanity.viewer",
+    "_updatedAt": "2024-09-04T14:27:21Z"
+  },
+  {
+    "_type": "system.group",
+    "_id": "_.groups.write",
+    "_updatedAt": "2024-09-04T19:40:44Z",
+    "grants": [],
+    "_createdAt": "2024-08-28T04:37:17Z",
+    "members": [
+      "p-nA5qxzgZ6vL9",
+      "p-PnHhZNVeilZR",
+      "p-rGVUVPsGGqIl"
+    ],
+    "_rev": "EyMM3FfV3Ih5n1NWrhO6Bp"
+  }
+]
