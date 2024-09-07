@@ -4,6 +4,8 @@ const categoriesData = require('./categories.json');
 const { deleteAllCategories, deleteAllSubCategories } = require('./deleteCategories');
 const { updateCategories, updateSubCategories } = require('./updateCategories');
 const { createCategories, createSubCategories } = require('./createCategories');
+const fetchPackageNames = require('./old_scripts/fetchPackageNames');
+
 
 const client = createClient({
 	projectId: process.env.NEXT_PUBLIC_SANITY_PROJECT_ID,
@@ -89,7 +91,10 @@ async function main() {
 		// await updateSubCategories();
 		// await updatePackageSubCategories();
         // await deleteAllSubCategories();
-        await listPackagesWithNoSubCategories();
+        // await listPackagesWithNoSubCategories();
+
+		await fetchPackageNames();
+
 		console.log('Category and subcategory update process completed successfully.');
 	} catch (error) {
 		console.error('Error in main process:', error);

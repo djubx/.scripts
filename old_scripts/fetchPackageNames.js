@@ -1,7 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-async function fetchPackageNames(maxPages = 20) {
+async function fetchPackageNames(maxPages = 40) {
   let allPackages = [];
 
   for (let page = 1; page <= maxPages; page++) {
@@ -36,7 +36,7 @@ module.exports = fetchPackageNames;
 
 // If this script is run directly, fetch package names for 3 pages
 if (require.main === module) {
-  fetchPackageNames(20).then(packages => {
+  fetchPackageNames(40).then(packages => {
     const fs = require('fs');
     fs.writeFileSync('packagesTargetList.json', JSON.stringify(packages, null, 2));
     console.log(`Total packages found: ${packages.length}`);
