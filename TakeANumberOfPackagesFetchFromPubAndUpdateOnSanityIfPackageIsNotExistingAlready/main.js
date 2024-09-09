@@ -30,24 +30,33 @@ async function fetchPackageNames(maxPages) {
       const url = `https://pub.dev/packages?page=${page}`;
       console.log(`Fetching packages from page ${page}...`);
   
-      try {
-        const response = await axios.get(url);
-        const $ = cheerio.load(response.data);
+      let retries = 100;
+      while (retries > 0) {
+        try {
+          const response = await axios.get(url);
+          const $ = cheerio.load(response.data);
   
-        const packages = $('.packages-item')
-          .map((_, element) => {
-            const packageName = $(element).find('.packages-title a').text().trim();
-            return packageName;
-          })
-          .get();
+          const packages = $('.packages-item')
+            .map((_, element) => {
+              const packageName = $(element).find('.packages-title a').text().trim();
+              return packageName;
+            })
+            .get();
   
-        allPackages = allPackages.concat(packages);
+          allPackages = allPackages.concat(packages);
   
-        console.log(`Found ${packages.length} packages on page ${page}`);
-  
-      } catch (error) {
-        console.error(`Error fetching page ${page}:`, error.message);
-        break;
+          console.log(`Found ${packages.length} packages on page ${page}`);
+          break;
+        } catch (error) {
+          console.error(`Error fetching page ${page}:`, error.message);
+          retries--;
+          if (retries === 0) {
+            console.error(`Failed to fetch page ${page} after 3 retries. Skipping...`);
+          } else {
+            console.log(`Retrying page ${page}... (${retries} retries left)`);
+            await new Promise(resolve => setTimeout(resolve, 5000)); // Wait 5 seconds before retrying
+          }
+        }
       }
     }
 
@@ -128,10 +137,10 @@ async function uploadImageToSanity(imageUrl) {
     }
   }
 
-    async function createPackage(packageData) {
+    async function createPackage(packageData, metadata) {
         try {
           let packageImage = null;
-          if (packageData.thumbnail) {
+          if (packageData.thumbnail && packageData.thumbnail !== 'https://pub.dev/undefined') {
             packageImage = await uploadImageToSanity(packageData.thumbnail);
           }
       
@@ -144,21 +153,16 @@ async function uploadImageToSanity(imageUrl) {
             },
             author: packageData.publisher,
             shortDescription: packageData.description,
+            description: metadata.description,
+            tutorial: metadata.tutorial,
+            example: metadata.main,
             packageImage: packageImage,
-            subCategories: [
-              {
-                _key: "b67722e94ec1",
-                _ref: "7a9c3d73-c421-49a9-9b16-2f3b4a96416c",
-                _type: "reference"
-              }
-            ],
             platforms: packageData.platform_data.map(platform => platform.toLowerCase()),
             lastUpdate: new Date(packageData.last_update).toISOString(),
             likesCount: parseInt(packageData.likes),
             pubPoint: parseInt(packageData.points),
             tutorialIncluded: true,
-            tags: packageData.hashtags,
-            description: packageData.description
+            tags: packageData.hashtags
           });
           console.log(`Created package with ID: ${result._id}`);
         } catch (error) {
@@ -169,12 +173,20 @@ async function uploadImageToSanity(imageUrl) {
         }
       }
 
-      // Create all packages
+// Create all packages
+let universalCount = 0;
 async function createAllPackages() {
     const packagesData = JSON.parse(fs.readFileSync('packages.json', 'utf8'));
+    const serverPackages = await client.fetch(`*[_type == "package"]`);
       for (const packageData of packagesData) {
+        if (serverPackages.some(serverPackage => serverPackage.name === packageData.title)) {
+          console.log(`Package ${packageData.title} already exists on server`);
+          continue;
+        }
         try {
-          await createPackage(packageData);
+          // load extractedDataPackages.json
+      const extractedDataPackages = JSON.parse(fs.readFileSync('extractedDataPackages.json', 'utf8'));
+          await createPackage(packageData, extractedDataPackages.filter(item => item.packageName === packageData.title)[0]);
         } catch (error) {
           console.error('Failed to create package:', packageData.title);
           console.error('Error:', error);
@@ -185,12 +197,55 @@ async function createAllPackages() {
 }
 
 async function main() {
-  console.log('Starting the script...');
-  const packageNames = await fetchPackageNames(howManyPackagesToFetchFromPub / 10);
-  console.log('packageNames', packageNames);
-  const packageData = await fetchAndAppendPackages(packageNames);
-  console.log('packageData', packageData);
-  createAllPackages();
+//   // Fetch packages with undefined tutorials
+//   packagesWithoutTutorials = await client.fetch(`*[_type == "package"]`);
+//   packagesWithoutTutorials = packagesWithoutTutorials.filter(pkg =>  pkg.tutorial == undefined);
+  
+//   console.log(`Found ${packagesWithoutTutorials.length} packages without tutorials`);
+
+//   // Log the names of packages without tutorials
+//   packagesWithoutTutorials.forEach(pkg => {
+//     // console.log(`Package without tutorial: ${pkg.name}`);
+//   });
+
+//   // Uncomment the following lines if you want to delete these packages
+//   let deletedPackages = [];
+//   for (const package of packagesWithoutTutorials) {
+//     // await client.delete(package._id);
+//     // console.log(`Deleted package: ${package.name}`);
+//     deletedPackages.push(package.name);
+//   }
+//   deletedPackages.sort();
+//   console.log(deletedPackages);
+
+//   let items = []
+// console.log(items.length);
+// const packagesWithTutorials = await client.fetch(`*[_type == "package"]`);
+// console.log(packagesWithTutorials);
+// const listOfPackagesWithTutorials = packagesWithTutorials.map(item => item.name);
+// console.log(listOfPackagesWithTutorials.length);
+
+// // filter items for items which are not in packagesWithTutorials
+// finalList = [];
+// console.log(listOfPackagesWithTutorials);
+// for (const item of items) {
+//   if (!listOfPackagesWithTutorials.includes(item.packageName)) {
+//     finalList.push(item);
+//   }
+// }
+// console.log(finalList);
+// onlyPackageNames = finalList.map(item => item.packageName);
+// // write finalList to a file
+// fs.writeFileSync('finalList.json', JSON.stringify(onlyPackageNames, null, 2));
+
+  // // await createMetadata();
+
+  // // // Uncomment if you want to recreate packages after deletion
+  // await fetchPackageNames(1000);
+
+  // // // Fetch updated count after operations
+  // const updatedPackagesCount = await client.fetch(`count(*[_type == "package"])`);
+  // console.log(`Total packages after operation: ${updatedPackagesCount}`);
 }
 
 main();

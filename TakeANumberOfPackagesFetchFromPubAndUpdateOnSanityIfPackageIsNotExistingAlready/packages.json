@@ -1,0 +1,4824 @@
+[
+  {
+    "title": "upgrader",
+    "likes": "2033",
+    "points": "160",
+    "popularity": "99",
+    "description": "Flutter package for prompting users to upgrade when there is a newer version of the app in the store.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 4, 2024",
+    "last_version": "11.0.0",
+    "publisher": "larryaasen.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_webrtc",
+    "likes": "1130",
+    "points": "160",
+    "popularity": "98",
+    "description": "Flutter WebRTC plugin for iOS/Android/Destkop/Web, based on GoogleWebRTC.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 4, 2024",
+    "last_version": "0.11.7",
+    "publisher": "flutter-webrtc.org",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "dart_jsonwebtoken",
+    "likes": "270",
+    "points": "160",
+    "popularity": "99",
+    "description": "A dart implementation of the famous javascript library 'jsonwebtoken' (JWT).",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 25, 2024",
+    "last_version": "2.14.0",
+    "publisher": "jonasroussel.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "audio_session",
+    "likes": "272",
+    "points": "160",
+    "popularity": "99",
+    "description": "Sets the iOS audio session category and Android audio attributes for your app, and manages your app's audio focus, mixing and ducking behaviour.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#audio",
+      "#audio-session"
+    ],
+    "last_update": "Jul 17, 2024",
+    "last_version": "0.1.21",
+    "publisher": "ryanheise.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "macOS",
+      "web"
+    ]
+  },
+  {
+    "title": "localstorage",
+    "likes": "361",
+    "points": "160",
+    "popularity": "98",
+    "description": "LocalStorage for Flutter. Alternative to React Native's AsyncStorage.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 1, 2024",
+    "last_version": "5.0.0",
+    "publisher": "lesnitsky.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "background_fetch",
+    "likes": "1129",
+    "points": "160",
+    "popularity": "97",
+    "description": "Periodic callbacks in the background for both iOS and Android.  Includes Android Headless implementation.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 6, 2024",
+    "last_version": "1.3.6",
+    "publisher": "transistorsoft.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "jovial_svg",
+    "likes": "193",
+    "points": "160",
+    "popularity": "99",
+    "description": "SVG - Robust rendering of Scalable Vector Graphic images, supporting a well-defined profile of SVG, a fast-loading binary storage format, and animation.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 3, 2024",
+    "last_version": "1.1.22",
+    "publisher": "jovial.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "buttons_tabbar",
+    "likes": "383",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter package that implements a TabBar where each label is a toggle button.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 19, 2024",
+    "last_version": "1.3.13",
+    "publisher": "afonsoraposo.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "sqflite_common_ffi",
+    "likes": "263",
+    "points": "160",
+    "popularity": "98",
+    "description": "sqflite ffi based implementation, for desktop and units tests.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#sql",
+      "#database"
+    ],
+    "last_update": "Mar 16, 2024",
+    "last_version": "2.3.3",
+    "publisher": "tekartik.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_login",
+    "likes": "1374",
+    "points": "160",
+    "popularity": "97",
+    "description": "A login widget with login/signup functionalities to help speed up development",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Dec 19, 2023",
+    "last_version": "5.0.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "web"
+    ]
+  },
+  {
+    "title": "flutter_portal",
+    "likes": "668",
+    "points": "160",
+    "popularity": "98",
+    "description": "Evolved Overlay/OverlayEntry - declarative not imperative, intuitive-context, and easy-alignment",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 24, 2023",
+    "last_version": "1.1.4",
+    "publisher": "cjycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "external_app_launcher",
+    "likes": "320",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter plugin which helps you to open another app from your app",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Feb 12, 2024",
+    "last_version": "4.0.0",
+    "publisher": "geekyants.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "google_mlkit_text_recognition",
+    "likes": "246",
+    "points": "160",
+    "popularity": "99",
+    "description": "A Flutter plugin to use Google's ML Kit Text Recognition to recognize text in any Chinese, Devanagari, Japanese, Korean and Latin character set.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 25, 2024",
+    "last_version": "0.13.0",
+    "publisher": "flutter-ml.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "talker_flutter",
+    "likes": "443",
+    "points": "160",
+    "popularity": "98",
+    "description": "Advanced error handler and logger package for flutter and dart. App monitoring, logs history, report sharing, custom logs, and etc.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#logging",
+      "#error",
+      "#report",
+      "#tool",
+      "#ui"
+    ],
+    "last_update": "Aug 12, 2024",
+    "last_version": "4.4.1",
+    "publisher": "frezycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "shelf_router",
+    "likes": "277",
+    "points": "160",
+    "popularity": "98",
+    "description": "A convenient request router for the shelf web-framework, with support for URL-parameters, nested routers and routers generated from source annotations.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#server",
+      "#shelf"
+    ],
+    "last_update": "May 3, 2023",
+    "last_version": "1.1.4",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_appauth",
+    "likes": "352",
+    "points": "160",
+    "popularity": "98",
+    "description": "This plugin provides an abstraction around the Android and iOS AppAuth SDKs so it can be used to communicate with OAuth 2.0 and OpenID Connect providers",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 24, 2024",
+    "last_version": "7.0.0",
+    "publisher": "dexterx.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "macOS"
+    ]
+  },
+  {
+    "title": "flutter_ringtone_player",
+    "likes": "257",
+    "points": "160",
+    "popularity": "98",
+    "description": "A simple player for system default ringtones, alarms and notifications",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 3, 2024",
+    "last_version": "4.0.0",
+    "publisher": "inway.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "easy_stepper",
+    "likes": "300",
+    "points": "160",
+    "popularity": "98",
+    "description": "A fully customizable, beautiful and easy to use stepper widget. It help you to show or collect information from users using organized steps.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 2, 2024",
+    "last_version": "0.8.5",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "cron",
+    "likes": "509",
+    "points": "160",
+    "popularity": "98",
+    "description": "A time-based job scheduler similar to cron. Run tasks periodically at fixed times or intervals.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#cron",
+      "#scheduler",
+      "#cron-parser",
+      "#schedule",
+      "#cron-time"
+    ],
+    "last_update": "Jun 16, 2024",
+    "last_version": "0.6.1",
+    "publisher": "agilord.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "supabase",
+    "likes": "524",
+    "points": "160",
+    "popularity": "98",
+    "description": "A dart client for Supabase. This client makes it simple for developers to build secure and scalable products.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 12, 2024",
+    "last_version": "2.3.0",
+    "publisher": "supabase.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "dartx",
+    "likes": "889",
+    "points": "160",
+    "popularity": "97",
+    "description": "Superpowers for Dart. Collection of useful static extension methods.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 18, 2023",
+    "last_version": "1.2.0",
+    "publisher": "simc.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "modal_progress_hud_nsn",
+    "likes": "242",
+    "points": "160",
+    "popularity": "98",
+    "description": "A modal progress indicator widget with Sound Null Safety. A fork of https://github.com/mmcc007/modal_progress_hud",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jan 21, 2024",
+    "last_version": "0.5.1",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "any_link_preview",
+    "likes": "391",
+    "points": "160",
+    "popularity": "98",
+    "description": "Dart package that helps with preview of any links. Fully customizable and has the ability to render from cached data. Useful for apps where we had chat feature.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 10, 2024",
+    "last_version": "3.0.2",
+    "publisher": "suresh-konakanchi.in",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "string_validator",
+    "likes": "399",
+    "points": "160",
+    "popularity": "98",
+    "description": "Dart library for validating and sanitizing strings, especially those from user input.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 18, 2024",
+    "last_version": "1.1.0",
+    "publisher": "suragch.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "chopper",
+    "likes": "808",
+    "points": "160",
+    "popularity": "97",
+    "description": "Chopper is an http client generator using source_gen, inspired by Retrofit",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#api",
+      "#client",
+      "#http",
+      "#rest"
+    ],
+    "last_update": "Sep 5, 2024",
+    "last_version": "8.0.2",
+    "publisher": "hadrienlejard.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "very_good_analysis",
+    "likes": "624",
+    "points": "160",
+    "popularity": "97",
+    "description": "Lint rules for Dart and Flutter used internally at Very Good Ventures.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#lints",
+      "#analyzer",
+      "#analysis"
+    ],
+    "last_update": "Jun 25, 2024",
+    "last_version": "6.0.0",
+    "publisher": "verygood.ventures",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "mason",
+    "likes": "745",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Dart template generator which helps teams generate files quickly and consistently.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#mason",
+      "#template",
+      "#generator"
+    ],
+    "last_update": "Sep 5, 2024",
+    "last_version": "0.1.0",
+    "publisher": "brickhub.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "blur",
+    "likes": "302",
+    "points": "160",
+    "popularity": "98",
+    "description": "Blur is a wrapper widget that blur it's child. There are ImageBlur.asset and ImageBlur.network that blur the image. Frost is another wrapper which blurs the background.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 21, 2024",
+    "last_version": "4.0.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "crop_your_image",
+    "likes": "476",
+    "points": "160",
+    "popularity": "98",
+    "description": "crop_your_image helps your app to embed Widgets for cropping images.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 29, 2024",
+    "last_version": "1.1.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "universal_io",
+    "likes": "230",
+    "points": "160",
+    "popularity": "98",
+    "description": "Cross-platform 'dart:io' that adds browser support for HttpClient and some other \"dart:io\" APIs.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 1, 2023",
+    "last_version": "2.2.2",
+    "publisher": "dint.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "add_2_calendar",
+    "likes": "311",
+    "points": "160",
+    "popularity": "98",
+    "description": "A really simple Flutter plugin to add events to each platform's default calendar.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Oct 24, 2023",
+    "last_version": "3.0.1",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "icons_launcher",
+    "likes": "633",
+    "points": "160",
+    "popularity": "97",
+    "description": "A command-line tool that simplifies the task of updating your Flutter app's launcher icon.",
+    "thumbnail": "https://pub.dev//packages/icons_launcher/versions/2.1.7/gen-res/gen/icons_launcher_profile.webp",
+    "hashtags": [
+      "#icons",
+      "#app-icon",
+      "#icon-launcher"
+    ],
+    "last_update": "Jan 8, 2024",
+    "last_version": "2.1.7",
+    "publisher": "mrrhak.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "intl_utils",
+    "likes": "195",
+    "points": "160",
+    "popularity": "99",
+    "description": "intl_utils is a dart library that generates Dart localization code from ARB file. Generated code relies on Intl library.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Dec 26, 2023",
+    "last_version": "2.8.7",
+    "publisher": "localizely.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "diacritic",
+    "likes": "242",
+    "points": "160",
+    "popularity": "98",
+    "description": "Removes common accents and diacritical signs from a string by replacing them with an equivalent character.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Dec 20, 2023",
+    "last_version": "0.1.5",
+    "publisher": "agilord.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "camerawesome",
+    "likes": "878",
+    "points": "160",
+    "popularity": "97",
+    "description": "Easiest Flutter camera Plugin with builtin UI. Supporting capturing images, streaming images, video recording, switch sensors, autofocus, flash, filters... on Android and iOS.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 16, 2024",
+    "last_version": "2.1.0",
+    "publisher": "apparence.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "fluent_ui",
+    "likes": "2799",
+    "points": "160",
+    "popularity": "97",
+    "description": "Implements Windows UI in Flutter. Based on the official documentation",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#windows",
+      "#desktop",
+      "#ui",
+      "#widget"
+    ],
+    "last_update": "Aug 7, 2024",
+    "last_version": "4.9.1",
+    "publisher": "bdlukaa.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "gal",
+    "likes": "251",
+    "points": "160",
+    "popularity": "98",
+    "description": "Flutter plugin to save images/videos to photos gallery with permission handling",
+    "thumbnail": "https://pub.dev//packages/gal/versions/2.3.0/gen-res/gen/logo.webp",
+    "hashtags": [
+      "#gallery",
+      "#video",
+      "#image",
+      "#photos",
+      "#util"
+    ],
+    "last_update": "Feb 5, 2024",
+    "last_version": "2.3.0",
+    "publisher": "midoridesign.studio",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "auto_animated",
+    "likes": "1236",
+    "points": "160",
+    "popularity": "97",
+    "description": "Widgets starting auto play animation when mounted. It is already possible to animate the list and icons.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 30, 2023",
+    "last_version": "3.2.0",
+    "publisher": "serge.software",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_card_swiper",
+    "likes": "381",
+    "points": "160",
+    "popularity": "98",
+    "description": "This is a Tinder-like card swiper package. It allows you to swipe left, right, up, and down and define your own business logic for each direction.",
+    "thumbnail": "https://pub.dev//packages/flutter_card_swiper/versions/7.0.1/gen-res/gen/swiping.webp",
+    "hashtags": [],
+    "last_update": "May 6, 2024",
+    "last_version": "7.0.1",
+    "publisher": "ricardodalarme.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_flavor",
+    "likes": "395",
+    "points": "160",
+    "popularity": "98",
+    "description": "We can create different flavors, and thus have different instances of our apps before publishing it on the App Store and Google Play.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 30, 2023",
+    "last_version": "3.1.3",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "calendar_view",
+    "likes": "753",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Flutter package allows you to easily implement all calendar UI and calendar event functionality.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 10, 2024",
+    "last_version": "1.2.0",
+    "publisher": "simform.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "accordion",
+    "likes": "337",
+    "points": "160",
+    "popularity": "98",
+    "description": "A stylish and smooth Accordion list where each item can be expanded or collapsed simply by clicking on the header.",
+    "thumbnail": "https://pub.dev//packages/accordion/versions/2.6.0/gen-res/gen/accordion_demo.webp",
+    "hashtags": [
+      "#lists",
+      "#sections",
+      "#expandable",
+      "#ui"
+    ],
+    "last_update": "Sep 5, 2023",
+    "last_version": "2.6.0",
+    "publisher": "vulcansoft.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_redux",
+    "likes": "534",
+    "points": "160",
+    "popularity": "97",
+    "description": "A set of utility Widgets that Provide and Connect to a Redux Store",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 14, 2022",
+    "last_version": "0.10.0",
+    "publisher": "brianegan.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "dio_smart_retry",
+    "likes": "210",
+    "points": "160",
+    "popularity": "98",
+    "description": "Retry library for Dio and Dio package made with love. By default, the request will be retried only for appropriate retryable http statuses.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Oct 26, 2023",
+    "last_version": "6.0.0",
+    "publisher": "rodion-m.ru",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "multi_dropdown",
+    "likes": "254",
+    "points": "160",
+    "popularity": "98",
+    "description": "Streamlined Flutter widget for versatile multi-selection with extensive customization.",
+    "thumbnail": "https://pub.dev//packages/multi_dropdown/versions/3.0.1/gen-res/gen/screenshot_2.webp",
+    "hashtags": [],
+    "last_update": "Aug 17, 2024",
+    "last_version": "3.0.1",
+    "publisher": "nbhatt.com.np",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "wolt_modal_sheet",
+    "likes": "1015",
+    "points": "160",
+    "popularity": "97",
+    "description": "This package provides a responsive modal with multiple pages, motion animation for page transitions, and scrollable content within each page.",
+    "thumbnail": "https://pub.dev//packages/wolt_modal_sheet/versions/0.9.2/gen-res/gen/bottom_sheet_elements.webp",
+    "hashtags": [
+      "#modal",
+      "#dialog",
+      "#side-sheet",
+      "#bottom-sheet",
+      "#custom-modal"
+    ],
+    "last_update": "Aug 6, 2024",
+    "last_version": "0.9.2",
+    "publisher": "wolt.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_adaptive_scaffold",
+    "likes": "841",
+    "points": "160",
+    "popularity": "97",
+    "description": "Widgets to easily build adaptive layouts, including navigation elements.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#layout",
+      "#ui",
+      "#adaptive",
+      "#responsive"
+    ],
+    "last_update": "Sep 4, 2024",
+    "last_version": "0.2.6",
+    "publisher": "flutter.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "html_unescape",
+    "likes": "159",
+    "points": "160",
+    "popularity": "99",
+    "description": "A small library for un-escaping HTML. Supports all Named Character References, Decimal Character References and Hexadecimal Character References.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 22, 2021",
+    "last_version": "2.0.0",
+    "publisher": "filiph.net",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_svg_provider",
+    "likes": "178",
+    "points": "160",
+    "popularity": "98",
+    "description": "Generate image provider from svg path, uses flutter_svg and http (for network paths) as a dependency.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Dec 16, 2023",
+    "last_version": "1.0.7",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "group_button",
+    "likes": "543",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#widget",
+      "#ui",
+      "#button",
+      "#chips",
+      "#selector"
+    ],
+    "last_update": "Jan 9, 2024",
+    "last_version": "5.3.4",
+    "publisher": "frezycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "melos",
+    "likes": "666",
+    "points": "160",
+    "popularity": "97",
+    "description": "A tool for managing Dart & Flutter repositories with multiple packages (monorepo). Supports automated versioning via Conventional Commits. Inspired by JavaScripts Lerna package.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#tool",
+      "#repository-management",
+      "#cli",
+      "#monorepo",
+      "#lerna"
+    ],
+    "last_update": "Jun 17, 2024",
+    "last_version": "6.1.0",
+    "publisher": "invertase.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "easy_date_timeline",
+    "likes": "391",
+    "points": "160",
+    "popularity": "97",
+    "description": "The \"easy_date_timeline\" package is a customizable Flutter library that displays a timeline of dates in a horizontal view.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#calendar",
+      "#picker",
+      "#widget",
+      "#timeline",
+      "#date-time"
+    ],
+    "last_update": "May 21, 2024",
+    "last_version": "1.1.3",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "barcode",
+    "likes": "505",
+    "points": "160",
+    "popularity": "97",
+    "description": "Barcode generation library for Dart that can generate generic drawing operations for any backend.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 28, 2024",
+    "last_version": "2.2.8",
+    "publisher": "nfet.net",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "sqlite3_flutter_libs",
+    "likes": "132",
+    "points": "160",
+    "popularity": "99",
+    "description": "Flutter plugin to include native sqlite3 libraries with your app",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 16, 2024",
+    "last_version": "0.5.24",
+    "publisher": "simonbinder.eu",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_udid",
+    "likes": "187",
+    "points": "160",
+    "popularity": "98",
+    "description": "Plugin to retrieve a persistent UDID across reinstalls on iOS and Android",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Feb 15, 2024",
+    "last_version": "3.0.0",
+    "publisher": "kukuk.me",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "amplify_flutter",
+    "likes": "208",
+    "points": "160",
+    "popularity": "98",
+    "description": "The top level Flutter package for the AWS Amplify libraries.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 28, 2024",
+    "last_version": "2.4.1",
+    "publisher": "aws-amplify.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "image_editor",
+    "likes": "330",
+    "points": "160",
+    "popularity": "98",
+    "description": "Edit your image data and output to file/memory on Android and iOS.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 14, 2024",
+    "last_version": "1.5.1",
+    "publisher": "fluttercandies.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "macOS"
+    ]
+  },
+  {
+    "title": "just_audio_background",
+    "likes": "295",
+    "points": "160",
+    "popularity": "98",
+    "description": "An add-on for just_audio that supports background playback and media notifications.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#audio",
+      "#sound",
+      "#player",
+      "#background"
+    ],
+    "last_update": "Jul 10, 2024",
+    "last_version": "0.0.1",
+    "publisher": "ryanheise.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "macOS",
+      "web"
+    ]
+  },
+  {
+    "title": "searchfield",
+    "likes": "309",
+    "points": "160",
+    "popularity": "98",
+    "description": "A highly customizable, simple and easy to use flutter Widget to add a searchfield to your Flutter Application. This Widget allows you to search and select from list of suggestions.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 5, 2024",
+    "last_version": "1.0.9",
+    "publisher": "maheshjamdade.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_callkit_incoming",
+    "likes": "372",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter Callkit Incoming to show callkit screen in your Flutter app.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 20, 2024",
+    "last_version": "2.0.4",
+    "publisher": "hiennv.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "easy_image_viewer",
+    "likes": "272",
+    "points": "160",
+    "popularity": "98",
+    "description": "An easy image viewer with pinch & zoom, multi image, and built-in full-screen dialog support.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#image",
+      "#photo",
+      "#slideshow",
+      "#pager",
+      "#zoom"
+    ],
+    "last_update": "Jun 24, 2024",
+    "last_version": "1.5.1",
+    "publisher": "thesmythgroup.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "brasil_fields",
+    "likes": "545",
+    "points": "160",
+    "popularity": "97",
+    "description": "O jeito mais fácil de utilizar padrões e formatos brasileiros em seu projeto Dart.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 30, 2024",
+    "last_version": "1.15.0",
+    "publisher": "flutterbootcamp.com.br",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "background_downloader",
+    "likes": "291",
+    "points": "160",
+    "popularity": "98",
+    "description": "A multi-platform background file downloader and uploader. Define the task, enqueue and monitor progress",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 5, 2024",
+    "last_version": "8.5.5",
+    "publisher": "bbflight.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "maps_toolkit",
+    "likes": "341",
+    "points": "160",
+    "popularity": "97",
+    "description": "Maps toolkit - geo-measurements utils - area of polygon, distance between point, heading and offset between points (port of SphericalUtil, PolyUtil from `android-maps-utils`).",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 18, 2023",
+    "last_version": "3.0.0",
+    "publisher": "kb-apps.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "json_path",
+    "likes": "102",
+    "points": "160",
+    "popularity": "100",
+    "description": "Implementation of RFC 9535 - JSONPath: Query Expressions for JSON. Reads and writes values in parsed JSON objects using queries like `$.store.book[2].price`.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 4, 2024",
+    "last_version": "0.7.4",
+    "publisher": "karapetov.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "json_rpc_2",
+    "likes": "93",
+    "points": "160",
+    "popularity": "100",
+    "description": "Utilities to write a client or server using the JSON-RPC 2.0 spec.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 15, 2022",
+    "last_version": "3.0.2",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "slide_countdown",
+    "likes": "361",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Flutter package to create easy slide animation countdown / countup timer.",
+    "thumbnail": "https://pub.dev//packages/slide_countdown/versions/1.6.1/gen-res/gen/ss.webp",
+    "hashtags": [
+      "#timer",
+      "#countdown",
+      "#countup",
+      "#animation"
+    ],
+    "last_update": "Apr 7, 2024",
+    "last_version": "1.6.1",
+    "publisher": "farhanfadila.site",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "math_expressions",
+    "likes": "317",
+    "points": "160",
+    "popularity": "98",
+    "description": "A library for parsing and evaluating mathematical expressions, supporting real numbers, vectors, and basic interval arithmetic.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 31, 2024",
+    "last_version": "2.6.0",
+    "publisher": "leonhardt.co.nz",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "google_mlkit_face_detection",
+    "likes": "217",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter plugin to use Google's ML Kit Face Detection to detect faces in an image, identify key facial features, and get the contours of detected faces.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 25, 2024",
+    "last_version": "0.11.0",
+    "publisher": "flutter-ml.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "phone_numbers_parser",
+    "likes": "175",
+    "points": "160",
+    "popularity": "98",
+    "description": "Dart library for parsing phone numbers. Inspired by Google's libphonenumber and PhoneNumberKit for ios.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 6, 2024",
+    "last_version": "9.0.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "octo_image",
+    "likes": "679",
+    "points": "160",
+    "popularity": "97",
+    "description": "A multifunctional Flutter image widget. Supports placeholders, error widgets and image transformers with fading.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 1, 2024",
+    "last_version": "2.1.0",
+    "publisher": "baseflow.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "slang",
+    "likes": "479",
+    "points": "160",
+    "popularity": "97",
+    "description": "Localization / Internationalization (i18n) solution. Use JSON, YAML, CSV, or ARB files to create typesafe translations via source generation.",
+    "thumbnail": "https://pub.dev//packages/slang/versions/3.31.2/gen-res/gen/icon.webp",
+    "hashtags": [
+      "#i18n",
+      "#localization",
+      "#internationalization",
+      "#translation"
+    ],
+    "last_update": "Aug 29, 2024",
+    "last_version": "3.31.2",
+    "publisher": "tienisto.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "lints",
+    "likes": "233",
+    "points": "160",
+    "popularity": "98",
+    "description": "Official Dart lint rules. Defines the 'core' and 'recommended' set of lints suggested by the Dart team.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#analysis",
+      "#lints"
+    ],
+    "last_update": "May 9, 2024",
+    "last_version": "4.0.0",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_branch_sdk",
+    "likes": "185",
+    "points": "160",
+    "popularity": "98",
+    "description": "Flutter Plugin for create deep link using Brach SDK (https://branch.io). This plugin provides a cross-platform (iOS, Android, Web).",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 30, 2024",
+    "last_version": "8.2.0",
+    "publisher": "marquesdev.work",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "web"
+    ]
+  },
+  {
+    "title": "platform",
+    "likes": "99",
+    "points": "160",
+    "popularity": "99",
+    "description": "A pluggable, mockable platform information abstraction for Dart.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#information",
+      "#platform"
+    ],
+    "last_update": "Jun 10, 2024",
+    "last_version": "3.1.5",
+    "publisher": "dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_displaymode",
+    "likes": "169",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter plugin to set display mode (resolution, refresh rate) on Android platform. Allows to enable high refresh rate on supported devices.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 21, 2023",
+    "last_version": "0.6.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android"
+    ]
+  },
+  {
+    "title": "sidebarx",
+    "likes": "595",
+    "points": "160",
+    "popularity": "97",
+    "description": "flutter multiplatform navigation sidebar / side navigationbar / drawer widget",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#widget",
+      "#ui",
+      "#drawer",
+      "#navigation",
+      "#sidebar"
+    ],
+    "last_update": "Apr 8, 2024",
+    "last_version": "0.17.1",
+    "publisher": "frezycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "bottom_picker",
+    "likes": "270",
+    "points": "160",
+    "popularity": "98",
+    "description": "A new flutter package that let you create a bottom item picker or date & time picker with minmum parameters",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 9, 2024",
+    "last_version": "2.8.0",
+    "publisher": "badrkouki.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "random_string",
+    "likes": "181",
+    "points": "160",
+    "popularity": "98",
+    "description": "Simple library for generating random ascii strings by default using Random from 'dart:math'.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 16, 2021",
+    "last_version": "2.3.1",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "textfield_tags",
+    "likes": "361",
+    "points": "160",
+    "popularity": "97",
+    "description": "A text field that allows an input of tags inside the textfield",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 11, 2024",
+    "last_version": "3.0.1",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "dart_frog",
+    "likes": "738",
+    "points": "160",
+    "popularity": "97",
+    "description": "A fast, minimalistic backend framework for Dart built by Very Good Ventures.",
+    "thumbnail": "https://pub.dev//packages/dart_frog/versions/1.1.0/gen-res/gen/logo.webp",
+    "hashtags": [
+      "#server",
+      "#backend",
+      "#shelf",
+      "#dart-frog"
+    ],
+    "last_update": "Feb 2, 2024",
+    "last_version": "1.1.0",
+    "publisher": "verygood.ventures",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "sqlite3",
+    "likes": "321",
+    "points": "160",
+    "popularity": "97",
+    "description": "Provides lightweight yet convenient bindings to SQLite by using dart:ffi",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#sql",
+      "#database",
+      "#ffi"
+    ],
+    "last_update": "Aug 12, 2024",
+    "last_version": "2.4.6",
+    "publisher": "simonbinder.eu",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "ffigen",
+    "likes": "277",
+    "points": "160",
+    "popularity": "97",
+    "description": "Generator for FFI bindings, using LibClang to parse C, Objective-C, and Swift files.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#interop",
+      "#ffi",
+      "#codegen"
+    ],
+    "last_update": "Sep 6, 2024",
+    "last_version": "14.0.0",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "http_interceptor",
+    "likes": "183",
+    "points": "160",
+    "popularity": "98",
+    "description": "A lightweight, simple plugin that allows you to intercept request and response objects and modify them if desired.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 7, 2024",
+    "last_version": "2.0.0",
+    "publisher": "codingale.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_background",
+    "likes": "303",
+    "points": "160",
+    "popularity": "97",
+    "description": "Run apps in the background using foreground services on Android. Ideal for applications that require continuous operation, such as background data synchronization or messaging.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 15, 2024",
+    "last_version": "1.3.0",
+    "publisher": "julianassmann.de",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android"
+    ]
+  },
+  {
+    "title": "multicast_dns",
+    "likes": "82",
+    "points": "160",
+    "popularity": "100",
+    "description": "Dart package for performing mDNS queries (e.g. Bonjour, Avahi).",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#bonjour",
+      "#mdns",
+      "#network"
+    ],
+    "last_update": "Jun 24, 2024",
+    "last_version": "0.3.2",
+    "publisher": "flutter.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "android_alarm_manager_plus",
+    "likes": "499",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter plugin for accessing the Android AlarmManager service, and running Dart code in the background when alarms fire.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#android",
+      "#alarm",
+      "#utils"
+    ],
+    "last_update": "Jul 29, 2024",
+    "last_version": "4.0.4",
+    "publisher": "fluttercommunity.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android"
+    ]
+  },
+  {
+    "title": "pub_semver",
+    "likes": "119",
+    "points": "160",
+    "popularity": "99",
+    "description": "Versions and version constraints implementing pub's versioning policy. This is very similar to vanilla semver, with a few corner cases.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#dart-pub",
+      "#semver"
+    ],
+    "last_update": "May 4, 2023",
+    "last_version": "2.1.4",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "swipe_to",
+    "likes": "306",
+    "points": "160",
+    "popularity": "97",
+    "description": "SwipeTo is a wrapper for a chat view widget which can be used initiate callback when user horizontally swipe on it.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Feb 13, 2024",
+    "last_version": "1.0.6",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "dio_cookie_manager",
+    "likes": "132",
+    "points": "160",
+    "popularity": "99",
+    "description": "A cookie manager combines cookie_jar and dio, based on the interceptor algorithm.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#dio",
+      "#cookie",
+      "#network",
+      "#storage",
+      "#persistence"
+    ],
+    "last_update": "Oct 1, 2023",
+    "last_version": "3.1.1",
+    "publisher": "flutter.cn",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "android_id",
+    "likes": "111",
+    "points": "160",
+    "popularity": "99",
+    "description": "A Flutter plugin for getting the Android ID. Only for Android.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#androidid",
+      "#device",
+      "#identifier",
+      "#android",
+      "#native"
+    ],
+    "last_update": "Jun 6, 2024",
+    "last_version": "0.4.0",
+    "publisher": "achim.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android"
+    ]
+  },
+  {
+    "title": "shelf_proxy",
+    "likes": "80",
+    "points": "160",
+    "popularity": "100",
+    "description": "A shelf handler for proxying HTTP requests to another server.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#server",
+      "#shelf"
+    ],
+    "last_update": "May 23, 2023",
+    "last_version": "1.0.4",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "video_editor",
+    "likes": "523",
+    "points": "160",
+    "popularity": "97",
+    "description": "A flutter package for editing video with fully customizable UI.\nSupports crop, trim, rotation and cover selection.\nProvides commands to run in order to export the video or cover.",
+    "thumbnail": "https://pub.dev//packages/video_editor/versions/3.0.0/gen-res/gen/demo_thumb.webp",
+    "hashtags": [],
+    "last_update": "Jun 26, 2023",
+    "last_version": "3.0.0",
+    "publisher": "legoffmael.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "flutter_login_facebook",
+    "likes": "225",
+    "points": "160",
+    "popularity": "98",
+    "description": "Login via Facebook. Easily add Facebook login feature in your application. User profile information included.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 14, 2024",
+    "last_version": "2.0.1",
+    "publisher": "innim.ru",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "oauth2",
+    "likes": "314",
+    "points": "160",
+    "popularity": "97",
+    "description": "A client library for authenticating with a remote service via OAuth2 on behalf of a user, and making authorized HTTP requests with the user's OAuth2 credentials.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 21, 2024",
+    "last_version": "2.0.3",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "convert",
+    "likes": "108",
+    "points": "160",
+    "popularity": "99",
+    "description": "Utilities for converting between data representations. Provides a number of Sink, Codec, Decoder, and Encoder types.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Oct 12, 2022",
+    "last_version": "3.1.1",
+    "publisher": "dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_expandable_fab",
+    "likes": "229",
+    "points": "160",
+    "popularity": "97",
+    "description": "The speed dial FAB (Floating Action Button) that can animate the display and hiding of multiple action buttons.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 25, 2024",
+    "last_version": "2.2.0",
+    "publisher": "zuvola.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_vlc_player",
+    "likes": "456",
+    "points": "160",
+    "popularity": "97",
+    "description": "A VLC-powered alternative to Flutter's video_player. Supports multiple players on one screen.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 11, 2024",
+    "last_version": "7.4.2",
+    "publisher": "solid.software",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "lint",
+    "likes": "845",
+    "points": "160",
+    "popularity": "96",
+    "description": "An opinionated, community-driven set of lint rules for Dart and Flutter projects. Like pedantic but stricter",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#lint"
+    ],
+    "last_update": "Dec 22, 2023",
+    "last_version": "2.3.0",
+    "publisher": "pascalwelsch.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "freerasp",
+    "likes": "425",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter library for improving app security and threat monitoring on Android and iOS mobile devices. Learn more about provided features on the freeRASP's homepage first.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#app-shielding",
+      "#rasp",
+      "#reverse-engineering",
+      "#application-security",
+      "#freerasp"
+    ],
+    "last_update": "Jun 4, 2024",
+    "last_version": "6.6.0",
+    "publisher": "talsec.app",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "process_run",
+    "likes": "303",
+    "points": "160",
+    "popularity": "97",
+    "description": "Process run helpers for Linux/Win/Mac and which like feature for finding executables.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 21, 2024",
+    "last_version": "1.2.0",
+    "publisher": "tekartik.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "eva_icons_flutter",
+    "likes": "254",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter package for Eva Icons. Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Feb 20, 2022",
+    "last_version": "3.1.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "shorebird_code_push",
+    "likes": "270",
+    "points": "160",
+    "popularity": "97",
+    "description": "Check for and download Shorebird code push updates from your app.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 25, 2024",
+    "last_version": "1.1.4",
+    "publisher": "shorebird.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_rust_bridge",
+    "likes": "430",
+    "points": "160",
+    "popularity": "97",
+    "description": "High-level memory-safe binding generator for Flutter/Dart <-> Rust",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 18, 2024",
+    "last_version": "2.3.0",
+    "publisher": "cjycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_gen_runner",
+    "likes": "226",
+    "points": "160",
+    "popularity": "97",
+    "description": "The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 28, 2024",
+    "last_version": "5.7.0",
+    "publisher": "wasabeef.jp",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "pigeon",
+    "likes": "1003",
+    "points": "160",
+    "popularity": "96",
+    "description": "Code generator tool to make communication between Flutter and the host platform type-safe and easier.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#codegen",
+      "#interop",
+      "#platform-channels",
+      "#plugin-development"
+    ],
+    "last_update": "Aug 30, 2024",
+    "last_version": "22.3.0",
+    "publisher": "flutter.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "pinch_zoom",
+    "likes": "199",
+    "points": "160",
+    "popularity": "97",
+    "description": "A widget based on Flutter's new Interactive Viewer that makes picture pinch zoom, and return to its initial size and position when released.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Oct 8, 2023",
+    "last_version": "2.0.0",
+    "publisher": "jelter.net",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "infinite_carousel",
+    "likes": "247",
+    "points": "160",
+    "popularity": "97",
+    "description": "Carousel in flutter. Supports features like infinite looping, friction effect, multiple scroll physics and control over item anchor and velocity.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#ui",
+      "#carousel",
+      "#widget",
+      "#infinite"
+    ],
+    "last_update": "Feb 16, 2024",
+    "last_version": "1.1.1",
+    "publisher": "geekyants.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "dismissible_page",
+    "likes": "598",
+    "points": "160",
+    "popularity": "96",
+    "description": "Flutter widget that allows you to dismiss page to any direction, forget the boring back button and plain transitions..",
+    "thumbnail": "https://pub.dev//packages/dismissible_page/versions/1.0.2/gen-res/gen/dismissible_page_demo.webp",
+    "hashtags": [],
+    "last_update": "Apr 18, 2023",
+    "last_version": "1.0.2",
+    "publisher": "fman.ge",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "otp_autofill",
+    "likes": "222",
+    "points": "160",
+    "popularity": "97",
+    "description": "Android implementation of OTP autofill with using User Consent API and Retriever API. Add possibility to receive OTP code from another input.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 28, 2024",
+    "last_version": "4.0.0",
+    "publisher": "surf.ru",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "dart_ipify",
+    "likes": "158",
+    "points": "160",
+    "popularity": "98",
+    "description": "This package uses the remote ipify web services in order to get your public IP address or geographical details from any given IP.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 14, 2021",
+    "last_version": "1.1.1",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "keyboard_dismisser",
+    "likes": "228",
+    "points": "160",
+    "popularity": "97",
+    "description": "A simple Flutter package to hide the keyboard when performing a gesture outside of it.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 20, 2022",
+    "last_version": "3.0.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_onboarding_slider",
+    "likes": "432",
+    "points": "160",
+    "popularity": "96",
+    "description": "A page slider with parallex design that allows (Text) widgets or body to slide at a different speed with background.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Oct 16, 2023",
+    "last_version": "1.0.11",
+    "publisher": "appinio.app",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "msix",
+    "likes": "813",
+    "points": "160",
+    "popularity": "96",
+    "description": "A command-line tool that create Msix installer from your flutter windows-build files.",
+    "thumbnail": "https://pub.dev//packages/msix/versions/3.16.8/gen-res/gen/screenshot.webp",
+    "hashtags": [
+      "#windows",
+      "#tool"
+    ],
+    "last_update": "Aug 15, 2024",
+    "last_version": "3.16.8",
+    "publisher": "kremer.software",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Windows"
+    ]
+  },
+  {
+    "title": "motion_toast",
+    "likes": "430",
+    "points": "160",
+    "popularity": "96",
+    "description": "A beautiful designed toast with animations, contains multiple built in designs and let you design your toast",
+    "thumbnail": "https://pub.dev//packages/motion_toast/versions/2.11.0/gen-res/gen/warning_mt.webp",
+    "hashtags": [],
+    "last_update": "Aug 7, 2024",
+    "last_version": "2.11.0",
+    "publisher": "badrkouki.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "skeleton_text",
+    "likes": "332",
+    "points": "160",
+    "popularity": "97",
+    "description": "A package that provides an easy way to add skeleton text loading animation in Flutter project. This project is a part of 101Loop community.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 22, 2023",
+    "last_version": "3.0.1",
+    "publisher": "mahengandhi.me",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_plugin_android_lifecycle",
+    "likes": "93",
+    "points": "160",
+    "popularity": "99",
+    "description": "Flutter plugin for accessing an Android Lifecycle within other plugins.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#android",
+      "#plugin-development"
+    ],
+    "last_update": "Aug 25, 2024",
+    "last_version": "2.0.22",
+    "publisher": "flutter.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android"
+    ]
+  },
+  {
+    "title": "flutter_translate",
+    "likes": "250",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter Translate is a fully featured localization / internationalization (i18n) library for Flutter.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 28, 2024",
+    "last_version": "4.1.0",
+    "publisher": "jesway.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "whatsapp_unilink",
+    "likes": "305",
+    "points": "160",
+    "popularity": "97",
+    "description": "Dart package helping your app interact with WhatsApp via HTTP links (universal links). Works with Flutter.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Nov 20, 2022",
+    "last_version": "2.1.0",
+    "publisher": "dartside.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "tray_manager",
+    "likes": "186",
+    "points": "160",
+    "popularity": "97",
+    "description": "This plugin allows Flutter desktop apps to defines system tray.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#tray",
+      "#tray-manager",
+      "#system-tray"
+    ],
+    "last_update": "May 18, 2024",
+    "last_version": "0.2.3",
+    "publisher": "leanflutter.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "devicelocale",
+    "likes": "136",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter package that can be used to extract the locales that are currently defined on a device with the current locale set as the first in the list.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 27, 2024",
+    "last_version": "0.8.1",
+    "publisher": "spiralarm.uk",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web"
+    ]
+  },
+  {
+    "title": "flutter_image_slideshow",
+    "likes": "184",
+    "points": "160",
+    "popularity": "97",
+    "description": "A simple image slideshow widget. Mainly intended for image widget, but other widgets can also be used.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 2, 2023",
+    "last_version": "0.1.6",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "slider_button",
+    "likes": "348",
+    "points": "160",
+    "popularity": "97",
+    "description": "Customizable slider button widget for activating/deactivating some event.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jan 14, 2024",
+    "last_version": "2.1.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "flutter_file_downloader",
+    "likes": "153",
+    "points": "160",
+    "popularity": "98",
+    "description": "A simple flutter plugin that downloads any file type to downloads directory",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 20, 2024",
+    "last_version": "2.0.0",
+    "publisher": "odeh-bros.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android"
+    ]
+  },
+  {
+    "title": "elegant_notification",
+    "likes": "421",
+    "points": "160",
+    "popularity": "96",
+    "description": "A new flutter package to display notifications on top of the screen, full customizable with built-in themes",
+    "thumbnail": "https://pub.dev//packages/elegant_notification/versions/2.3.0/gen-res/gen/package_front_image.webp",
+    "hashtags": [],
+    "last_update": "Sep 5, 2024",
+    "last_version": "2.3.0",
+    "publisher": "badrkouki.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "gcloud",
+    "likes": "84",
+    "points": "160",
+    "popularity": "99",
+    "description": "High level idiomatic Dart API for Google Cloud Storage, Pub-Sub and Datastore.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#cloud",
+      "#gcp"
+    ],
+    "last_update": "Sep 5, 2024",
+    "last_version": "0.8.13",
+    "publisher": "labs.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "postgres",
+    "likes": "323",
+    "points": "160",
+    "popularity": "96",
+    "description": "PostgreSQL database driver. Supports statement reuse and binary protocol and connection pooling.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#sql",
+      "#db",
+      "#database",
+      "#postgres"
+    ],
+    "last_update": "Aug 21, 2024",
+    "last_version": "3.3.0",
+    "publisher": "agilord.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "talker",
+    "likes": "527",
+    "points": "160",
+    "popularity": "96",
+    "description": "Advanced error handler and logger package for flutter and dart. App monitoring, logs history, report sharing, custom logs, and etc.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#logging",
+      "#error",
+      "#exception",
+      "#tool"
+    ],
+    "last_update": "Aug 12, 2024",
+    "last_version": "4.4.1",
+    "publisher": "frezycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_screen_lock",
+    "likes": "252",
+    "points": "160",
+    "popularity": "97",
+    "description": "Provides the ability to lock the screen on ios and android. Biometric authentication can be used in addition to passcode.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 17, 2024",
+    "last_version": "9.1.0",
+    "publisher": "incrementleaf.net",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "shelf_static",
+    "likes": "80",
+    "points": "160",
+    "popularity": "99",
+    "description": "Static file server support for the shelf package and ecosystem.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#server",
+      "#shelf"
+    ],
+    "last_update": "Sep 6, 2024",
+    "last_version": "1.1.3",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_slider_drawer",
+    "likes": "484",
+    "points": "160",
+    "popularity": "96",
+    "description": "A Flutter package with custom implementation of the Slider Drawer Menu",
+    "thumbnail": "https://pub.dev//packages/flutter_slider_drawer/versions/2.1.3/gen-res/gen/slide_left.webp",
+    "hashtags": [],
+    "last_update": "Feb 3, 2023",
+    "last_version": "2.1.3",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "action_slider",
+    "likes": "284",
+    "points": "160",
+    "popularity": "96",
+    "description": "A slider to confirm actions and provide feedback on the success of these after subsequent loading.",
+    "thumbnail": "https://pub.dev//packages/action_slider/versions/0.7.0/gen-res/gen/preview.webp",
+    "hashtags": [],
+    "last_update": "Jul 30, 2023",
+    "last_version": "0.7.0",
+    "publisher": "splashbyte.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "appinio_swiper",
+    "likes": "394",
+    "points": "160",
+    "popularity": "96",
+    "description": "An awesome fully custamisable Tinder Card Swiper which allows swiping in all directions with any Custom Widget (Stateless or Statefull).",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 15, 2024",
+    "last_version": "2.1.1",
+    "publisher": "appinio.app",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flag",
+    "likes": "143",
+    "points": "160",
+    "popularity": "97",
+    "description": "A flag Flutter package. Use for showing flags. All flags came from https://github.com/lipis/flag-icons/releases/tag/v4.1.4 .",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 9, 2023",
+    "last_version": "7.0.0",
+    "publisher": "maomishen.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "image_picker_web",
+    "likes": "152",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter Web Plugin to pick Images (as Widget, File or Uint8List) and Videos (as File or Uint8List)",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 30, 2024",
+    "last_version": "4.0.0",
+    "publisher": "rouxguillau.me",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "web"
+    ]
+  },
+  {
+    "title": "soundpool",
+    "likes": "236",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Flutter Sound Pool for playing short audio files. Sound tracks are cached in memory and played directly from cache.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 25, 2023",
+    "last_version": "2.4.1",
+    "publisher": "ukaszapps.pl",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "macOS",
+      "web"
+    ]
+  },
+  {
+    "title": "flutter_config",
+    "likes": "201",
+    "points": "160",
+    "popularity": "97",
+    "description": "Plugin that exposes environment variables to your Dart code in Flutter as well as to your native code in iOS and Android. Bring some 12 factor love to your Flutter apps",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 10, 2023",
+    "last_version": "2.0.2",
+    "publisher": "byneapp.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "two_dimensional_scrollables",
+    "likes": "353",
+    "points": "160",
+    "popularity": "96",
+    "description": "Widgets that scroll using the two dimensional scrolling foundation.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#scrollable",
+      "#widget"
+    ],
+    "last_update": "Jun 6, 2024",
+    "last_version": "0.3.1",
+    "publisher": "flutter.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "linkify",
+    "likes": "142",
+    "points": "160",
+    "popularity": "97",
+    "description": "Low-level link (text, URLs, emails, phone numbers, user tags) parsing library in Dart.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 15, 2023",
+    "last_version": "5.0.0",
+    "publisher": "cretezy.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "blurrycontainer",
+    "likes": "270",
+    "points": "160",
+    "popularity": "96",
+    "description": "A Flutter package to create a frosted glass effect on a container.",
+    "thumbnail": "https://pub.dev//packages/blurrycontainer/versions/2.1.0/gen-res/gen/preview.webp",
+    "hashtags": [
+      "#ui",
+      "#widget",
+      "#container",
+      "#frosted-glass",
+      "#blurry-container"
+    ],
+    "last_update": "May 4, 2024",
+    "last_version": "2.1.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "markdown_widget",
+    "likes": "262",
+    "points": "160",
+    "popularity": "96",
+    "description": "A new markdown package. It supports TOC function, code highlighting, and it supports all platforms",
+    "thumbnail": "https://pub.dev//packages/markdown_widget/versions/2.3.2+6/gen-res/gen/screenshot.webp",
+    "hashtags": [
+      "#markdown",
+      "#flutter",
+      "#widget"
+    ],
+    "last_update": "Feb 28, 2024",
+    "last_version": "2.3.2",
+    "publisher": "morn.fun",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_compass",
+    "likes": "155",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Flutter compass. The heading varies from 0-360, 0 being north.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 11, 2023",
+    "last_version": "0.8.0",
+    "publisher": "hemanthraj.in",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "delayed_display",
+    "likes": "446",
+    "points": "160",
+    "popularity": "96",
+    "description": "A widget that enables you to display a child after a delay and with beautiful fading and sliding animation.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 22, 2021",
+    "last_version": "2.0.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_libphonenumber",
+    "likes": "140",
+    "points": "160",
+    "popularity": "97",
+    "description": "Leverages libphonenumber to allow for asynchronous and synchronous formatting of phone numbers in Flutter apps.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 19, 2024",
+    "last_version": "2.3.3",
+    "publisher": "coutts-consulting.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "web"
+    ]
+  },
+  {
+    "title": "pedometer",
+    "likes": "282",
+    "points": "160",
+    "popularity": "96",
+    "description": "A Pedometer and Step Detection package for Android and iOS. Step count is streamed as the platform updates it.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 31, 2024",
+    "last_version": "4.0.2",
+    "publisher": "cachet.dk",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "amplify_auth_cognito",
+    "likes": "89",
+    "points": "160",
+    "popularity": "98",
+    "description": "The Amplify Flutter Auth category plugin using the AWS Cognito provider.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 28, 2024",
+    "last_version": "2.4.1",
+    "publisher": "aws-amplify.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_nfc_kit",
+    "likes": "215",
+    "points": "160",
+    "popularity": "96",
+    "description": "Provide NFC functionality on Android, iOS & Web, including reading metadata, read & write NDEF records, and transceive layer 3 & 4 data with NFC tags / cards",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 28, 2024",
+    "last_version": "3.5.2",
+    "publisher": "nfc.im",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "web"
+    ]
+  },
+  {
+    "title": "meta_seo",
+    "likes": "137",
+    "points": "160",
+    "popularity": "97",
+    "description": "Meta SEO is package for adding meta data for html document in head tag which meta tags or meta data make search engine optimization for web apps.",
+    "thumbnail": "https://pub.dev//packages/meta_seo/versions/3.0.9/gen-res/gen/logo.webp",
+    "hashtags": [
+      "#meta-seo",
+      "#seo"
+    ],
+    "last_update": "Feb 13, 2024",
+    "last_version": "3.0.9",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "widgets_to_image",
+    "likes": "135",
+    "points": "160",
+    "popularity": "97",
+    "description": "A simple package to convert any widgets into an image, everything in flutter is rendered pixel by pixel.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 21, 2024",
+    "last_version": "1.0.0",
+    "publisher": "mohamed-abdo.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "sticky_grouped_list",
+    "likes": "282",
+    "points": "160",
+    "popularity": "96",
+    "description": "A ScrollablePositionedList where the list items can be grouped into sections.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 7, 2022",
+    "last_version": "3.1.0",
+    "publisher": "begnis.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "intercom_flutter",
+    "likes": "140",
+    "points": "160",
+    "popularity": "97",
+    "description": "Flutter plugin for Intercom integration. Provides in-app messaging and help-center Intercom services",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 28, 2024",
+    "last_version": "9.0.9",
+    "publisher": "intercom.deepakdroid.xyz",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "web"
+    ]
+  },
+  {
+    "title": "flutter_dynamic_icon",
+    "likes": "366",
+    "points": "160",
+    "popularity": "96",
+    "description": "A flutter plugin for dynamically changing app icon and app icon batch number",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 1, 2022",
+    "last_version": "2.1.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "open_settings",
+    "likes": "195",
+    "points": "160",
+    "popularity": "96",
+    "description": "The most complete flutter plugin packages for open various settings screen in Android and Ios",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 21, 2021",
+    "last_version": "2.0.2",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "boxy",
+    "likes": "603",
+    "points": "160",
+    "popularity": "95",
+    "description": "Overcome limitations of built-in layouts, advanced flex, custom multi-child layouts, slivers, and more!",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jan 21, 2024",
+    "last_version": "2.2.0",
+    "publisher": "tst.sh",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "contained_tab_bar_view",
+    "likes": "161",
+    "points": "160",
+    "popularity": "97",
+    "description": "Encapsulates TabController, TabBar and TabBarView into a single customizable Widget.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 10, 2021",
+    "last_version": "0.8.0",
+    "publisher": "scipack.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_advanced_switch",
+    "likes": "137",
+    "points": "160",
+    "popularity": "97",
+    "description": "An advanced switch control provides a rich API for widget customization that opens a new look and feel in your app.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Feb 26, 2024",
+    "last_version": "3.1.0",
+    "publisher": "alexmelnyk.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "open_store",
+    "likes": "99",
+    "points": "160",
+    "popularity": "98",
+    "description": "Simple lightweight package to open store page for android and iOS GooglePlay and AppStore",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Dec 1, 2022",
+    "last_version": "0.5.0",
+    "publisher": "frezycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "google_mlkit_barcode_scanning",
+    "likes": "104",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter plugin to use Google's ML Kit Barcode Scanning to read data encoded using most standard barcode formats.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 25, 2024",
+    "last_version": "0.12.0",
+    "publisher": "flutter-ml.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "d_chart",
+    "likes": "185",
+    "points": "160",
+    "popularity": "96",
+    "description": "Simple way to show and use chart for Flutter with many option.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 15, 2024",
+    "last_version": "2.8.0",
+    "publisher": "indratrisnar.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "graphs",
+    "likes": "106",
+    "points": "160",
+    "popularity": "98",
+    "description": "Graph algorithms that operate on graphs in any representation.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 18, 2024",
+    "last_version": "2.3.2",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_floating_bottom_bar",
+    "likes": "201",
+    "points": "160",
+    "popularity": "96",
+    "description": "A flutter package that allows showing a floating widget that can be used as a tab bar, bottom navigation bar, etc. The widget reacts to scrolling events too.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 23, 2024",
+    "last_version": "1.2.1",
+    "publisher": "hashstudios.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "super_clipboard",
+    "likes": "185",
+    "points": "160",
+    "popularity": "96",
+    "description": "Comprehensive clipboard access package for Flutter. Supports reading and writing of rich text, images and other formats.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 26, 2024",
+    "last_version": "0.8.20",
+    "publisher": "nativeshell.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "otp",
+    "likes": "167",
+    "points": "160",
+    "popularity": "96",
+    "description": "RFC6238 Time-Based One-Time Password / Google Authenticator Library",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 6, 2023",
+    "last_version": "3.1.4",
+    "publisher": "yuli.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_braintree",
+    "likes": "189",
+    "points": "160",
+    "popularity": "96",
+    "description": "Flutter plugin that wraps the native Braintree SDKs. Enables payments with credit cards, PayPal, Google Pay and more.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 3, 2024",
+    "last_version": "4.0.0",
+    "publisher": "julien-scholz.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "another_flutter_splash_screen",
+    "likes": "225",
+    "points": "160",
+    "popularity": "96",
+    "description": "A flutter package that provides easy way to implement splash screen in your app. Also provides curated demos in the repo.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 24, 2024",
+    "last_version": "1.2.1",
+    "publisher": "thearesmedia.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "fancy_shimmer_image",
+    "likes": "185",
+    "points": "160",
+    "popularity": "96",
+    "description": "Package for easy use of images that are automatically cacheable and have a beautiful on the fly (but it can be configured) shimmer effect while loading",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 20, 2023",
+    "last_version": "2.0.3",
+    "publisher": "rodrigobastos.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "stylish_bottom_bar",
+    "likes": "203",
+    "points": "160",
+    "popularity": "96",
+    "description": "A collection of stylish bottom navigation bars like animated bottom bar and bubble bottom bar for flutter.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 1, 2024",
+    "last_version": "1.1.0",
+    "publisher": "marsad.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_acrylic",
+    "likes": "515",
+    "points": "160",
+    "popularity": "95",
+    "description": "Window acrylic, mica & transparency effects for Flutter on Windows, macOS & Linux.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 11, 2024",
+    "last_version": "1.1.4",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "simple_circular_progress_bar",
+    "likes": "149",
+    "points": "160",
+    "popularity": "97",
+    "description": "Open source Flutter package, simple circular progress indicator.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 6, 2022",
+    "last_version": "1.0.2",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "postgrest",
+    "likes": "110",
+    "points": "160",
+    "popularity": "97",
+    "description": "PostgREST client for Dart. This library provides an ORM interface to PostgREST.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 12, 2024",
+    "last_version": "2.1.4",
+    "publisher": "supabase.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "talker_dio_logger",
+    "likes": "94",
+    "points": "160",
+    "popularity": "98",
+    "description": "Lightweight and customizable dio http client logger on talker base",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#network",
+      "#http",
+      "#dio",
+      "#logging"
+    ],
+    "last_update": "Aug 12, 2024",
+    "last_version": "4.4.1",
+    "publisher": "frezycode.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "image_editor_plus",
+    "likes": "277",
+    "points": "160",
+    "popularity": "96",
+    "description": "Image Editor Plugin with filters, drawing, text and emoji like stories.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 15, 2024",
+    "last_version": "1.0.6",
+    "publisher": "ensorta.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "mailto",
+    "likes": "124",
+    "points": "160",
+    "popularity": "97",
+    "description": "Simple Dart package for creating mailto links in your Flutter apps",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Apr 13, 2021",
+    "last_version": "2.0.0",
+    "publisher": "smaho.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "multi_split_view",
+    "likes": "264",
+    "points": "160",
+    "popularity": "96",
+    "description": "Provides horizontal or vertical multiple split view for Flutter.",
+    "thumbnail": "https://pub.dev//packages/multi_split_view/versions/3.5.0/gen-res/gen/horizontal_vertical.webp",
+    "hashtags": [
+      "#ui",
+      "#split",
+      "#widget",
+      "#layout",
+      "#area"
+    ],
+    "last_update": "Aug 6, 2024",
+    "last_version": "3.5.0",
+    "publisher": "caduandrade.net",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "fading_edge_scrollview",
+    "likes": "105",
+    "points": "160",
+    "popularity": "97",
+    "description": "Package providing FadingEdgeScrollView which allows you to build scrollable views with fading edges",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Feb 25, 2024",
+    "last_version": "4.1.1",
+    "publisher": "ponkin.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "date_field",
+    "likes": "114",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Form Field widget to select DateTime values using adaptive Material and Cupertino DateTime Pickers. It also provides global functions to provide the pickers.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 4, 2024",
+    "last_version": "5.2.1",
+    "publisher": "gaspardmerten.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_link_previewer",
+    "likes": "287",
+    "points": "160",
+    "popularity": "95",
+    "description": "Customizable link and URL preview extracted from the provided text with the ability to render from the cache. Ideal for chat applications.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 9, 2023",
+    "last_version": "3.2.2",
+    "publisher": "flyer.chat",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "camera_web",
+    "likes": "81",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter plugin for getting information about and controlling the camera on Web.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#camera"
+    ],
+    "last_update": "Aug 6, 2024",
+    "last_version": "0.3.5",
+    "publisher": "flutter.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "web"
+    ]
+  },
+  {
+    "title": "filesize",
+    "likes": "169",
+    "points": "160",
+    "popularity": "96",
+    "description": "A package to get humanized file sizes. Translate raw file size into human readable strings.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 9, 2021",
+    "last_version": "2.0.1",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "alarm",
+    "likes": "246",
+    "points": "160",
+    "popularity": "96",
+    "description": "A simple Flutter alarm manager plugin for both iOS and Android.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 28, 2024",
+    "last_version": "3.1.7",
+    "publisher": "gdelataillade.me",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "lpinyin",
+    "likes": "127",
+    "points": "160",
+    "popularity": "97",
+    "description": "Chinese character conversion pinyin library.Accurate and complete Chinese character dictionary.Fast conversion.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 11, 2021",
+    "last_version": "2.0.3",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "simple_html_css",
+    "likes": "125",
+    "points": "160",
+    "popularity": "97",
+    "description": "This package allows you to use simple HTML and inline CSS styles to style your text in flutter. A fork of css_text package.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 19, 2024",
+    "last_version": "5.0.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "super_drag_and_drop",
+    "likes": "405",
+    "points": "160",
+    "popularity": "95",
+    "description": "Native Drag and Drop support for Flutter. Allows dragging contents across applications.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 26, 2024",
+    "last_version": "0.8.20",
+    "publisher": "nativeshell.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "rect_getter",
+    "likes": "94",
+    "points": "160",
+    "popularity": "97",
+    "description": "A widget provide a simple way to get child`s rectangle information after rendered.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Nov 17, 2021",
+    "last_version": "1.1.0",
+    "publisher": "debuggerx.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flutter_reorderable_grid_view",
+    "likes": "162",
+    "points": "160",
+    "popularity": "96",
+    "description": "Enables animated GridViews when updating children or when trying to reorder them by using drag and drop.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jul 9, 2024",
+    "last_version": "5.0.1",
+    "publisher": "karvulf.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "simple_ripple_animation",
+    "likes": "134",
+    "points": "160",
+    "popularity": "96",
+    "description": "This package provide ripple animation widget that is easy to set up and customise, and it looks beautiful in any color you choose.",
+    "thumbnail": "https://pub.dev//packages/simple_ripple_animation/versions/0.0.9/gen-res/gen/desktop.webp",
+    "hashtags": [],
+    "last_update": "Jan 1, 2024",
+    "last_version": "0.0.9",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "reflectable",
+    "likes": "162",
+    "points": "160",
+    "popularity": "96",
+    "description": "Reflection support based on code generation, using 'capabilities' to specify which operations to support, on which objects.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 22, 2024",
+    "last_version": "4.0.10",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "sign_in_button",
+    "likes": "114",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Flutter plugin for generating sign-in buttons for different social media accounts.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 13, 2023",
+    "last_version": "3.2.0",
+    "publisher": "steenbakker.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "circular_menu",
+    "likes": "462",
+    "points": "160",
+    "popularity": "95",
+    "description": "A simple animated circular menu for Flutter, Adjustable radius, colors, alignment, animation curve and animation duration.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "May 28, 2024",
+    "last_version": "4.0.0",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "country_flags",
+    "likes": "81",
+    "points": "160",
+    "popularity": "98",
+    "description": "A Flutter package to show a flag icon from a ISO country code.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 17, 2024",
+    "last_version": "3.0.0",
+    "publisher": "fluttered.io",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "cli_completion",
+    "likes": "54",
+    "points": "160",
+    "popularity": "99",
+    "description": "Completion functionality for Dart Command-Line Interfaces built using CommandRunner. Built by Very Good Ventures.",
+    "thumbnail": "https://pub.dev//packages/cli_completion/versions/0.5.1/gen-res/gen/screen.webp",
+    "hashtags": [
+      "#cli",
+      "#completion",
+      "#shell",
+      "#bash",
+      "#autocomplete"
+    ],
+    "last_update": "Aug 19, 2024",
+    "last_version": "0.5.1",
+    "publisher": "verygood.ventures",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "copy_with_extension",
+    "likes": "96",
+    "points": "160",
+    "popularity": "97",
+    "description": "Annotation for generating `copyWith` extensions code using `copy_with_extension_gen`.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 14, 2023",
+    "last_version": "5.0.4",
+    "publisher": "alexander-kirsch.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "google_api_availability",
+    "likes": "84",
+    "points": "160",
+    "popularity": "97",
+    "description": "A Flutter plugin to check the availability of Google Play Services on an Android device.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 24, 2023",
+    "last_version": "5.0.0",
+    "publisher": "baseflow.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android"
+    ]
+  },
+  {
+    "title": "unity_ads_plugin",
+    "likes": "153",
+    "points": "160",
+    "popularity": "96",
+    "description": "Unity Ads plugin for Flutter Applications. This plugin is able to display Unity Banner Ads and Unity Video Ads.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Aug 7, 2024",
+    "last_version": "0.3.20",
+    "publisher": "rebeloid.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "stomp_dart_client",
+    "likes": "115",
+    "points": "160",
+    "popularity": "97",
+    "description": "Dart STOMP client for easy messaging interoperability. Build with flutter in mind, but should work for every dart application.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Sep 6, 2024",
+    "last_version": "2.1.0",
+    "publisher": "blackhorse-one.com",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "flashy_tab_bar2",
+    "likes": "238",
+    "points": "160",
+    "popularity": "95",
+    "description": "One another nice animated tab bar (Flutter Version) (inspired by https://github.com/Cuberto/flashy-tabbar)",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Mar 5, 2024",
+    "last_version": "0.0.10",
+    "publisher": "horovitz.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "floating_action_bubble",
+    "likes": "289",
+    "points": "160",
+    "popularity": "95",
+    "description": "A animated menu using a floating action button , the aesthetic of the menu items are fully customisable",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jan 30, 2022",
+    "last_version": "1.1.4",
+    "publisher": "",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  },
+  {
+    "title": "pub_updater",
+    "likes": "60",
+    "points": "160",
+    "popularity": "99",
+    "description": "A Dart package which enables checking whether a package is up to date.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#cli",
+      "#pub",
+      "#version"
+    ],
+    "last_update": "Aug 28, 2024",
+    "last_version": "0.5.0",
+    "publisher": "verygood.ventures",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "title": "cunning_document_scanner",
+    "likes": "161",
+    "points": "160",
+    "popularity": "96",
+    "description": "A document scanner plugin for flutter. Scan and crop automatically on iOS and Android.",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [],
+    "last_update": "Jun 20, 2024",
+    "last_version": "1.2.3",
+    "publisher": "cunning.biz",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Flutter"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "title": "csslib",
+    "likes": "47",
+    "points": "160",
+    "popularity": "99",
+    "description": "A library for parsing and analyzing CSS (Cascading Style Sheets).",
+    "thumbnail": "https://pub.dev/undefined",
+    "hashtags": [
+      "#css"
+    ],
+    "last_update": "Jun 7, 2023",
+    "last_version": "1.0.0",
+    "publisher": "tools.dart.dev",
+    "dart_3_compatible": true,
+    "sdk_data": [
+      "Dart"
+    ],
+    "platform_data": [
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "web",
+      "Windows"
+    ]
+  }
+]
