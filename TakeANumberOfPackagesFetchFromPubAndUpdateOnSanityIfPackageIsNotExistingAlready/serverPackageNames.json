@@ -1,0 +1,81 @@
+{
+  "🎨 UI Components and Styling": [
+    "Animation Libraries 🎬",
+    "Icons and Fonts 🔤",
+    "Theming and Styling 🎭",
+    "Layout and Responsiveness 📏",
+    "Dialogs and Notifications 💬",
+    "Progress Indicators 🔄",
+    "Miscellaneous UI 🧩",
+    "Calendar 📅",
+    "Layout 📐",
+    "Visual Effects ✨",
+    "Input and Forms 📝"
+  ],
+  "🌐 Networking and API": [ "Network Utilities 🔌", "Server 🖥️", "HTTP Clients 🌍" ],
+  "📷 Media Handling": [
+    "Audio 🎵",
+    "Camera 📸",
+    "Record 🎙️",
+    "Image Processing 🖼️",
+    "Video 🎥"
+  ],
+  "📍 Location and Maps": [ "Maps 🗺️", "Location Services 📍" ],
+  "📁 File Handling": [ "File Operations 📂" ],
+  "🔐 Authentication": [ "Social Authentication 🔑", "Local Authentication 🔒" ],
+  "📊 Charts and Data Visualization": [ "Charting Libraries 📈" ],
+  "🔒 Permissions and Device Info": [ "Permissions 🔓", "Device Information 📱" ],
+  "🛠️ Utilities": [
+    "Code Generation 🏗️",
+    "Linting and Testing 🧪",
+    "Mock Data 🎭",
+    "Email Validation ✉️",
+    "XML Parsing 📄",
+    "Timezone 🌐",
+    "Stream Transformation 🔄",
+    "Logging and Debugging 🐛",
+    "MIME 📎",
+    "YAML 📝",
+    "Data Manipulation 🔧"
+  ],
+  "🔌 Platform Integration": [
+    "FFI 🔗",
+    "Web Integration 🌐",
+    "Desktop Integration 🖥️",
+    "Mobile Integration 📱",
+    "Sharing 📤",
+    "App Review and Update 🔄",
+    "Contacts 👥",
+    "Win32 🪟"
+  ],
+  "🔔 Notifications": [ "Push Notifications 📲" ],
+  "💰 Ads and Monetization": [ "Mobile Ads 📱💰", "In-App Purchases 💳" ],
+  "🎮 Game Development": [ "Game Engines 🕹️" ],
+  "🔧 Miscellaneous": [
+    "Responsive Design 📐",
+    "Timers ⏱️",
+    "Value Types 🔢",
+    "UI Helpers 🧩",
+    "App Functionality 🛠️",
+    "Machine Learning 🤖",
+    "App Store Integration 📦",
+    "Analytics 📊",
+    "HTML Rendering 📄",
+    "Networking 🌐",
+    "Debugging 🐛",
+    "Input Formatting 📝",
+    "Parsing 📝"
+  ],
+  "🧭 Navigation and Routing": [ "Bottom Navigation 🚀", "Drawers 🗄️", "Page Transitions 🔀" ],
+  "🧠 State Management": [
+    "BLoC Pattern 🧱",
+    "MobX 📊",
+    "Other State Management 🔄",
+    "Provider and Riverpod 🏗️"
+  ],
+  "💾 Data Storage and Persistence": [ "Local Storage 📦", "Databases 🗃️", "File System 📂" ],
+  "📄 PDF Handling": [ "PDF Viewing and Processing 📚" ],
+  "📷 Barcode and QR": [ "Barcode Scanning and Generation 📊" ],
+  "☁️ Backend as a Service": [ "Supabase 🗄️" ],
+  "🌍 Internationalization": [ "Localization 🌐" ]
+}

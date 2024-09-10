@@ -1,0 +1,22 @@
+[
+  {
+    "_updatedAt": "2024-09-10T09:46:30Z",
+    "email": "shikha.jy99@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$GpIBU4JcRZ0cmR9wLl4MUg$JUL8/3boyxC4OIvgA5vRAhjpAHNmlhyn0y0/oLl0Q+g",
+    "_createdAt": "2024-09-10T09:46:30Z",
+    "_rev": "ezMiwuUkJkbYMWycAJLw9m",
+    "_type": "user",
+    "name": "Shikha Yadav",
+    "_id": "user.805f48ce-db3b-48f2-8428-1bd89d8851fa"
+  },
+  {
+    "_id": "user.dc01a30b-2c50-45e9-bfd4-41080c7958b6",
+    "_updatedAt": "2024-09-10T09:46:32Z",
+    "email": "shikha.jy99@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$++veEDJKoa1l47XxlfZQbQ$XjVt/yanLnCpF5Av0u/TeR+iu3V9iy3G9gcepRKMwao",
+    "_createdAt": "2024-09-10T09:46:32Z",
+    "_rev": "F9BvzCOvNT3yZqjSsUKnPW",
+    "_type": "user",
+    "name": "Shikha Yadav"
+  }
+]

@@ -164,7 +164,30 @@ async function main() {
     console.log(serverPackageNames.length);
 }
 
-main();
+// main();
+
+async function FetchList() {
+  const categories = await client.fetch(`*[_type == "category"]`);
+  const subCategories = await client.fetch(`*[_type == "subCategory"]`);
+  let dict = {};
+  for (const subCategory of subCategories) {
+    dict[subCategory.name] = subCategory.category._ref;
+  }
+  for (const [key, value] of Object.entries(dict)) {
+    dict[key] = categories.find(category => category._id === value).name;
+  }
+  
+  let newMap = {};
+  for (const [key, value] of Object.entries(dict)) {
+    newMap[value] = [];
+  }
+  for (const [key, value] of Object.entries(dict)) {
+    newMap[value].push(key);
+  }
+  console.log(newMap);
+}
+
+FetchList();
 
 
 // async function redoSanity() {
