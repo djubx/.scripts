@@ -15,53 +15,72 @@ const client = createClient({
   useCdn: false,
 });
 
-
-
 async function scrapePackageData(packageName) {
+    try {
+        // read this package if it is already existing in extractedDataPubDataFinalDataCreated.json
+        const extractedDataPubDataFinalDataCreated = JSON.parse(fs.readFileSync('./extractedDataPubDataFinalDataCreated.json', 'utf8'));
+        const existingPackage = extractedDataPubDataFinalDataCreated.find(package => package.title === packageName);
+        if (existingPackage) {
+            console.log(`Package ${packageName} already exists in extractedDataPubDataFinalDataCreated.json`);
+            return existingPackage;
+        }
 
-    // read this package if it is already existing in extractedDataPubDataFinalDataCreated.json
-    const extractedDataPubDataFinalDataCreated = JSON.parse(fs.readFileSync('./extractedDataPubDataFinalDataCreated.json', 'utf8'));
-    const existingPackage = extractedDataPubDataFinalDataCreated.find(package => package.title === packageName);
-    if (existingPackage) {
-        console.log(`Package ${packageName} already exists in extractedDataPubDataFinalDataCreated.json`);
-        return existingPackage;
+        const url = `https://pub.dev/packages/${packageName}`;
+        let response;
+        let retries = 0;
+        const maxRetries = 10;
+
+        while (retries < maxRetries) {
+            try {
+                response = await axios.get(url);
+                break;
+            } catch (error) {
+                console.error(`Error fetching ${packageName}. Retrying in 1 second... (Attempt ${retries + 1}/${maxRetries})`);
+                console.error(`Error details: ${error.message}`);
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                retries++;
+            }
+        }
+
+        if (!response) {
+            console.error(`Failed to fetch ${packageName} after ${maxRetries} attempts.`);
+            return null;
+        }
+
+        const $ = cheerio.load(response.data);
+        // Helper function to parse numbers, removing any non-digit characters
+        const parseNumber = (str) => {
+          const digitsOnly = str.replace(/\D/g, '');
+          const halfLength = Math.floor(digitsOnly.length / 2);
+          return digitsOnly.slice(0, halfLength);
+        };
+      
+        return {
+          title: packageName,
+          likes: parseNumber($('.packages-score-like .packages-score-value-number').text().trim()),
+          points: parseNumber($('.packages-score-health .packages-score-value-number').text().trim()),
+          popularity: parseNumber($('.packages-score-popularity .packages-score-value-number').text().trim()),
+          description: $('.detail-lead-text').text().trim(),
+          thumbnail: 'https://pub.dev/' + ($('.thumbnail-container').data('thumbnail')?.split(',')[0] || $('.detail-image img').attr('src')),
+          hashtags: [...new Set($('.title:contains("Topics")').next('p').find('a').map((_, el) => $(el).text().trim()).get())],
+          last_update: $('.-x-ago').attr('title') || 'Unknown',
+          last_version: $('h1.title').text().match(/(\d+\.\d+\.\d+)/)?.[1] || 'Unknown',
+          publisher: $('.-pub-publisher').text().trim(),
+          dart_3_compatible: $('.package-badge').text().includes('Dart 3 compatible'),
+          sdk_data: $('.tag-badge-sub')
+            .filter((_, el) => $(el).prev().text().trim() === 'SDK')
+            .map((_, el) => $(el).text().trim())
+            .get(),
+          platform_data: $('.tag-badge-sub')
+            .filter((_, el) => $(el).parent().find('.tag-badge-main').text().trim() === 'Platform')
+            .map((_, el) => $(el).text().trim())
+            .get(),
+        };
+    } catch (error) {
+        console.error(`Error in scrapePackageData for ${packageName}: ${error.message}`);
+        return null;
     }
-
-    const url = `https://pub.dev/packages/${packageName}`;
-    const response = await axios.get(url);
-    const $ = cheerio.load(response.data);
-  
-    // Helper function to parse numbers, removing any non-digit characters
-    const parseNumber = (str) => {
-      const digitsOnly = str.replace(/\D/g, '');
-      const halfLength = Math.floor(digitsOnly.length / 2);
-      // return parseInt(digitsOnly.slice(0, halfLength)) || 0;
-      return digitsOnly.slice(0, halfLength);
-    };
-  
-  
-    return {
-      title: packageName,
-      likes: parseNumber($('.packages-score-like .packages-score-value-number').text().trim()),
-      points: parseNumber($('.packages-score-health .packages-score-value-number').text().trim()),
-      popularity: parseNumber($('.packages-score-popularity .packages-score-value-number').text().trim()),
-      description: $('.detail-lead-text').text().trim(),
-      thumbnail: 'https://pub.dev/' + ($('.thumbnail-container').data('thumbnail')?.split(',')[0] || $('.detail-image img').attr('src')),
-      hashtags: [...new Set($('.title:contains("Topics")').next('p').find('a').map((_, el) => $(el).text().trim()).get())],
-      last_update: $('.-x-ago').attr('title') || 'Unknown',
-      last_version: $('h1.title').text().match(/(\d+\.\d+\.\d+)/)[1],
-      publisher: $('.-pub-publisher').text().trim(),
-      dart_3_compatible: $('.package-badge').text().includes('Dart 3 compatible'),
-      sdk_data: $('.tag-badge-sub')
-        .filter((_, el) => $(el).prev().text().trim() === 'SDK')
-        .map((_, el) => $(el).text().trim())
-        .get(),
-      platform_data: $('.tag-badge-sub')
-        .filter((_, el) => $(el).parent().find('.tag-badge-main').text().trim() === 'Platform')
-        .map((_, el) => $(el).text().trim())
-        .get(),
-    };
-  }
+}
 
 async function scrapeThesepackagesFromPub(packageNames) {
     let packagesData = [];
@@ -69,11 +88,19 @@ async function scrapeThesepackagesFromPub(packageNames) {
     for (const packageName of packageNames) {
         console.log(`Fetching data for ${packageName}...`);
         const packageData = await scrapePackageData(packageName);
-        packagesData.push(packageData);
+        if (packageData) {
+            packagesData.push(packageData);
+        } else {
+            console.error(`Failed to fetch data for ${packageName}`);
+        }
     }
 
-    fs.writeFileSync('extractedDataPubDataFinalDataCreated.json', JSON.stringify(packagesData, null, 2));
-    console.log('extractedDataPubDataFinalDataCreated.json updated successfully');
+    try {
+        fs.writeFileSync('extractedDataPubDataFinalDataCreated.json', JSON.stringify(packagesData, null, 2));
+        console.log('extractedDataPubDataFinalDataCreated.json updated successfully');
+    } catch (error) {
+        console.error(`Error writing to extractedDataPubDataFinalDataCreated.json: ${error.message}`);
+    }
     return packagesData;
 }
 
@@ -87,10 +114,10 @@ async function uploadImageToSanity(imageUrl) {
         asset: { _type: 'reference', _ref: asset._id }
       };
     } catch (error) {
-      console.error('Error uploading image:', error);
+      console.error(`Error uploading image from ${imageUrl}: ${error.message}`);
       return null;
     }
-  }
+}
 
 async function createPackage(packageData, metadata) {
     try {
@@ -121,138 +148,164 @@ async function createPackage(packageData, metadata) {
       });
       console.log(`Created package with ID: ${result._id}`);
     } catch (error) {
-      console.error('Error creating package:', error.message);
+      console.error(`Error creating package ${packageData.title}: ${error.message}`);
       if (error.response) {
-        console.error('Response details:', error.response);
+        console.error('Response details:', JSON.stringify(error.response.data, null, 2));
       }
     }
-  }
+}
   
 async function fetchServerPackageNames() {
-    const fullPackages = await client.fetch(`*[_type == "package"]`);
-    const packageNames = fullPackages.map(package => package.name);
-    return packageNames;
+    try {
+        const fullPackages = await client.fetch(`*[_type == "package"]`);
+        return fullPackages.map(package => package.name);
+    } catch (error) {
+        console.error(`Error fetching server package names: ${error.message}`);
+        return [];
+    }
 }
 
 async function fetchExtractedDataPackages() {
-    const extractedDataPackages = JSON.parse(fs.readFileSync('./extractedDataPackages.json', 'utf8'));
-    return extractedDataPackages;
+    try {
+        return JSON.parse(fs.readFileSync('./extractedDataPackages.json', 'utf8'));
+    } catch (error) {
+        console.error(`Error reading extractedDataPackages.json: ${error.message}`);
+        return [];
+    }
 }
 
 async function finalPackagesTobeAddedToSanity() {
     const serverPackageNames = await fetchServerPackageNames();
     const extractedDataPackages = await fetchExtractedDataPackages();
-    const finalPackages = extractedDataPackages.filter(package => !serverPackageNames.includes(package.packageName));
-    return finalPackages;
+    return extractedDataPackages.filter(package => !serverPackageNames.includes(package.packageName));
 }
 
 async function main() {
-    const extractedPackageMetas = await finalPackagesTobeAddedToSanity();
-    console.log(`final packages to be added to sanity: ${extractedPackageMetas.length}`);
-    const finalpackageNames = extractedPackageMetas.map(package => package.packageName);
-    const pubPackagesData = await scrapeThesepackagesFromPub(finalpackageNames);
+    try {
+        const extractedPackageMetas = await finalPackagesTobeAddedToSanity();
+        console.log(`Final packages to be added to sanity: ${extractedPackageMetas.length}`);
+        const finalpackageNames = extractedPackageMetas.map(package => package.packageName);
+        const pubPackagesData = await scrapeThesepackagesFromPub(finalpackageNames);
 
-    for (let i = 0; i < extractedPackageMetas.length; i++) {
-        const packageMeta = extractedPackageMetas[i];
-        const packageData = pubPackagesData[i];
-        if (packageMeta.packageName != packageData.title) {
-            console.log(`Package name mismatch: ${packageMeta.packageName} != ${packageData.title}`);
-            continue;
+        for (let i = 0; i < extractedPackageMetas.length; i++) {
+            const packageMeta = extractedPackageMetas[i];
+            const packageData = pubPackagesData[i];
+            if (!packageData) {
+                console.error(`No pub data found for package: ${packageMeta.packageName}`);
+                continue;
+            }
+            if (packageMeta.packageName !== packageData.title) {
+                console.error(`Package name mismatch: ${packageMeta.packageName} != ${packageData.title}`);
+                continue;
+            }
+            await createPackage(packageData, packageMeta);
         }
-        await createPackage(packageData, packageMeta);
+        const serverPackageNames = await fetchServerPackageNames();
+        console.log(`Total packages in Sanity after update: ${serverPackageNames.length}`);
+    } catch (error) {
+        console.error(`Error in main function: ${error.message}`);
     }
-    const serverPackageNames = await fetchServerPackageNames();
-    console.log(serverPackageNames.length);
 }
 
 main();
 
 async function FetchList() {
-  const categories = await client.fetch(`*[_type == "category"]`);
-  const subCategories = await client.fetch(`*[_type == "subCategory"]`);
-  let dict = {};
-  for (const subCategory of subCategories) {
-    dict[subCategory.name] = subCategory.category._ref;
-  }
-  for (const [key, value] of Object.entries(dict)) {
-    dict[key] = categories.find(category => category._id === value).name;
-  }
-  
-  let newMap = {};
-  for (const [key, value] of Object.entries(dict)) {
-    newMap[value] = [];
-  }
-  for (const [key, value] of Object.entries(dict)) {
-    newMap[value].push(key);
-  }
-
-  // filter only alphabets and remove ending spaces if present
-  const subcats = subCategories.map(subCategory => subCategory.name.replace(/\s+/g, '').replace(/[^a-zA-Z0-9]/g, ''));
-  // console.log(subcats);
-
-  const serverPackages = JSON.parse(fs.readFileSync('./serverPackages.json', 'utf8'));
-
-  for (let i = 0; i < serverPackages.length; i++) {
-    if (!subcats.includes(serverPackages[i].subcategory)) {
-      console.log(`Issue with package ${serverPackages[i].name}: subcategory "${serverPackages[i].subcategory}" not found`);
+  try {
+    const categories = await client.fetch(`*[_type == "category"]`);
+    const subCategories = await client.fetch(`*[_type == "subCategory"]`);
+    let dict = {};
+    for (const subCategory of subCategories) {
+      dict[subCategory.name] = subCategory.category._ref;
     }
+    for (const [key, value] of Object.entries(dict)) {
+      dict[key] = categories.find(category => category._id === value).name;
+    }
+    
+    let newMap = {};
+    for (const [key, value] of Object.entries(dict)) {
+      newMap[value] = [];
+    }
+    for (const [key, value] of Object.entries(dict)) {
+      newMap[value].push(key);
+    }
+
+    // filter only alphabets and remove ending spaces if present
+    const subcats = subCategories.map(subCategory => subCategory.name.replace(/\s+/g, '').replace(/[^a-zA-Z0-9]/g, ''));
+
+    const serverPackages = JSON.parse(fs.readFileSync('./serverPackages.json', 'utf8'));
+
+    for (let i = 0; i < serverPackages.length; i++) {
+      if (!subcats.includes(serverPackages[i].subcategory)) {
+        console.error(`Issue with package ${serverPackages[i].name}: subcategory "${serverPackages[i].subcategory}" not found`);
+      }
+    }
+  } catch (error) {
+    console.error(`Error in FetchList: ${error.message}`);
   }
 }
 
 async function unlinkPackages() {
-  const packages = await client.fetch(`*[_type == "package"]`);
-  for (const package of packages) {
-    await client.patch(package._id).unset([
-      'subCategories',
-      'tags'
-    ]).commit();
+  try {
+    const packages = await client.fetch(`*[_type == "package"]`);
+    for (const package of packages) {
+      await client.patch(package._id).unset([
+        'subCategories',
+        'tags'
+      ]).commit();
+    }
+    console.log('Successfully unlinked all packages');
+  } catch (error) {
+    console.error(`Error in unlinkPackages: ${error.message}`);
   }
 }
 
 async function unlinkSubCategories() {
-  const subCategories = await client.fetch(`*[_type == "subCategory"]`);
-  for (const subCategory of subCategories) {
-    await client.patch(subCategory._id).unset([
-      'category'
-    ]).commit();
+  try {
+    const subCategories = await client.fetch(`*[_type == "subCategory"]`);
+    for (const subCategory of subCategories) {
+      await client.patch(subCategory._id).unset([
+        'category'
+      ]).commit();
+    }
+    console.log('Successfully unlinked all subCategories');
+  } catch (error) {
+    console.error(`Error in unlinkSubCategories: ${error.message}`);
   }
 }
 
 async function deleteCategoryAndSubcategory() {
-const categories = await client.fetch(`*[_type == "category"]`);
-for (const category of categories) {
-  await client.delete(category._id);
-} 
-const subCategories = await client.fetch(`*[_type == "subCategory"]`);
-for (const subCategory of subCategories) {
   try {
-    await client.delete(subCategory._id);
+    const categories = await client.fetch(`*[_type == "category"]`);
+    for (const category of categories) {
+      await client.delete(category._id);
+    } 
+    const subCategories = await client.fetch(`*[_type == "subCategory"]`);
+    for (const subCategory of subCategories) {
+      try {
+        await client.delete(subCategory._id);
+      } catch (error) {
+        console.error(`Error deleting subCategory: ${subCategory.name}. Error: ${error.message}`);
+      }
+    }
+    console.log('Successfully deleted all categories and subcategories');
   } catch (error) {
-    console.log(`Error deleting subCategory: ${subCategory.name}`);
+    console.error(`Error in deleteCategoryAndSubcategory: ${error.message}`);
   }
-}
 }
 
 async function createCategories() {
-  const serverPackageNames = JSON.parse(fs.readFileSync('./serverPackageNames.json', 'utf8'));
-  let cats = [];
-  for (const [key, value] of Object.entries(serverPackageNames)) {
-    cats.push(key);
-  }
+  try {
+    const serverPackageNames = JSON.parse(fs.readFileSync('./serverPackageNames.json', 'utf8'));
+    let cats = Object.keys(serverPackageNames);
 
-  let index = 0;
-  const categories = cats.map((category) => {
-    index++;
-    return {
+    const categories = cats.map((category, index) => ({
       _type: 'category',
       name: category,
-      order: index - 1
-    };
-  });
+      order: index
+    }));
 
-  console.log(categories);
+    console.log('Categories to be created:', categories);
 
-  try {
     // Fetch existing categories
     const existingCategories = await client.fetch('*[_type == "category"]');
 
@@ -268,12 +321,9 @@ async function createCategories() {
     }
     console.log('All categories processed successfully');
   } catch (error) {
-    console.error('Error creating categories:', error);
+    console.error(`Error in createCategories: ${error.message}`);
   }
 }
-
-
-
 // async function redoSanity() {
 //   const extractedDataPackages = await fetchExtractedDataPackages();
 //   // for each package update the main in sanity
