@@ -148,6 +148,7 @@ async function finalPackagesTobeAddedToSanity() {
 
 async function main() {
     const extractedPackageMetas = await finalPackagesTobeAddedToSanity();
+    console.log(`final packages to be added to sanity: ${extractedPackageMetas.length}`);
     const finalpackageNames = extractedPackageMetas.map(package => package.packageName);
     const pubPackagesData = await scrapeThesepackagesFromPub(finalpackageNames);
 
@@ -164,7 +165,7 @@ async function main() {
     console.log(serverPackageNames.length);
 }
 
-// main();
+main();
 
 async function FetchList() {
   const categories = await client.fetch(`*[_type == "category"]`);
@@ -184,10 +185,93 @@ async function FetchList() {
   for (const [key, value] of Object.entries(dict)) {
     newMap[value].push(key);
   }
-  console.log(newMap);
+
+  // filter only alphabets and remove ending spaces if present
+  const subcats = subCategories.map(subCategory => subCategory.name.replace(/\s+/g, '').replace(/[^a-zA-Z0-9]/g, ''));
+  // console.log(subcats);
+
+  const serverPackages = JSON.parse(fs.readFileSync('./serverPackages.json', 'utf8'));
+
+  for (let i = 0; i < serverPackages.length; i++) {
+    if (!subcats.includes(serverPackages[i].subcategory)) {
+      console.log(`Issue with package ${serverPackages[i].name}: subcategory "${serverPackages[i].subcategory}" not found`);
+    }
+  }
 }
 
-FetchList();
+async function unlinkPackages() {
+  const packages = await client.fetch(`*[_type == "package"]`);
+  for (const package of packages) {
+    await client.patch(package._id).unset([
+      'subCategories',
+      'tags'
+    ]).commit();
+  }
+}
+
+async function unlinkSubCategories() {
+  const subCategories = await client.fetch(`*[_type == "subCategory"]`);
+  for (const subCategory of subCategories) {
+    await client.patch(subCategory._id).unset([
+      'category'
+    ]).commit();
+  }
+}
+
+async function deleteCategoryAndSubcategory() {
+const categories = await client.fetch(`*[_type == "category"]`);
+for (const category of categories) {
+  await client.delete(category._id);
+} 
+const subCategories = await client.fetch(`*[_type == "subCategory"]`);
+for (const subCategory of subCategories) {
+  try {
+    await client.delete(subCategory._id);
+  } catch (error) {
+    console.log(`Error deleting subCategory: ${subCategory.name}`);
+  }
+}
+}
+
+async function createCategories() {
+  const serverPackageNames = JSON.parse(fs.readFileSync('./serverPackageNames.json', 'utf8'));
+  let cats = [];
+  for (const [key, value] of Object.entries(serverPackageNames)) {
+    cats.push(key);
+  }
+
+  let index = 0;
+  const categories = cats.map((category) => {
+    index++;
+    return {
+      _type: 'category',
+      name: category,
+      order: index - 1
+    };
+  });
+
+  console.log(categories);
+
+  try {
+    // Fetch existing categories
+    const existingCategories = await client.fetch('*[_type == "category"]');
+
+    for (const category of categories) {
+      // Check if the category already exists
+      const existingCategory = existingCategories.find(c => c.name === category.name);
+      if (existingCategory) {
+        console.log(`Category already exists: ${category.name}`);
+      } else {
+        const result = await client.create(category);
+        console.log(`Created category: ${result.name}`);
+      }
+    }
+    console.log('All categories processed successfully');
+  } catch (error) {
+    console.error('Error creating categories:', error);
+  }
+}
+
 
 
 // async function redoSanity() {

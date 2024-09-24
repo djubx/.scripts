@@ -1,0 +1,165 @@
+{
+  "🎨 UI Components and Styling": [
+    "AnimationLibraries",
+    "IconsandFonts",
+    "ThemingandStyling",
+    "LayoutandResponsiveness",
+    "DialogsandNotifications",
+    "ProgressIndicators",
+    "MiscellaneousUI",
+    "Calendar",
+    "Layout",
+    "VisualEffects",
+    "InputandForms",
+    "SlidersandPickers",
+    "CarouselandSwipers",
+    "ButtonsandToggles",
+    "TextStylingandManipulation"
+  ],
+  "🌐 Networking and API": [
+    "NetworkUtilities",
+    "Server",
+    "HTTPClients",
+    "WebSocket",
+    "GraphQL"
+  ],
+  "📷 Media Handling": [
+    "Audio",
+    "Camera",
+    "Record",
+    "ImageProcessing",
+    "Video",
+    "MediaPlayers"
+  ],
+  "📍 Location and Maps": [
+    "Maps",
+    "LocationServices",
+    "Geolocation"
+  ],
+  "📁 File Handling": [
+    "FileOperations",
+    "FilePickers",
+    "FileCompression"
+  ],
+  "🔐 Authentication": [
+    "SocialAuthentication",
+    "LocalAuthentication",
+    "Biometrics"
+  ],
+  "📊 Charts and Data Visualization": [
+    "ChartingLibraries",
+    "DataTables"
+  ],
+  "🔒 Permissions and Device Info": [
+    "Permissions",
+    "DeviceInformation",
+    "Sensors"
+  ],
+  "🛠️ Utilities": [
+    "CodeGeneration",
+    "LintingandTesting",
+    "MockData",
+    "EmailValidation",
+    "XMLParsing",
+    "Timezone",
+    "StreamTransformation",
+    "LoggingandDebugging",
+    "MIME",
+    "YAML",
+    "DataManipulation",
+    "DependencyInjection",
+    "EncryptionandHashing"
+  ],
+  "🔌 Platform Integration": [
+    "FFI",
+    "WebIntegration",
+    "DesktopIntegration",
+    "MobileIntegration",
+    "Sharing",
+    "AppReviewandUpdate",
+    "Contacts",
+    "Win",
+    "DeepLinking"
+  ],
+  "🔔 Notifications": [
+    "PushNotifications",
+    "LocalNotifications"
+  ],
+  "💰 Ads and Monetization": [
+    "MobileAds",
+    "InAppPurchases"
+  ],
+  "🎮 Game Development": [
+    "GameEngines",
+    "PhysicsEngines"
+  ],
+  "🔧 Miscellaneous": [
+    "ResponsiveDesign",
+    "Timers",
+    "ValueTypes",
+    "UIHelpers",
+    "AppFunctionality",
+    "MachineLearning",
+    "AppStoreIntegration",
+    "Analytics",
+    "HTMLRendering",
+    "Networking",
+    "Debugging",
+    "InputFormatting",
+    "Parsing",
+    "DeviceUtilities"
+  ],
+  "🧭 Navigation and Routing": [
+    "BottomNavigation",
+    "Drawers",
+    "PageTransitions",
+    "RoutingLibraries"
+  ],
+  "🧠 State Management": [
+    "BLoCPattern",
+    "MobX",
+    "OtherStateManagement",
+    "ProviderandRiverpod",
+    "Redux"
+  ],
+  "💾 Data Storage and Persistence": [
+    "LocalStorage",
+    "Databases",
+    "FileSystem",
+    "Caching"
+  ],
+  "📄 PDF Handling": [
+    "PDFViewingandProcessing",
+    "PDFGeneration"
+  ],
+  "📷 Barcode and QR": [
+    "BarcodeScanningandGeneration"
+  ],
+  "☁️ Backend as a Service": [
+    "Supabase",
+    "Firebase",
+    "AppWrite"
+  ],
+  "🌍 Internationalization": [
+    "Localization",
+    "Translation"
+  ],
+  "🔐 Security": [
+    "Encryption",
+    "SecureStorage"
+  ],
+  "🧪 Testing": [
+    "UnitTesting",
+    "WidgetTesting",
+    "IntegrationTesting"
+  ],
+  "🔌 Hardware Integration": [
+    "Bluetooth",
+    "NFC",
+    "USB"
+  ],
+  "🖨️ Printing": [
+    "DocumentPrinting",
+    "ThermalPrinting"
+  ]
+}

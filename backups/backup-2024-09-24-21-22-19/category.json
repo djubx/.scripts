@@ -1,0 +1,227 @@
+[
+  {
+    "name": "📷 Media Handling",
+    "_id": "AE3hjGWNkNE6aGQMMi0bwN",
+    "_updatedAt": "2024-09-10T20:24:24Z",
+    "order": 2,
+    "_createdAt": "2024-09-10T20:24:24Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0bum",
+    "_type": "category"
+  },
+  {
+    "order": 3,
+    "_createdAt": "2024-09-10T20:24:25Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0bzZ",
+    "_type": "category",
+    "name": "📍 Location and Maps",
+    "_id": "AE3hjGWNkNE6aGQMMi0c1A",
+    "_updatedAt": "2024-09-10T20:24:25Z"
+  },
+  {
+    "_rev": "AE3hjGWNkNE6aGQMMi0c4M",
+    "_type": "category",
+    "name": "📁 File Handling",
+    "_id": "AE3hjGWNkNE6aGQMMi0c5x",
+    "_updatedAt": "2024-09-10T20:24:26Z",
+    "order": 4,
+    "_createdAt": "2024-09-10T20:24:26Z"
+  },
+  {
+    "name": "📊 Charts and Data Visualization",
+    "_id": "AE3hjGWNkNE6aGQMMi0cCL",
+    "_updatedAt": "2024-09-10T20:24:28Z",
+    "order": 6,
+    "_createdAt": "2024-09-10T20:24:28Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0cAk",
+    "_type": "category"
+  },
+  {
+    "_type": "category",
+    "name": "🛠️ Utilities",
+    "_id": "AE3hjGWNkNE6aGQMMi0cH8",
+    "_updatedAt": "2024-09-10T20:24:30Z",
+    "order": 8,
+    "_createdAt": "2024-09-10T20:24:30Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0cFX"
+  },
+  {
+    "_type": "category",
+    "name": "🔌 Platform Integration",
+    "_id": "AE3hjGWNkNE6aGQMMi0cLv",
+    "_updatedAt": "2024-09-10T20:24:31Z",
+    "order": 9,
+    "_createdAt": "2024-09-10T20:24:31Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0cKK"
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:35Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0cSJ",
+    "_type": "category",
+    "name": "🔧 Miscellaneous",
+    "_id": "AE3hjGWNkNE6aGQMMi0cTu",
+    "_updatedAt": "2024-09-10T20:24:35Z",
+    "order": 13
+  },
+  {
+    "name": "🧠 State Management",
+    "_id": "AE3hjGWNkNE6aGQMMi0dPO",
+    "_updatedAt": "2024-09-10T20:24:37Z",
+    "order": 15,
+    "_createdAt": "2024-09-10T20:24:37Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0dNn",
+    "_type": "category"
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:39Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0dSa",
+    "_type": "category",
+    "name": "📄 PDF Handling",
+    "_id": "AE3hjGWNkNE6aGQMMi0dUB",
+    "_updatedAt": "2024-09-10T20:24:39Z",
+    "order": 17
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:40Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0dfM",
+    "_type": "category",
+    "name": "📷 Barcode and QR",
+    "_id": "AE3hjGWNkNE6aGQMMi0dgx",
+    "_updatedAt": "2024-09-10T20:24:40Z",
+    "order": 18
+  },
+  {
+    "_updatedAt": "2024-09-10T20:24:41Z",
+    "order": 19,
+    "_createdAt": "2024-09-10T20:24:41Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0dk9",
+    "_type": "category",
+    "name": "☁️ Backend as a Service",
+    "_id": "AE3hjGWNkNE6aGQMMi0dlk"
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:43Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0efd",
+    "_type": "category",
+    "name": "🔐 Security",
+    "_id": "AE3hjGWNkNE6aGQMMi0ehE",
+    "_updatedAt": "2024-09-10T20:24:43Z",
+    "order": 21
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:44Z",
+    "_rev": "AE3hjGWNkNE6aGQMMi0ekQ",
+    "_type": "category",
+    "name": "🧪 Testing",
+    "_id": "AE3hjGWNkNE6aGQMMi0em1",
+    "_updatedAt": "2024-09-10T20:24:44Z",
+    "order": 22
+  },
+  {
+    "_updatedAt": "2024-09-10T20:24:32Z",
+    "order": 10,
+    "_createdAt": "2024-09-10T20:24:32Z",
+    "_rev": "F9BvzCOvNT3yZqjSsVUeLw",
+    "_type": "category",
+    "name": "🔔 Notifications",
+    "_id": "F9BvzCOvNT3yZqjSsVUeO6"
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:42Z",
+    "_rev": "F9BvzCOvNT3yZqjSsVUeWk",
+    "_type": "category",
+    "name": "🌍 Internationalization",
+    "_id": "F9BvzCOvNT3yZqjSsVUeYu",
+    "_updatedAt": "2024-09-10T20:24:42Z",
+    "order": 20
+  },
+  {
+    "name": "🔌 Hardware Integration",
+    "_id": "F9BvzCOvNT3yZqjSsVUehY",
+    "_updatedAt": "2024-09-10T20:24:45Z",
+    "order": 23,
+    "_createdAt": "2024-09-10T20:24:45Z",
+    "_rev": "F9BvzCOvNT3yZqjSsVUefO",
+    "_type": "category"
+  },
+  {
+    "_id": "ezMiwuUkJkbYMWycAL8P3L",
+    "_updatedAt": "2024-09-10T20:24:22Z",
+    "order": 0,
+    "_createdAt": "2024-09-10T20:24:22Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8OsY",
+    "_type": "category",
+    "name": "🎨 UI Components and Styling"
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:23Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8POv",
+    "_type": "category",
+    "name": "🌐 Networking and API",
+    "_id": "ezMiwuUkJkbYMWycAL8PSW",
+    "_updatedAt": "2024-09-10T20:24:23Z",
+    "order": 1
+  },
+  {
+    "order": 5,
+    "_createdAt": "2024-09-10T20:24:27Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8PkV",
+    "_type": "category",
+    "name": "🔐 Authentication",
+    "_id": "ezMiwuUkJkbYMWycAL8Po6",
+    "_updatedAt": "2024-09-10T20:24:27Z"
+  },
+  {
+    "order": 7,
+    "_createdAt": "2024-09-10T20:24:29Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8Q2U",
+    "_type": "category",
+    "name": "🔒 Permissions and Device Info",
+    "_id": "ezMiwuUkJkbYMWycAL8Q65",
+    "_updatedAt": "2024-09-10T20:24:29Z"
+  },
+  {
+    "_type": "category",
+    "name": "💰 Ads and Monetization",
+    "_id": "ezMiwuUkJkbYMWycAL8QKT",
+    "_updatedAt": "2024-09-10T20:24:33Z",
+    "order": 11,
+    "_createdAt": "2024-09-10T20:24:33Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8QGs"
+  },
+  {
+    "name": "🎮 Game Development",
+    "_id": "ezMiwuUkJkbYMWycAL8QVG",
+    "_updatedAt": "2024-09-10T20:24:34Z",
+    "order": 12,
+    "_createdAt": "2024-09-10T20:24:34Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8QRf",
+    "_type": "category"
+  },
+  {
+    "_type": "category",
+    "name": "🧭 Navigation and Routing",
+    "_id": "ezMiwuUkJkbYMWycAL8SPx",
+    "_updatedAt": "2024-09-10T20:24:36Z",
+    "order": 14,
+    "_createdAt": "2024-09-10T20:24:36Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8SMM"
+  },
+  {
+    "_type": "category",
+    "name": "💾 Data Storage and Persistence",
+    "_id": "ezMiwuUkJkbYMWycAL8SlX",
+    "_updatedAt": "2024-09-10T20:24:38Z",
+    "order": 16,
+    "_createdAt": "2024-09-10T20:24:38Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8Shw"
+  },
+  {
+    "_createdAt": "2024-09-10T20:24:46Z",
+    "_rev": "ezMiwuUkJkbYMWycAL8XPH",
+    "_type": "category",
+    "name": "🖨️ Printing",
+    "_id": "ezMiwuUkJkbYMWycAL8XSs",
+    "_updatedAt": "2024-09-10T20:24:46Z",
+    "order": 24
+  }
+]
