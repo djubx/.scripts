@@ -16,7 +16,8 @@
       "cupertino"
     ],
     "packageCount": 1177,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTIQD"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTIQD",
+    "subCategoryNameWithEmoji": "Widget Libraries 🧩"
   },
   {
     "subCategoryName": "Custom Animations",
@@ -35,7 +36,8 @@
       "tweens"
     ],
     "packageCount": 516,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTIaf"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTIaf",
+    "subCategoryNameWithEmoji": "Custom Animations 🎭"
   },
   {
     "subCategoryName": "UI Frameworks",
@@ -54,7 +56,8 @@
       "material-design"
     ],
     "packageCount": 425,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq4hl"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq4hl",
+    "subCategoryNameWithEmoji": "UI Frameworks 🖼️"
   },
   {
     "subCategoryName": "Native API Access",
@@ -73,7 +76,8 @@
       "native-modules"
     ],
     "packageCount": 363,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTIl7"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTIl7",
+    "subCategoryNameWithEmoji": "Native API Access 🔌"
   },
   {
     "subCategoryName": "Custom Input Fields",
@@ -92,7 +96,8 @@
       "text-formatting"
     ],
     "packageCount": 246,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTJ61"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTJ61",
+    "subCategoryNameWithEmoji": "Custom Input Fields ⌨️"
   },
   {
     "subCategoryName": "Image Processing",
@@ -111,7 +116,8 @@
       "image-transformation"
     ],
     "packageCount": 234,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq4tV"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq4tV",
+    "subCategoryNameWithEmoji": "Image Processing 🖼️"
   },
   {
     "subCategoryName": "State Management",
@@ -130,7 +136,8 @@
       "riverpod"
     ],
     "packageCount": 166,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTJbN"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTJbN",
+    "subCategoryNameWithEmoji": "State Management 🔄"
   },
   {
     "subCategoryName": "Utility Functions",
@@ -149,7 +156,8 @@
       "development-kit"
     ],
     "packageCount": 164,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTJzl"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTJzl",
+    "subCategoryNameWithEmoji": "Utility Functions 🛠️"
   },
   {
     "subCategoryName": "Asset Management",
@@ -168,7 +176,8 @@
       "asset-loading"
     ],
     "packageCount": 163,
-    "subcategoryId": "YPzePRnofxqIDzAJMDoydc"
+    "subcategoryId": "YPzePRnofxqIDzAJMDoydc",
+    "subCategoryNameWithEmoji": "Asset Management 📦"
   },
   {
     "subCategoryName": "Video Handling",
@@ -187,7 +196,8 @@
       "video-thumbnails"
     ],
     "packageCount": 161,
-    "subcategoryId": "YPzePRnofxqIDzAJMDoyoy"
+    "subcategoryId": "YPzePRnofxqIDzAJMDoyoy",
+    "subCategoryNameWithEmoji": "Video Handling 🎥"
   },
   {
     "subCategoryName": "Audio Management",
@@ -206,7 +216,8 @@
       "background-audio"
     ],
     "packageCount": 154,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTKDh"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTKDh",
+    "subCategoryNameWithEmoji": "Audio Management 🔊"
   },
   {
     "subCategoryName": "Payment Gateways",
@@ -225,7 +236,8 @@
       "payment-security"
     ],
     "packageCount": 145,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTKO9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTKO9",
+    "subCategoryNameWithEmoji": "Payment Gateways 💳"
   },
   {
     "subCategoryName": "File System Operations",
@@ -244,7 +256,8 @@
       "file-writing"
     ],
     "packageCount": 145,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTKc5"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTKc5",
+    "subCategoryNameWithEmoji": "File System Operations 📂"
   },
   {
     "subCategoryName": "Debugging Tools",
@@ -263,7 +276,8 @@
       "development-tools"
     ],
     "packageCount": 130,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq5Jv"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq5Jv",
+    "subCategoryNameWithEmoji": "Debugging Tools 🐛"
   },
   {
     "subCategoryName": "Map Rendering",
@@ -282,7 +296,8 @@
       "geocoding"
     ],
     "packageCount": 124,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq5Sj"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq5Sj",
+    "subCategoryNameWithEmoji": "Map Rendering 🗺️"
   },
   {
     "subCategoryName": "Navigation Patterns",
@@ -301,7 +316,8 @@
       "navigation-state-management"
     ],
     "packageCount": 124,
-    "subcategoryId": "YPzePRnofxqIDzAJMDoz0K"
+    "subcategoryId": "YPzePRnofxqIDzAJMDoz0K",
+    "subCategoryNameWithEmoji": "Navigation Patterns 🧭"
   },
   {
     "subCategoryName": "Data Serialization",
@@ -320,7 +336,8 @@
       "api-integration"
     ],
     "packageCount": 121,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTKwz"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTKwz",
+    "subCategoryNameWithEmoji": "Data Serialization 📊"
   },
   {
     "subCategoryName": "Local Databases",
@@ -339,7 +356,8 @@
       "nosql"
     ],
     "packageCount": 117,
-    "subcategoryId": "YPzePRnofxqIDzAJMDoz3Q"
+    "subcategoryId": "YPzePRnofxqIDzAJMDoz3Q",
+    "subCategoryNameWithEmoji": "Local Databases 💾"
   },
   {
     "subCategoryName": "Data Visualization",
@@ -358,7 +376,8 @@
       "interactive-charts"
     ],
     "packageCount": 95,
-    "subcategoryId": "YPzePRnofxqIDzAJMDoz6W"
+    "subcategoryId": "YPzePRnofxqIDzAJMDoz6W",
+    "subCategoryNameWithEmoji": "Data Visualization 📈"
   },
   {
     "subCategoryName": "Form Validation",
@@ -377,7 +396,8 @@
       "data-integrity"
     ],
     "packageCount": 94,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozAe"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozAe",
+    "subCategoryNameWithEmoji": "Form Validation ✅"
   },
   {
     "subCategoryName": "Network Status Monitoring",
@@ -396,7 +416,8 @@
       "network-events"
     ],
     "packageCount": 91,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTLHt"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTLHt",
+    "subCategoryNameWithEmoji": "Network Status Monitoring 📡"
   },
   {
     "subCategoryName": "Authentication",
@@ -415,7 +436,8 @@
       "session-management"
     ],
     "packageCount": 86,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq5t9"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq5t9",
+    "subCategoryNameWithEmoji": "Authentication 🔐"
   },
   {
     "subCategoryName": "Date-Time Formatting",
@@ -434,7 +456,8 @@
       "time-management"
     ],
     "packageCount": 84,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozGq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozGq",
+    "subCategoryNameWithEmoji": "Date-Time Formatting 🕰️"
   },
   {
     "subCategoryName": "Theming and Styling",
@@ -453,7 +476,8 @@
       "style-management"
     ],
     "packageCount": 82,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTM1B"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTM1B",
+    "subCategoryNameWithEmoji": "Theming and Styling 🎨"
   },
   {
     "subCategoryName": "Build Automation",
@@ -472,7 +496,8 @@
       "build-optimization"
     ],
     "packageCount": 81,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozKy"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozKy",
+    "subCategoryNameWithEmoji": "Build Automation 🏗️"
   },
   {
     "subCategoryName": "Geolocation Services",
@@ -491,7 +516,8 @@
       "place-search"
     ],
     "packageCount": 81,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTMBd"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTMBd",
+    "subCategoryNameWithEmoji": "Geolocation Services 📍"
   },
   {
     "subCategoryName": "Encryption and Decryption",
@@ -510,7 +536,8 @@
       "end-to-end-encryption"
     ],
     "packageCount": 80,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq64t"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq64t",
+    "subCategoryNameWithEmoji": "Encryption and Decryption 🔒"
   },
   {
     "subCategoryName": "HTTP Clients",
@@ -529,7 +556,8 @@
       "request-caching"
     ],
     "packageCount": 80,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozO4"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozO4",
+    "subCategoryNameWithEmoji": "HTTP Clients 🌐"
   },
   {
     "subCategoryName": "Responsive Design",
@@ -548,7 +576,8 @@
       "device-specific-layouts"
     ],
     "packageCount": 80,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozRA"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozRA",
+    "subCategoryNameWithEmoji": "Responsive Design 📱"
   },
   {
     "subCategoryName": "Analytics Platforms",
@@ -567,7 +596,8 @@
       "data-insights"
     ],
     "packageCount": 79,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozUG"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozUG",
+    "subCategoryNameWithEmoji": "Analytics Platforms 📊"
   },
   {
     "subCategoryName": "Barcode and QR Code Scanning",
@@ -586,7 +616,8 @@
       "mobile-scanning"
     ],
     "packageCount": 78,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq6Gd"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq6Gd",
+    "subCategoryNameWithEmoji": "Barcode and QR Code Scanning 📷"
   },
   {
     "subCategoryName": "Text Processing",
@@ -605,7 +636,8 @@
       "language-detection"
     ],
     "packageCount": 78,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozXM"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozXM",
+    "subCategoryNameWithEmoji": "Text Processing 📝"
   },
   {
     "subCategoryName": "Custom Scroll Views",
@@ -624,7 +656,8 @@
       "smooth-scrolling"
     ],
     "packageCount": 75,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq6jz"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq6jz",
+    "subCategoryNameWithEmoji": "Custom Scroll Views 📜"
   },
   {
     "subCategoryName": "Security",
@@ -643,7 +676,8 @@
       "security-best-practices"
     ],
     "packageCount": 74,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozbU"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozbU",
+    "subCategoryNameWithEmoji": "Security 🛡️"
   },
   {
     "subCategoryName": "Code Generation",
@@ -662,7 +696,8 @@
       "dependency-injection"
     ],
     "packageCount": 73,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq6vj"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq6vj",
+    "subCategoryNameWithEmoji": "Code Generation 🤖"
   },
   {
     "subCategoryName": "Date Pickers",
@@ -681,7 +716,8 @@
       "localized-date-picker"
     ],
     "packageCount": 71,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozii"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozii",
+    "subCategoryNameWithEmoji": "Date Pickers 📅"
   },
   {
     "subCategoryName": "Media Pickers",
@@ -700,7 +736,8 @@
       "media-preview"
     ],
     "packageCount": 66,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozlo"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozlo",
+    "subCategoryNameWithEmoji": "Media Pickers 🖼️"
   },
   {
     "subCategoryName": "Natural Language Processing",
@@ -719,7 +756,8 @@
       "speech-recognition"
     ],
     "packageCount": 62,
-    "subcategoryId": "YPzePRnofxqIDzAJMDozou"
+    "subcategoryId": "YPzePRnofxqIDzAJMDozou",
+    "subCategoryNameWithEmoji": "Natural Language Processing 🗣️"
   },
   {
     "subCategoryName": "Localized Resources",
@@ -738,7 +776,8 @@
       "asset-localization"
     ],
     "packageCount": 62,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq7DL"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq7DL",
+    "subCategoryNameWithEmoji": "Localized Resources 🌍"
   },
   {
     "subCategoryName": "RESTful API Utilities",
@@ -757,7 +796,8 @@
       "error-handling"
     ],
     "packageCount": 61,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq7ap"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq7ap",
+    "subCategoryNameWithEmoji": "RESTful API Utilities 🔗"
   },
   {
     "subCategoryName": "Messaging Platforms",
@@ -776,7 +816,8 @@
       "message-persistence"
     ],
     "packageCount": 56,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp05Q"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp05Q",
+    "subCategoryNameWithEmoji": "Messaging Platforms 💬"
   },
   {
     "subCategoryName": "OAuth Integration",
@@ -795,7 +836,8 @@
       "api-authorization"
     ],
     "packageCount": 55,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp08W"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp08W",
+    "subCategoryNameWithEmoji": "OAuth Integration 🔑"
   },
   {
     "subCategoryName": "Rich Text Editing",
@@ -814,7 +856,8 @@
       "document-editing"
     ],
     "packageCount": 55,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTNJJ"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTNJJ",
+    "subCategoryNameWithEmoji": "Rich Text Editing 📝"
   },
   {
     "subCategoryName": "Cloud Storage Solutions",
@@ -833,7 +876,8 @@
       "cloud-integration"
     ],
     "packageCount": 55,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq7pV"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq7pV",
+    "subCategoryNameWithEmoji": "Cloud Storage Solutions ☁️"
   },
   {
     "subCategoryName": "Caching Mechanisms",
@@ -852,7 +896,8 @@
       "lazy-loading"
     ],
     "packageCount": 54,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp0Ei"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp0Ei",
+    "subCategoryNameWithEmoji": "Caching Mechanisms 💽"
   },
   {
     "subCategoryName": "Game Engines",
@@ -871,7 +916,8 @@
       "game-ui"
     ],
     "packageCount": 54,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq81F"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq81F",
+    "subCategoryNameWithEmoji": "Game Engines 🎮"
   },
   {
     "subCategoryName": "Bluetooth and NFC",
@@ -890,7 +936,8 @@
       "proximity-detection"
     ],
     "packageCount": 52,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp0Ho"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp0Ho",
+    "subCategoryNameWithEmoji": "Bluetooth and NFC 📶"
   },
   {
     "subCategoryName": "Cloud Services Integration",
@@ -909,7 +956,8 @@
       "cloud-messaging"
     ],
     "packageCount": 50,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp0R6"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp0R6",
+    "subCategoryNameWithEmoji": "Cloud Services Integration ☁️"
   },
   {
     "subCategoryName": "Calendar Widgets",
@@ -928,7 +976,8 @@
       "appointment-booking"
     ],
     "packageCount": 49,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq8Cz"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq8Cz",
+    "subCategoryNameWithEmoji": "Calendar Widgets 📆"
   },
   {
     "subCategoryName": "WebSocket Handling",
@@ -947,7 +996,8 @@
       "server-sent-events"
     ],
     "packageCount": 46,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTOUT"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTOUT",
+    "subCategoryNameWithEmoji": "WebSocket Handling 🔌"
   },
   {
     "subCategoryName": "PDF Generation and Manipulation",
@@ -966,7 +1016,8 @@
       "digital-signatures"
     ],
     "packageCount": 46,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp0XI"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp0XI",
+    "subCategoryNameWithEmoji": "PDF Generation and Manipulation 📄"
   },
   {
     "subCategoryName": "Ad Integration",
@@ -985,7 +1036,8 @@
       "ad-targeting"
     ],
     "packageCount": 44,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp0bQ"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp0bQ",
+    "subCategoryNameWithEmoji": "Ad Integration 📢"
   },
   {
     "subCategoryName": "Social Media SDKs",
@@ -1004,7 +1056,8 @@
       "social-feed"
     ],
     "packageCount": 44,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTOlt"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTOlt",
+    "subCategoryNameWithEmoji": "Social Media SDKs 👥"
   },
   {
     "subCategoryName": "Data Structures",
@@ -1023,7 +1076,8 @@
       "linked-lists"
     ],
     "packageCount": 42,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq8jH"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq8jH",
+    "subCategoryNameWithEmoji": "Data Structures 🏗️"
   },
   {
     "subCategoryName": "Push Notifications",
@@ -1042,7 +1096,8 @@
       "background-notifications"
     ],
     "packageCount": 42,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTP6n"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTP6n",
+    "subCategoryNameWithEmoji": "Push Notifications 📲"
   },
   {
     "subCategoryName": "Platform Channels",
@@ -1061,7 +1116,8 @@
       "android-integration"
     ],
     "packageCount": 40,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq8v1"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq8v1",
+    "subCategoryNameWithEmoji": "Platform Channels 🌉"
   },
   {
     "subCategoryName": "Input Formatting",
@@ -1080,7 +1136,8 @@
       "form-fields"
     ],
     "packageCount": 40,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTQ0X"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTQ0X",
+    "subCategoryNameWithEmoji": "Input Formatting 🔠"
   },
   {
     "subCategoryName": "Camera Integration",
@@ -1099,7 +1156,8 @@
       "camera-permissions"
     ],
     "packageCount": 40,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTQAz"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTQAz",
+    "subCategoryNameWithEmoji": "Camera Integration 📸"
   },
   {
     "subCategoryName": "Secure Storage",
@@ -1118,7 +1176,8 @@
       "secure-key-value-store"
     ],
     "packageCount": 39,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTQLR"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTQLR",
+    "subCategoryNameWithEmoji": "Secure Storage 🔒"
   },
   {
     "subCategoryName": "Device Information",
@@ -1137,7 +1196,8 @@
       "network-info"
     ],
     "packageCount": 36,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTQcr"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTQcr",
+    "subCategoryNameWithEmoji": "Device Information 📱"
   },
   {
     "subCategoryName": "Local Notifications",
@@ -1156,7 +1216,8 @@
       "background-notifications"
     ],
     "packageCount": 34,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp0ki"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp0ki",
+    "subCategoryNameWithEmoji": "Local Notifications 🔔"
   },
   {
     "subCategoryName": "Web Integration",
@@ -1175,7 +1236,8 @@
       "web-scraping"
     ],
     "packageCount": 34,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq9FZ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq9FZ",
+    "subCategoryNameWithEmoji": "Web Integration 🕸️"
   },
   {
     "subCategoryName": "Linting and Formatting",
@@ -1194,7 +1256,8 @@
       "syntax-checking"
     ],
     "packageCount": 34,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTQqn"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTQqn",
+    "subCategoryNameWithEmoji": "Linting and Formatting 🧹"
   },
   {
     "subCategoryName": "Logging",
@@ -1213,7 +1276,8 @@
       "log-filtering"
     ],
     "packageCount": 33,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq9ON"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq9ON",
+    "subCategoryNameWithEmoji": "Logging 📝"
   },
   {
     "subCategoryName": "On-Device ML",
@@ -1232,7 +1296,8 @@
       "predictive-models"
     ],
     "packageCount": 32,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTR4j"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTR4j",
+    "subCategoryNameWithEmoji": "On-Device ML 🧠"
   },
   {
     "subCategoryName": "Reactive State Management",
@@ -1251,7 +1316,8 @@
       "event-driven-architecture"
     ],
     "packageCount": 31,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTRIf"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTRIf",
+    "subCategoryNameWithEmoji": "Reactive State Management 🔄"
   },
   {
     "subCategoryName": "Place Search and Discovery",
@@ -1270,7 +1336,8 @@
       "location-intelligence"
     ],
     "packageCount": 31,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp0v2"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp0v2",
+    "subCategoryNameWithEmoji": "Place Search and Discovery 🔍"
   },
   {
     "subCategoryName": "Utilities",
@@ -1289,7 +1356,8 @@
       "common-functions"
     ],
     "packageCount": 31,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTRkX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTRkX",
+    "subCategoryNameWithEmoji": "Utilities 🛠️"
   },
   {
     "subCategoryName": "Document Scanning",
@@ -1308,7 +1376,8 @@
       "edge-detection"
     ],
     "packageCount": 30,
-    "subcategoryId": "tbfifT6DwZibVMS7hkq9iv"
+    "subcategoryId": "tbfifT6DwZibVMS7hkq9iv",
+    "subCategoryNameWithEmoji": "Document Scanning 📄"
   },
   {
     "subCategoryName": "Route Management",
@@ -1327,7 +1396,8 @@
       "navigation-state-management"
     ],
     "packageCount": 29,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp12G"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp12G",
+    "subCategoryNameWithEmoji": "Route Management 🛣️"
   },
   {
     "subCategoryName": "Content Sharing Utilities",
@@ -1346,7 +1416,8 @@
       "share-extensions"
     ],
     "packageCount": 29,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTRyT"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTRyT",
+    "subCategoryNameWithEmoji": "Content Sharing Utilities 📤"
   },
   {
     "subCategoryName": "Sensor Integration",
@@ -1365,7 +1436,8 @@
       "sensor-fusion"
     ],
     "packageCount": 29,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqAL5"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqAL5",
+    "subCategoryNameWithEmoji": "Sensor Integration 🎛️"
   },
   {
     "subCategoryName": "Multilingual Support",
@@ -1384,7 +1456,8 @@
       "string-resources"
     ],
     "packageCount": 29,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqAZl"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqAZl",
+    "subCategoryNameWithEmoji": "Multilingual Support 🌐"
   },
   {
     "subCategoryName": "Performance Monitoring",
@@ -1403,7 +1476,8 @@
       "performance-optimization"
     ],
     "packageCount": 28,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp17Q"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp17Q",
+    "subCategoryNameWithEmoji": "Performance Monitoring 📊"
   },
   {
     "subCategoryName": "Blockchain Integration",
@@ -1422,7 +1496,8 @@
       "blockchain-api"
     ],
     "packageCount": 28,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTSMr"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTSMr",
+    "subCategoryNameWithEmoji": "Blockchain Integration ⛓️"
   },
   {
     "subCategoryName": "Performance Optimization",
@@ -1441,7 +1516,8 @@
       "profiling-tools"
     ],
     "packageCount": 27,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTSeH"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTSeH",
+    "subCategoryNameWithEmoji": "Performance Optimization ⚡"
   },
   {
     "subCategoryName": "Crash Reporting",
@@ -1460,7 +1536,8 @@
       "app-stability"
     ],
     "packageCount": 27,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqAoR"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqAoR",
+    "subCategoryNameWithEmoji": "Crash Reporting 💥"
   },
   {
     "subCategoryName": "Localization",
@@ -1479,7 +1556,8 @@
       "cultural-adaptation"
     ],
     "packageCount": 27,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1Ee"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1Ee",
+    "subCategoryNameWithEmoji": "Localization 🌍"
   },
   {
     "subCategoryName": "Biometric Authentication",
@@ -1498,7 +1576,8 @@
       "hardware-authentication"
     ],
     "packageCount": 26,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqB37"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqB37",
+    "subCategoryNameWithEmoji": "Biometric Authentication 👆"
   },
   {
     "subCategoryName": "Internationalization Utilities",
@@ -1517,7 +1596,8 @@
       "language-detection"
     ],
     "packageCount": 26,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1Hk"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1Hk",
+    "subCategoryNameWithEmoji": "Internationalization Utilities 🌐"
   },
   {
     "subCategoryName": "Background Services",
@@ -1536,7 +1616,8 @@
       "silent-notifications"
     ],
     "packageCount": 26,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTT69"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTT69",
+    "subCategoryNameWithEmoji": "Background Services 🏃‍♂️"
   },
   {
     "subCategoryName": "String Manipulation",
@@ -1555,7 +1636,8 @@
       "unicode-handling"
     ],
     "packageCount": 26,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1Nw"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1Nw",
+    "subCategoryNameWithEmoji": "String Manipulation 🔤"
   },
   {
     "subCategoryName": "Dependency Injection",
@@ -1574,7 +1656,8 @@
       "clean-architecture"
     ],
     "packageCount": 26,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1R2"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1R2",
+    "subCategoryNameWithEmoji": "Dependency Injection 💉"
   },
   {
     "subCategoryName": "Testing Utilities",
@@ -1593,7 +1676,8 @@
       "test-runners"
     ],
     "packageCount": 26,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqBEr"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqBEr",
+    "subCategoryNameWithEmoji": "Testing Utilities 🧪"
   },
   {
     "subCategoryName": "Printing",
@@ -1612,7 +1696,8 @@
       "print-customization"
     ],
     "packageCount": 25,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1U8"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1U8",
+    "subCategoryNameWithEmoji": "Printing 🖨️"
   },
   {
     "subCategoryName": "Real-time Communication",
@@ -1631,7 +1716,8 @@
       "event-streaming"
     ],
     "packageCount": 24,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTTGb"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTTGb",
+    "subCategoryNameWithEmoji": "Real-time Communication 📡"
   },
   {
     "subCategoryName": "GraphQL Integration",
@@ -1650,7 +1736,8 @@
       "caching"
     ],
     "packageCount": 22,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTTR3"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTTR3",
+    "subCategoryNameWithEmoji": "GraphQL Integration 🔗"
   },
   {
     "subCategoryName": "Concurrency",
@@ -1669,7 +1756,8 @@
       "compute"
     ],
     "packageCount": 22,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTTez"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTTez",
+    "subCategoryNameWithEmoji": "Concurrency 🔀"
   },
   {
     "subCategoryName": "Error Handling",
@@ -1688,7 +1776,8 @@
       "graceful-degradation"
     ],
     "packageCount": 21,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqBQb"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqBQb",
+    "subCategoryNameWithEmoji": "Error Handling ❌"
   },
   {
     "subCategoryName": "Time Pickers",
@@ -1707,7 +1796,8 @@
       "customizable-pickers"
     ],
     "packageCount": 21,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTTzt"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTTzt",
+    "subCategoryNameWithEmoji": "Time Pickers ⏰"
   },
   {
     "subCategoryName": "Testing",
@@ -1726,7 +1816,8 @@
       "continuous-integration"
     ],
     "packageCount": 21,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTUYj"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTUYj",
+    "subCategoryNameWithEmoji": "Testing 🧪"
   },
   {
     "subCategoryName": "Cupertino Design Components",
@@ -1745,7 +1836,8 @@
       "adaptive-ui"
     ],
     "packageCount": 20,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqBZP"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqBZP",
+    "subCategoryNameWithEmoji": "Cupertino Design Components 🍎"
   },
   {
     "subCategoryName": "Deep Linking",
@@ -1764,7 +1856,8 @@
       "app-indexing"
     ],
     "packageCount": 20,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqBiD"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqBiD",
+    "subCategoryNameWithEmoji": "Deep Linking 🔗"
   },
   {
     "subCategoryName": "Geocoding and Reverse Geocoding",
@@ -1783,7 +1876,8 @@
       "location-services"
     ],
     "packageCount": 20,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqBr1"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqBr1",
+    "subCategoryNameWithEmoji": "Geocoding and Reverse Geocoding 🗺️"
   },
   {
     "subCategoryName": "Speech Recognition",
@@ -1802,7 +1896,8 @@
       "audio-analysis"
     ],
     "packageCount": 20,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTV7Z"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTV7Z",
+    "subCategoryNameWithEmoji": "Speech Recognition 🎙️"
   },
   {
     "subCategoryName": "In-App Purchases",
@@ -1821,7 +1916,8 @@
       "revenue-management"
     ],
     "packageCount": 19,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTVgP"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTVgP",
+    "subCategoryNameWithEmoji": "In-App Purchases 💰"
   },
   {
     "subCategoryName": "Backend as a Service",
@@ -1840,7 +1936,8 @@
       "api-management"
     ],
     "packageCount": 19,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqCNJ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqCNJ",
+    "subCategoryNameWithEmoji": "Backend as a Service ☁️"
   },
   {
     "subCategoryName": "Math Utilities",
@@ -1859,7 +1956,8 @@
       "data-analysis"
     ],
     "packageCount": 18,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1ke"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1ke",
+    "subCategoryNameWithEmoji": "Math Utilities 🧮"
   },
   {
     "subCategoryName": "3D Rendering",
@@ -1878,7 +1976,8 @@
       "3d-visualization"
     ],
     "packageCount": 17,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqCZ3"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqCZ3",
+    "subCategoryNameWithEmoji": "3D Rendering 🎲"
   },
   {
     "subCategoryName": "Transition Animations",
@@ -1897,7 +1996,8 @@
       "staggered-animations"
     ],
     "packageCount": 17,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1qq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1qq",
+    "subCategoryNameWithEmoji": "Transition Animations 🔄"
   },
   {
     "subCategoryName": "BLoC Pattern",
@@ -1916,7 +2016,8 @@
       "clean-architecture"
     ],
     "packageCount": 17,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1tw"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1tw",
+    "subCategoryNameWithEmoji": "BLoC Pattern 🧱"
   },
   {
     "subCategoryName": "Location Tracking",
@@ -1935,7 +2036,8 @@
       "location-analytics"
     ],
     "packageCount": 17,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp1x2"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp1x2",
+    "subCategoryNameWithEmoji": "Location Tracking 📍"
   },
   {
     "subCategoryName": "WebView Integration",
@@ -1954,7 +2056,8 @@
       "web-interop"
     ],
     "packageCount": 17,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp2Fc"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp2Fc",
+    "subCategoryNameWithEmoji": "WebView Integration 🌐"
   },
   {
     "subCategoryName": "Input Handling",
@@ -1973,7 +2076,8 @@
       "input-accessories"
     ],
     "packageCount": 16,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTWa9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTWa9",
+    "subCategoryNameWithEmoji": "Input Handling ⌨️"
   },
   {
     "subCategoryName": "E-commerce Solutions",
@@ -1992,7 +2096,8 @@
       "digital-marketplace"
     ],
     "packageCount": 16,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTWkb"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTWkb",
+    "subCategoryNameWithEmoji": "E-commerce Solutions 🛒"
   },
   {
     "subCategoryName": "Data Processing",
@@ -2011,7 +2116,8 @@
       "data-filtering"
     ],
     "packageCount": 16,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqCtb"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqCtb",
+    "subCategoryNameWithEmoji": "Data Processing 🔢"
   },
   {
     "subCategoryName": "Document Handling",
@@ -2030,7 +2136,8 @@
       "document-viewer"
     ],
     "packageCount": 16,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp2Ii"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp2Ii",
+    "subCategoryNameWithEmoji": "Document Handling 📄"
   },
   {
     "subCategoryName": "Event Bus",
@@ -2049,7 +2156,8 @@
       "reactive-programming"
     ],
     "packageCount": 15,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqD2P"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqD2P",
+    "subCategoryNameWithEmoji": "Event Bus 🚌"
   },
   {
     "subCategoryName": "Unit Testing",
@@ -2068,7 +2176,8 @@
       "continuous-integration"
     ],
     "packageCount": 15,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTX8z"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTX8z",
+    "subCategoryNameWithEmoji": "Unit Testing 🧪"
   },
   {
     "subCategoryName": "Color Utilities",
@@ -2087,7 +2196,8 @@
       "dynamic-colors"
     ],
     "packageCount": 15,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTXJR"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTXJR",
+    "subCategoryNameWithEmoji": "Color Utilities 🎨"
   },
   {
     "subCategoryName": "Unique Identifiers",
@@ -2106,7 +2216,8 @@
       "data-integrity"
     ],
     "packageCount": 14,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqDMx"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqDMx",
+    "subCategoryNameWithEmoji": "Unique Identifiers 🆔"
   },
   {
     "subCategoryName": "SVG Handling",
@@ -2125,7 +2236,8 @@
       "vector-assets"
     ],
     "packageCount": 14,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqDVl"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqDVl",
+    "subCategoryNameWithEmoji": "SVG Handling 🖼️"
   },
   {
     "subCategoryName": "API Integration",
@@ -2144,7 +2256,8 @@
       "api-management"
     ],
     "packageCount": 14,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTXXN"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTXXN",
+    "subCategoryNameWithEmoji": "API Integration 🔌"
   },
   {
     "subCategoryName": "Image Recognition",
@@ -2163,7 +2276,8 @@
       "image-processing"
     ],
     "packageCount": 14,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTXhp"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTXhp",
+    "subCategoryNameWithEmoji": "Image Recognition 👁️"
   },
   {
     "subCategoryName": "Gesture Recognition",
@@ -2182,7 +2296,8 @@
       "interactive-ui"
     ],
     "packageCount": 13,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTXvl"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTXvl",
+    "subCategoryNameWithEmoji": "Gesture Recognition 👋"
   },
   {
     "subCategoryName": "Cryptocurrency",
@@ -2201,7 +2316,8 @@
       "smart-contracts"
     ],
     "packageCount": 13,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTY6D"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTY6D",
+    "subCategoryNameWithEmoji": "Cryptocurrency 💰"
   },
   {
     "subCategoryName": "Dependency Management",
@@ -2220,7 +2336,8 @@
       "build-tools"
     ],
     "packageCount": 13,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqDhV"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqDhV",
+    "subCategoryNameWithEmoji": "Dependency Management 📦"
   },
   {
     "subCategoryName": "Customer Support",
@@ -2239,7 +2356,8 @@
       "user-assistance"
     ],
     "packageCount": 13,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp2cK"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp2cK",
+    "subCategoryNameWithEmoji": "Customer Support 🙋‍♀️"
   },
   {
     "subCategoryName": "Search Suggestions",
@@ -2258,7 +2376,8 @@
       "intelligent-search"
     ],
     "packageCount": 12,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTYiX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTYiX",
+    "subCategoryNameWithEmoji": "Search Suggestions 🔍"
   },
   {
     "subCategoryName": "Two-Factor Authentication",
@@ -2277,7 +2396,8 @@
       "secure-login"
     ],
     "packageCount": 12,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp2iW"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp2iW",
+    "subCategoryNameWithEmoji": "Two-Factor Authentication 🔐"
   },
   {
     "subCategoryName": "Network Protocols",
@@ -2296,7 +2416,8 @@
       "socket-programming"
     ],
     "packageCount": 12,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqDtF"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqDtF",
+    "subCategoryNameWithEmoji": "Network Protocols 🌐"
   },
   {
     "subCategoryName": "Version Management",
@@ -2315,7 +2436,8 @@
       "update-notifications"
     ],
     "packageCount": 12,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp2lc"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp2lc",
+    "subCategoryNameWithEmoji": "Version Management 🏷️"
   },
   {
     "subCategoryName": "Utility Libraries",
@@ -2334,7 +2456,8 @@
       "development-aids"
     ],
     "packageCount": 12,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqE4z"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqE4z",
+    "subCategoryNameWithEmoji": "Utility Libraries 🛠️"
   },
   {
     "subCategoryName": "Widget Testing",
@@ -2353,7 +2476,8 @@
       "layout-testing"
     ],
     "packageCount": 11,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp2wy"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp2wy",
+    "subCategoryNameWithEmoji": "Widget Testing 🧪"
   },
   {
     "subCategoryName": "Mocking and Stubbing",
@@ -2372,7 +2496,8 @@
       "fake-data"
     ],
     "packageCount": 11,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTZAP"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTZAP",
+    "subCategoryNameWithEmoji": "Mocking and Stubbing 🎭"
   },
   {
     "subCategoryName": "Social Media Logins",
@@ -2391,7 +2516,8 @@
       "identity-providers"
     ],
     "packageCount": 11,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqEDn"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqEDn",
+    "subCategoryNameWithEmoji": "Social Media Logins 🔑"
   },
   {
     "subCategoryName": "Full-Text Search",
@@ -2410,7 +2536,8 @@
       "search-optimization"
     ],
     "packageCount": 11,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTZOL"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTZOL",
+    "subCategoryNameWithEmoji": "Full-Text Search 🔎"
   },
   {
     "subCategoryName": "Multimedia Utilities",
@@ -2429,7 +2556,8 @@
       "media-conversion"
     ],
     "packageCount": 11,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTZcH"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTZcH",
+    "subCategoryNameWithEmoji": "Multimedia Utilities 🎬"
   },
   {
     "subCategoryName": "Configuration Management",
@@ -2448,7 +2576,8 @@
       "settings-management"
     ],
     "packageCount": 11,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTZmj"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTZmj",
+    "subCategoryNameWithEmoji": "Configuration Management ⚙️"
   },
   {
     "subCategoryName": "Office Document Handling",
@@ -2467,7 +2596,8 @@
       "document-conversion"
     ],
     "packageCount": 11,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp33A"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp33A",
+    "subCategoryNameWithEmoji": "Office Document Handling 📁"
   },
   {
     "subCategoryName": "API Code Generation",
@@ -2486,7 +2616,8 @@
       "json-serialization"
     ],
     "packageCount": 11,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqEst"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqEst",
+    "subCategoryNameWithEmoji": "API Code Generation 🤖"
   },
   {
     "subCategoryName": "Route Planning and Navigation",
@@ -2505,7 +2636,8 @@
       "distance-calculation"
     ],
     "packageCount": 11,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqFJJ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqFJJ",
+    "subCategoryNameWithEmoji": "Route Planning and Navigation 🗺️"
   },
   {
     "subCategoryName": "Input Validation",
@@ -2524,7 +2656,8 @@
       "data-integrity"
     ],
     "packageCount": 10,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqFV3"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqFV3",
+    "subCategoryNameWithEmoji": "Input Validation ✅"
   },
   {
     "subCategoryName": "JWT Handling",
@@ -2543,7 +2676,8 @@
       "authorization"
     ],
     "packageCount": 9,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp39M"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp39M",
+    "subCategoryNameWithEmoji": "JWT Handling 🔑"
   },
   {
     "subCategoryName": "Health and Fitness",
@@ -2562,7 +2696,8 @@
       "heart-rate-monitoring"
     ],
     "packageCount": 9,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqFdr"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqFdr",
+    "subCategoryNameWithEmoji": "Health and Fitness 💪"
   },
   {
     "subCategoryName": "App Updates",
@@ -2581,7 +2716,8 @@
       "update-prompts"
     ],
     "packageCount": 9,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqFmf"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqFmf",
+    "subCategoryNameWithEmoji": "App Updates 🔄"
   },
   {
     "subCategoryName": "Network Handling",
@@ -2600,7 +2736,8 @@
       "offline-first"
     ],
     "packageCount": 9,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp3DU"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp3DU",
+    "subCategoryNameWithEmoji": "Network Handling 🌐"
   },
   {
     "subCategoryName": "Auto-complete",
@@ -2619,7 +2756,8 @@
       "user-experience"
     ],
     "packageCount": 9,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTbPl"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTbPl",
+    "subCategoryNameWithEmoji": "Auto-complete 📝"
   },
   {
     "subCategoryName": "Content Management",
@@ -2638,7 +2776,8 @@
       "asset-management"
     ],
     "packageCount": 9,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqGG1"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqGG1",
+    "subCategoryNameWithEmoji": "Content Management 📊"
   },
   {
     "subCategoryName": "Platform Detection",
@@ -2657,7 +2796,8 @@
       "platform-constraints"
     ],
     "packageCount": 9,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqGOp"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqGOp",
+    "subCategoryNameWithEmoji": "Platform Detection 🔍"
   },
   {
     "subCategoryName": "Command Line Utilities",
@@ -2676,7 +2816,8 @@
       "console-applications"
     ],
     "packageCount": 9,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqGaZ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqGaZ",
+    "subCategoryNameWithEmoji": "Command Line Utilities 💻"
   },
   {
     "subCategoryName": "A/B Testing",
@@ -2695,7 +2836,8 @@
       "performance-analysis"
     ],
     "packageCount": 8,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp3Jg"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp3Jg",
+    "subCategoryNameWithEmoji": "A/B Testing 🔬"
   },
   {
     "subCategoryName": "Scheduling Algorithms",
@@ -2714,7 +2856,8 @@
       "job-scheduling"
     ],
     "packageCount": 8,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqGjN"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqGjN",
+    "subCategoryNameWithEmoji": "Scheduling Algorithms ⏰"
   },
   {
     "subCategoryName": "Time Zone Handling",
@@ -2733,7 +2876,8 @@
       "time-formatting"
     ],
     "packageCount": 8,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqGsB"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqGsB",
+    "subCategoryNameWithEmoji": "Time Zone Handling 🌍"
   },
   {
     "subCategoryName": "Cryptography",
@@ -2752,7 +2896,8 @@
       "key-management"
     ],
     "packageCount": 8,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp3Qu"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp3Qu",
+    "subCategoryNameWithEmoji": "Cryptography 🔐"
   },
   {
     "subCategoryName": "User Feedback",
@@ -2771,7 +2916,8 @@
       "app-improvement"
     ],
     "packageCount": 8,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTcG1"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTcG1",
+    "subCategoryNameWithEmoji": "User Feedback 💬"
   },
   {
     "subCategoryName": "App Configuration",
@@ -2790,7 +2936,8 @@
       "runtime-configuration"
     ],
     "packageCount": 8,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp3V2"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp3V2",
+    "subCategoryNameWithEmoji": "App Configuration ⚙️"
   },
   {
     "subCategoryName": "Chat SDKs",
@@ -2809,7 +2956,8 @@
       "chat-ui"
     ],
     "packageCount": 8,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp3Y8"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp3Y8",
+    "subCategoryNameWithEmoji": "Chat SDKs 💬"
   },
   {
     "subCategoryName": "Material Design Components",
@@ -2828,7 +2976,8 @@
       "bottom-sheets"
     ],
     "packageCount": 7,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqHaD"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqHaD",
+    "subCategoryNameWithEmoji": "Material Design Components 🎨"
   },
   {
     "subCategoryName": "Algorithms",
@@ -2847,7 +2996,8 @@
       "machine-learning-algorithms"
     ],
     "packageCount": 7,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqHrp"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqHrp",
+    "subCategoryNameWithEmoji": "Algorithms 🧮"
   },
   {
     "subCategoryName": "Augmented Reality",
@@ -2866,7 +3016,8 @@
       "spatial-mapping"
     ],
     "packageCount": 7,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqIIF"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqIIF",
+    "subCategoryNameWithEmoji": "Augmented Reality 🕶️"
   },
   {
     "subCategoryName": "Translation Management",
@@ -2885,7 +3036,8 @@
       "language-switching"
     ],
     "packageCount": 7,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqIxL"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqIxL",
+    "subCategoryNameWithEmoji": "Translation Management 🌐"
   },
   {
     "subCategoryName": "Development Tools",
@@ -2904,7 +3056,8 @@
       "performance-optimization"
     ],
     "packageCount": 7,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqJ69"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqJ69",
+    "subCategoryNameWithEmoji": "Development Tools 🛠️"
   },
   {
     "subCategoryName": "Drawing Tools",
@@ -2923,7 +3076,8 @@
       "whiteboard"
     ],
     "packageCount": 7,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqJNl"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqJNl",
+    "subCategoryNameWithEmoji": "Drawing Tools ✏️"
   },
   {
     "subCategoryName": "Reactive Programming",
@@ -2942,7 +3096,8 @@
       "functional-reactive-programming"
     ],
     "packageCount": 7,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4DQ"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4DQ",
+    "subCategoryNameWithEmoji": "Reactive Programming 🔄"
   },
   {
     "subCategoryName": "App Store Integration",
@@ -2961,7 +3116,8 @@
       "billing"
     ],
     "packageCount": 7,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4GW"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4GW",
+    "subCategoryNameWithEmoji": "App Store Integration 🏪"
   },
   {
     "subCategoryName": "Web Scraping",
@@ -2980,7 +3136,8 @@
       "content-extraction"
     ],
     "packageCount": 7,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4Qq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4Qq",
+    "subCategoryNameWithEmoji": "Web Scraping 🕷️"
   },
   {
     "subCategoryName": "Data Tables",
@@ -2999,7 +3156,8 @@
       "data-visualization"
     ],
     "packageCount": 7,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4Tw"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4Tw",
+    "subCategoryNameWithEmoji": "Data Tables 📊"
   },
   {
     "subCategoryName": "Network Utilities",
@@ -3018,7 +3176,8 @@
       "connectivity-check"
     ],
     "packageCount": 7,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4X2"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4X2",
+    "subCategoryNameWithEmoji": "Network Utilities 🌐"
   },
   {
     "subCategoryName": "CI/CD Integration",
@@ -3037,7 +3196,8 @@
       "pipeline-automation"
     ],
     "packageCount": 6,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqKBf"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqKBf",
+    "subCategoryNameWithEmoji": "CI/CD Integration 🔄"
   },
   {
     "subCategoryName": "Syntax Highlighting",
@@ -3056,7 +3216,8 @@
       "theme-customization"
     ],
     "packageCount": 6,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4kS"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4kS",
+    "subCategoryNameWithEmoji": "Syntax Highlighting 🌈"
   },
   {
     "subCategoryName": "Asynchronous Programming",
@@ -3075,7 +3236,8 @@
       "reactive-programming"
     ],
     "packageCount": 6,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4nY"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4nY",
+    "subCategoryNameWithEmoji": "Asynchronous Programming ⏳"
   },
   {
     "subCategoryName": "Accessibility",
@@ -3094,7 +3256,8 @@
       "assistive-technology"
     ],
     "packageCount": 6,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4tk"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4tk",
+    "subCategoryNameWithEmoji": "Accessibility ♿"
   },
   {
     "subCategoryName": "Console Utilities",
@@ -3113,7 +3276,8 @@
       "text-styling"
     ],
     "packageCount": 6,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp4wq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp4wq",
+    "subCategoryNameWithEmoji": "Console Utilities 💻"
   },
   {
     "subCategoryName": "Identity Verification",
@@ -3132,7 +3296,8 @@
       "compliance"
     ],
     "packageCount": 6,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTfgX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTfgX",
+    "subCategoryNameWithEmoji": "Identity Verification 🆔"
   },
   {
     "subCategoryName": "Web Development",
@@ -3151,7 +3316,8 @@
       "cross-platform"
     ],
     "packageCount": 6,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTfqz"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTfqz",
+    "subCategoryNameWithEmoji": "Web Development 🕸️"
   },
   {
     "subCategoryName": "Analytics",
@@ -3170,7 +3336,8 @@
       "app-insights"
     ],
     "packageCount": 6,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqKNP"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqKNP",
+    "subCategoryNameWithEmoji": "Analytics 📊"
   },
   {
     "subCategoryName": "Computer Vision",
@@ -3189,7 +3356,8 @@
       "image-analysis"
     ],
     "packageCount": 6,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp556"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp556",
+    "subCategoryNameWithEmoji": "Computer Vision 👁️"
   },
   {
     "subCategoryName": "Backend Integration",
@@ -3208,7 +3376,8 @@
       "microservices"
     ],
     "packageCount": 6,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqKf1"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqKf1",
+    "subCategoryNameWithEmoji": "Backend Integration 🔌"
   },
   {
     "subCategoryName": "Crypto Payments",
@@ -3227,7 +3396,8 @@
       "digital-currency"
     ],
     "packageCount": 5,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp5BI"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp5BI",
+    "subCategoryNameWithEmoji": "Crypto Payments 💰"
   },
   {
     "subCategoryName": "Design Tools",
@@ -3246,7 +3416,8 @@
       "prototyping"
     ],
     "packageCount": 5,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqL8N"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqL8N",
+    "subCategoryNameWithEmoji": "Design Tools 🎨"
   },
   {
     "subCategoryName": "Permissions Handling",
@@ -3265,7 +3436,8 @@
       "security"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTgkj"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTgkj",
+    "subCategoryNameWithEmoji": "Permissions Handling 🔒"
   },
   {
     "subCategoryName": "MVVM Implementation",
@@ -3284,7 +3456,8 @@
       "testability"
     ],
     "packageCount": 5,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp5Ka"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp5Ka",
+    "subCategoryNameWithEmoji": "MVVM Implementation 🏗️"
   },
   {
     "subCategoryName": "CAPTCHA",
@@ -3303,7 +3476,8 @@
       "accessibility"
     ],
     "packageCount": 5,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp5Ng"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp5Ng",
+    "subCategoryNameWithEmoji": "CAPTCHA 🤖"
   },
   {
     "subCategoryName": "Game Development",
@@ -3322,7 +3496,8 @@
       "game-assets"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTgyf"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTgyf",
+    "subCategoryNameWithEmoji": "Game Development 🎮"
   },
   {
     "subCategoryName": "Text-to-Speech",
@@ -3341,7 +3516,8 @@
       "narration"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvThCb"
+    "subcategoryId": "U7GiXZxomc47lFvBHvThCb",
+    "subCategoryNameWithEmoji": "Text-to-Speech 🗣️"
   },
   {
     "subCategoryName": "Mathematics",
@@ -3360,7 +3536,8 @@
       "math-visualization"
     ],
     "packageCount": 5,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqLhb"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqLhb",
+    "subCategoryNameWithEmoji": "Mathematics 🧮"
   },
   {
     "subCategoryName": "Text Extraction",
@@ -3379,7 +3556,8 @@
       "text-recognition"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvThQX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvThQX",
+    "subCategoryNameWithEmoji": "Text Extraction 📄"
   },
   {
     "subCategoryName": "IoT Integration",
@@ -3398,7 +3576,8 @@
       "connected-devices"
     ],
     "packageCount": 5,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqM29"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqM29",
+    "subCategoryNameWithEmoji": "IoT Integration 🏠"
   },
   {
     "subCategoryName": "Video Conferencing",
@@ -3417,7 +3596,8 @@
       "conferencing-ui"
     ],
     "packageCount": 5,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqMVV"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqMVV",
+    "subCategoryNameWithEmoji": "Video Conferencing 📹"
   },
   {
     "subCategoryName": "Local Storage",
@@ -3436,7 +3616,8 @@
       "file-system"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvThzN"
+    "subcategoryId": "U7GiXZxomc47lFvBHvThzN",
+    "subCategoryNameWithEmoji": "Local Storage 💾"
   },
   {
     "subCategoryName": "Gesture Handling",
@@ -3455,7 +3636,8 @@
       "interactive-ui"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTi9p"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTi9p",
+    "subCategoryNameWithEmoji": "Gesture Handling 👋"
   },
   {
     "subCategoryName": "Image Compression",
@@ -3474,7 +3656,8 @@
       "storage-optimization"
     ],
     "packageCount": 5,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp5b6"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp5b6",
+    "subCategoryNameWithEmoji": "Image Compression 🖼️"
   },
   {
     "subCategoryName": "Data Analysis",
@@ -3493,7 +3676,8 @@
       "business-intelligence"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTiNl"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTiNl",
+    "subCategoryNameWithEmoji": "Data Analysis 📊"
   },
   {
     "subCategoryName": "AI Integration",
@@ -3512,7 +3696,8 @@
       "computer-vision"
     ],
     "packageCount": 5,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTifB"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTifB",
+    "subCategoryNameWithEmoji": "AI Integration 🤖"
   },
   {
     "subCategoryName": "MobX Integration",
@@ -3531,7 +3716,8 @@
       "ui-synchronization"
     ],
     "packageCount": 4,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTiwb"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTiwb",
+    "subCategoryNameWithEmoji": "MobX Integration 🔄"
   },
   {
     "subCategoryName": "Lottie Animations",
@@ -3550,7 +3736,8 @@
       "visual-effects"
     ],
     "packageCount": 4,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqNb1"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqNb1",
+    "subCategoryNameWithEmoji": "Lottie Animations 🎭"
   },
   {
     "subCategoryName": "Redux Implementation",
@@ -3569,7 +3756,8 @@
       "predictable-state"
     ],
     "packageCount": 4,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTk4H"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTk4H",
+    "subCategoryNameWithEmoji": "Redux Implementation 🔄"
   },
   {
     "subCategoryName": "Functional Programming",
@@ -3588,7 +3776,8 @@
       "composition"
     ],
     "packageCount": 4,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqNvZ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqNvZ",
+    "subCategoryNameWithEmoji": "Functional Programming λ"
   },
   {
     "subCategoryName": "Database Queries",
@@ -3607,7 +3796,8 @@
       "data-modeling"
     ],
     "packageCount": 4,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTkW9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTkW9",
+    "subCategoryNameWithEmoji": "Database Queries 🗃️"
   },
   {
     "subCategoryName": "File Format Conversion",
@@ -3626,7 +3816,8 @@
       "cross-format-compatibility"
     ],
     "packageCount": 4,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTkuX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTkuX",
+    "subCategoryNameWithEmoji": "File Format Conversion 🔄"
   },
   {
     "subCategoryName": "Social Media Integration",
@@ -3645,7 +3836,8 @@
       "cross-platform-sharing"
     ],
     "packageCount": 4,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTl4z"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTl4z",
+    "subCategoryNameWithEmoji": "Social Media Integration 👥"
   },
   {
     "subCategoryName": "Media Streaming",
@@ -3664,7 +3856,8 @@
       "content-delivery"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp5wm"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp5wm",
+    "subCategoryNameWithEmoji": "Media Streaming 📺"
   },
   {
     "subCategoryName": "Performance Profiling",
@@ -3683,7 +3876,8 @@
       "performance-testing"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp62y"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp62y",
+    "subCategoryNameWithEmoji": "Performance Profiling 📊"
   },
   {
     "subCategoryName": "Version Control",
@@ -3702,7 +3896,8 @@
       "change-tracking"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp664"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp664",
+    "subCategoryNameWithEmoji": "Version Control 🔖"
   },
   {
     "subCategoryName": "Test Data Generation",
@@ -3721,7 +3916,8 @@
       "data-simulation"
     ],
     "packageCount": 4,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqOjT"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqOjT",
+    "subCategoryNameWithEmoji": "Test Data Generation 🧪"
   },
   {
     "subCategoryName": "Code Analysis",
@@ -3740,7 +3936,8 @@
       "code-review"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp6AC"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp6AC",
+    "subCategoryNameWithEmoji": "Code Analysis 🔍"
   },
   {
     "subCategoryName": "App Lifecycle",
@@ -3759,7 +3956,8 @@
       "foreground-detection"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp6HQ"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp6HQ",
+    "subCategoryNameWithEmoji": "App Lifecycle 🔄"
   },
   {
     "subCategoryName": "Text Generation",
@@ -3778,7 +3976,8 @@
       "chatbots"
     ],
     "packageCount": 4,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqPgB"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqPgB",
+    "subCategoryNameWithEmoji": "Text Generation 📝"
   },
   {
     "subCategoryName": "Cryptocurrency Wallets",
@@ -3797,7 +3996,8 @@
       "decentralized-finance"
     ],
     "packageCount": 4,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqQ3f"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqQ3f",
+    "subCategoryNameWithEmoji": "Cryptocurrency Wallets 💼"
   },
   {
     "subCategoryName": "Usage Analytics",
@@ -3816,7 +4016,8 @@
       "data-visualization"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp6Sm"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp6Sm",
+    "subCategoryNameWithEmoji": "Usage Analytics 📊"
   },
   {
     "subCategoryName": "ChatGPT Integration",
@@ -3835,7 +4036,8 @@
       "ai-assistant"
     ],
     "packageCount": 4,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTmsT"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTmsT",
+    "subCategoryNameWithEmoji": "ChatGPT Integration 🤖"
   },
   {
     "subCategoryName": "App Security",
@@ -3854,7 +4056,8 @@
       "security-best-practices"
     ],
     "packageCount": 4,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTn6P"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTn6P",
+    "subCategoryNameWithEmoji": "App Security 🔒"
   },
   {
     "subCategoryName": "App Update Checking",
@@ -3873,7 +4076,8 @@
       "update-notifications"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp6c4"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp6c4",
+    "subCategoryNameWithEmoji": "App Update Checking 🔄"
   },
   {
     "subCategoryName": "Form Generation",
@@ -3892,7 +4096,8 @@
       "form-templates"
     ],
     "packageCount": 4,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp6fA"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp6fA",
+    "subCategoryNameWithEmoji": "Form Generation 📝"
   },
   {
     "subCategoryName": "File Compression",
@@ -3911,7 +4116,8 @@
       "file-formats"
     ],
     "packageCount": 3,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTnYH"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTnYH",
+    "subCategoryNameWithEmoji": "File Compression 🗜️"
   },
   {
     "subCategoryName": "Device Management",
@@ -3930,7 +4136,8 @@
       "device-configuration"
     ],
     "packageCount": 3,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTnmD"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTnmD",
+    "subCategoryNameWithEmoji": "Device Management 📱"
   },
   {
     "subCategoryName": "Data Migration",
@@ -3949,7 +4156,8 @@
       "migration-scripts"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqQZx"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqQZx",
+    "subCategoryNameWithEmoji": "Data Migration 🔄"
   },
   {
     "subCategoryName": "Data Compression",
@@ -3968,7 +4176,8 @@
       "compression-formats"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp70q"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp70q",
+    "subCategoryNameWithEmoji": "Data Compression 🗜️"
   },
   {
     "subCategoryName": "Data Synchronization",
@@ -3987,7 +4196,8 @@
       "bi-directional-sync"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqQlh"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqQlh",
+    "subCategoryNameWithEmoji": "Data Synchronization 🔄"
   },
   {
     "subCategoryName": "Integration Testing",
@@ -4006,7 +4216,8 @@
       "test-scenarios"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp74y"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp74y",
+    "subCategoryNameWithEmoji": "Integration Testing 🧪"
   },
   {
     "subCategoryName": "Code Coverage",
@@ -4025,7 +4236,8 @@
       "code-quality"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp784"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp784",
+    "subCategoryNameWithEmoji": "Code Coverage 🧪"
   },
   {
     "subCategoryName": "Data Export",
@@ -4045,7 +4257,8 @@
       "export-utilities"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7EG"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7EG",
+    "subCategoryNameWithEmoji": "Data Export 📤"
   },
   {
     "subCategoryName": "Audio Processing",
@@ -4064,7 +4277,8 @@
       "audio-utilities"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqR3J"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqR3J",
+    "subCategoryNameWithEmoji": "Audio Processing 🎵"
   },
   {
     "subCategoryName": "Astronomy",
@@ -4083,7 +4297,8 @@
       "astronomical-events"
     ],
     "packageCount": 3,
-    "subcategoryId": "U7GiXZxomc47lFvBHvToE5"
+    "subcategoryId": "U7GiXZxomc47lFvBHvToE5",
+    "subCategoryNameWithEmoji": "Astronomy 🔭"
   },
   {
     "subCategoryName": "In-App Updates",
@@ -4102,7 +4317,8 @@
       "app-updater"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7IO"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7IO",
+    "subCategoryNameWithEmoji": "In-App Updates 🔄"
   },
   {
     "subCategoryName": "Template Rendering",
@@ -4121,7 +4337,8 @@
       "dynamic-ui"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7MW"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7MW",
+    "subCategoryNameWithEmoji": "Template Rendering 📄"
   },
   {
     "subCategoryName": "Video Processing",
@@ -4140,7 +4357,8 @@
       "video-utilities"
     ],
     "packageCount": 3,
-    "subcategoryId": "U7GiXZxomc47lFvBHvToOX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvToOX",
+    "subCategoryNameWithEmoji": "Video Processing 🎥"
   },
   {
     "subCategoryName": "Consent Management",
@@ -4159,7 +4377,8 @@
       "compliance"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqRKv"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqRKv",
+    "subCategoryNameWithEmoji": "Consent Management 📜"
   },
   {
     "subCategoryName": "Network Information",
@@ -4178,7 +4397,8 @@
       "connection-quality"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqRlL"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqRlL",
+    "subCategoryNameWithEmoji": "Network Information 📡"
   },
   {
     "subCategoryName": "Feature Flagging",
@@ -4197,7 +4417,8 @@
       "conditional-features"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqRu9"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqRu9",
+    "subCategoryNameWithEmoji": "Feature Flagging 🚩"
   },
   {
     "subCategoryName": "Wearable Integration",
@@ -4216,7 +4437,8 @@
       "wearable-integration"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqS2x"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqS2x",
+    "subCategoryNameWithEmoji": "Wearable Integration ⌚"
   },
   {
     "subCategoryName": "In-App Messaging",
@@ -4235,7 +4457,8 @@
       "message-persistence"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7Rg"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7Rg",
+    "subCategoryNameWithEmoji": "In-App Messaging 💬"
   },
   {
     "subCategoryName": "Haptic Feedback",
@@ -4254,7 +4477,8 @@
       "sensory-feedback"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7Xs"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7Xs",
+    "subCategoryNameWithEmoji": "Haptic Feedback 📳"
   },
   {
     "subCategoryName": "Network Configuration",
@@ -4273,7 +4497,8 @@
       "connectivity-configuration"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqStn"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqStn",
+    "subCategoryNameWithEmoji": "Network Configuration 🌐"
   },
   {
     "subCategoryName": "Financial Services Integration",
@@ -4292,7 +4517,8 @@
       "e-banking"
     ],
     "packageCount": 3,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTpPF"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTpPF",
+    "subCategoryNameWithEmoji": "Financial Services Integration 💰"
   },
   {
     "subCategoryName": "Chat Integration",
@@ -4311,7 +4537,8 @@
       "chat-features"
     ],
     "packageCount": 3,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTpZh"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTpZh",
+    "subCategoryNameWithEmoji": "Chat Integration 💬"
   },
   {
     "subCategoryName": "Screen Recording",
@@ -4330,7 +4557,8 @@
       "recording-tools"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7c0"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7c0",
+    "subCategoryNameWithEmoji": "Screen Recording 📹"
   },
   {
     "subCategoryName": "Fuzzy Search",
@@ -4349,7 +4577,8 @@
       "similarity-search"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7f6"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7f6",
+    "subCategoryNameWithEmoji": "Fuzzy Search 🔍"
   },
   {
     "subCategoryName": "CLI Tools",
@@ -4368,7 +4597,8 @@
       "project-management"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7jE"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7jE",
+    "subCategoryNameWithEmoji": "CLI Tools 💻"
   },
   {
     "subCategoryName": "User Behavior Analysis",
@@ -4387,7 +4617,8 @@
       "user-segmentation"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7nM"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7nM",
+    "subCategoryNameWithEmoji": "User Behavior Analysis 📊"
   },
   {
     "subCategoryName": "Contact Management",
@@ -4406,7 +4637,8 @@
       "contact-storage"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7qS"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7qS",
+    "subCategoryNameWithEmoji": "Contact Management 📇"
   },
   {
     "subCategoryName": "Data Generation",
@@ -4425,7 +4657,8 @@
       "data-factories"
     ],
     "packageCount": 3,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp7tY"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp7tY",
+    "subCategoryNameWithEmoji": "Data Generation 🔢"
   },
   {
     "subCategoryName": "Network Security",
@@ -4444,7 +4677,8 @@
       "https"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqTel"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqTel",
+    "subCategoryNameWithEmoji": "Network Security 🔒"
   },
   {
     "subCategoryName": "Memory Management",
@@ -4463,7 +4697,8 @@
       "heap-management"
     ],
     "packageCount": 3,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTpk9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTpk9",
+    "subCategoryNameWithEmoji": "Memory Management 💾"
   },
   {
     "subCategoryName": "Document Processing",
@@ -4482,7 +4717,8 @@
       "document-analysis"
     ],
     "packageCount": 3,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqTnZ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqTnZ",
+    "subCategoryNameWithEmoji": "Document Processing 📄"
   },
   {
     "subCategoryName": "Dynamic Form Generation",
@@ -4501,7 +4737,8 @@
       "form-management"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp81o"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp81o",
+    "subCategoryNameWithEmoji": "Dynamic Form Generation 📝"
   },
   {
     "subCategoryName": "Subscription Management",
@@ -4520,7 +4757,8 @@
       "subscription-plans"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp84u"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp84u",
+    "subCategoryNameWithEmoji": "Subscription Management 💳"
   },
   {
     "subCategoryName": "Event Handling",
@@ -4539,7 +4777,8 @@
       "event-streams"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp880"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp880",
+    "subCategoryNameWithEmoji": "Event Handling 🎉"
   },
   {
     "subCategoryName": "RSS Feed Parsing",
@@ -4558,7 +4797,8 @@
       "feed-management"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp8C8"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp8C8",
+    "subCategoryNameWithEmoji": "RSS Feed Parsing 📰"
   },
   {
     "subCategoryName": "Weather Data",
@@ -4577,7 +4817,8 @@
       "weather-alerts"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqU87"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqU87",
+    "subCategoryNameWithEmoji": "Weather Data 🌤️"
   },
   {
     "subCategoryName": "Clean Architecture",
@@ -4596,7 +4837,8 @@
       "domain-driven-design"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp8FE"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp8FE",
+    "subCategoryNameWithEmoji": "Clean Architecture 🏗️"
   },
   {
     "subCategoryName": "File Preview",
@@ -4615,7 +4857,8 @@
       "quick-look"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp8IK"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp8IK",
+    "subCategoryNameWithEmoji": "File Preview 👁️"
   },
   {
     "subCategoryName": "Machine Learning",
@@ -4634,7 +4877,8 @@
       "ai-powered-features"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTq53"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTq53",
+    "subCategoryNameWithEmoji": "Machine Learning 🧠"
   },
   {
     "subCategoryName": "Communication Utilities",
@@ -4653,7 +4897,8 @@
       "communication-protocols"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTqhN"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTqhN",
+    "subCategoryNameWithEmoji": "Communication Utilities 📞"
   },
   {
     "subCategoryName": "User Profile Management",
@@ -4672,7 +4917,8 @@
       "user-settings"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqUbT"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqUbT",
+    "subCategoryNameWithEmoji": "User Profile Management 👤"
   },
   {
     "subCategoryName": "Healthcare Data Standards",
@@ -4691,7 +4937,8 @@
       "healthcare-interoperability"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqUkH"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqUkH",
+    "subCategoryNameWithEmoji": "Healthcare Data Standards 🏥"
   },
   {
     "subCategoryName": "Feedback Collection",
@@ -4710,7 +4957,8 @@
       "nps-surveys"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp8h6"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp8h6",
+    "subCategoryNameWithEmoji": "Feedback Collection 📝"
   },
   {
     "subCategoryName": "Data Collection",
@@ -4729,7 +4977,8 @@
       "data-forms"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp8mG"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp8mG",
+    "subCategoryNameWithEmoji": "Data Collection 📊"
   },
   {
     "subCategoryName": "Religious Content",
@@ -4748,7 +4997,8 @@
       "religious-education"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTrQf"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTrQf",
+    "subCategoryNameWithEmoji": "Religious Content 🙏"
   },
   {
     "subCategoryName": "VoIP Integration",
@@ -4767,7 +5017,8 @@
       "communication-protocols"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTrb7"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTrb7",
+    "subCategoryNameWithEmoji": "VoIP Integration 📞"
   },
   {
     "subCategoryName": "Random Number Generation",
@@ -4786,7 +5037,8 @@
       "randomization-tools"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqV1t"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqV1t",
+    "subCategoryNameWithEmoji": "Random Number Generation 🎲"
   },
   {
     "subCategoryName": "Design Patterns",
@@ -4805,7 +5057,8 @@
       "solid-principles"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp8qO"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp8qO",
+    "subCategoryNameWithEmoji": "Design Patterns 🏗️"
   },
   {
     "subCategoryName": "JavaScript Integration",
@@ -4824,7 +5077,8 @@
       "cross-platform-integration"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqVDd"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqVDd",
+    "subCategoryNameWithEmoji": "JavaScript Integration 🌐"
   },
   {
     "subCategoryName": "Database Management",
@@ -4843,7 +5097,8 @@
       "crud-operations"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp8tU"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp8tU",
+    "subCategoryNameWithEmoji": "Database Management 🗃️"
   },
   {
     "subCategoryName": "Markdown Processing",
@@ -4862,7 +5117,8 @@
       "content-rendering"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqVSJ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqVSJ",
+    "subCategoryNameWithEmoji": "Markdown Processing 📝"
   },
   {
     "subCategoryName": "Command Line Interfaces",
@@ -4881,7 +5137,8 @@
       "automation-scripts"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqVb7"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqVb7",
+    "subCategoryNameWithEmoji": "Command Line Interfaces 💻"
   },
   {
     "subCategoryName": "File Transfer",
@@ -4900,7 +5157,8 @@
       "file-management"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTsRN"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTsRN",
+    "subCategoryNameWithEmoji": "File Transfer 📤"
   },
   {
     "subCategoryName": "File Sharing",
@@ -4919,7 +5177,8 @@
       "file-distribution"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqVjv"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqVjv",
+    "subCategoryNameWithEmoji": "File Sharing 📤"
   },
   {
     "subCategoryName": "Data Encoding",
@@ -4938,7 +5197,8 @@
       "data-transformation"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTsbp"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTsbp",
+    "subCategoryNameWithEmoji": "Data Encoding 🔢"
   },
   {
     "subCategoryName": "Reflection",
@@ -4957,7 +5217,8 @@
       "code-generation"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqVvf"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqVvf",
+    "subCategoryNameWithEmoji": "Reflection 🪞"
   },
   {
     "subCategoryName": "Data Validation",
@@ -4975,7 +5236,8 @@
       "data-sanitization"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTt7B"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTt7B",
+    "subCategoryNameWithEmoji": "Data Validation ✅"
   },
   {
     "subCategoryName": "Data Fetching",
@@ -4994,7 +5256,8 @@
       "offline-first"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp91k"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp91k",
+    "subCategoryNameWithEmoji": "Data Fetching 🔄"
   },
   {
     "subCategoryName": "UI Development",
@@ -5013,7 +5276,8 @@
       "accessibility"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTtHd"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTtHd",
+    "subCategoryNameWithEmoji": "UI Development 🎨"
   },
   {
     "subCategoryName": "Email Integration",
@@ -5032,7 +5296,8 @@
       "mail-client"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp98y"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp98y",
+    "subCategoryNameWithEmoji": "Email Integration 📧"
   },
   {
     "subCategoryName": "Localization Management",
@@ -5051,7 +5316,8 @@
       "cultural-adaptation"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9GC"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9GC",
+    "subCategoryNameWithEmoji": "Localization Management 🌍"
   },
   {
     "subCategoryName": "Real-time Database Sync",
@@ -5070,7 +5336,8 @@
       "socket-io"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqWGD"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqWGD",
+    "subCategoryNameWithEmoji": "Real-time Database Sync 🔄"
   },
   {
     "subCategoryName": "VoIP",
@@ -5089,7 +5356,8 @@
       "communication"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTtg1"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTtg1",
+    "subCategoryNameWithEmoji": "VoIP 📞"
   },
   {
     "subCategoryName": "Template Engines",
@@ -5108,7 +5376,8 @@
       "string-interpolation"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9Wi"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9Wi",
+    "subCategoryNameWithEmoji": "Template Engines 📄"
   },
   {
     "subCategoryName": "Database Integration",
@@ -5127,7 +5396,8 @@
       "isar"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTuSn"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTuSn",
+    "subCategoryNameWithEmoji": "Database Integration 🗃️"
   },
   {
     "subCategoryName": "Feature Flags",
@@ -5146,7 +5416,8 @@
       "app-customization"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTudF"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTudF",
+    "subCategoryNameWithEmoji": "Feature Flags 🚩"
   },
   {
     "subCategoryName": "Computational Geometry",
@@ -5165,7 +5436,8 @@
       "convex-hull"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9aq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9aq",
+    "subCategoryNameWithEmoji": "Computational Geometry 📐"
   },
   {
     "subCategoryName": "Messaging",
@@ -5184,7 +5456,8 @@
       "group-chat"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqWUt"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqWUt",
+    "subCategoryNameWithEmoji": "Messaging 💬"
   },
   {
     "subCategoryName": "WebRTC",
@@ -5203,7 +5476,8 @@
       "media-capture"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqWgd"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqWgd",
+    "subCategoryNameWithEmoji": "WebRTC 🌐"
   },
   {
     "subCategoryName": "Offline-First Architecture",
@@ -5222,7 +5496,8 @@
       "progressive-web-apps"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTurB"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTurB",
+    "subCategoryNameWithEmoji": "Offline-First Architecture 📴"
   },
   {
     "subCategoryName": "Streaming Services",
@@ -5241,7 +5516,8 @@
       "media-playback"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqWvJ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqWvJ",
+    "subCategoryNameWithEmoji": "Streaming Services 📺"
   },
   {
     "subCategoryName": "Server-Side Dart",
@@ -5260,7 +5536,8 @@
       "microservices"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9h2"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9h2",
+    "subCategoryNameWithEmoji": "Server-Side Dart 🎯"
   },
   {
     "subCategoryName": "Text Encoding",
@@ -5279,7 +5556,8 @@
       "data-serialization"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqX47"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqX47",
+    "subCategoryNameWithEmoji": "Text Encoding 🔠"
   },
   {
     "subCategoryName": "Architecture Patterns",
@@ -5298,7 +5576,8 @@
       "layered-architecture"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqXCv"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqXCv",
+    "subCategoryNameWithEmoji": "Architecture Patterns 🏗️"
   },
   {
     "subCategoryName": "Python Integration",
@@ -5317,7 +5596,8 @@
       "hybrid-apps"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9k8"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9k8",
+    "subCategoryNameWithEmoji": "Python Integration 🐍"
   },
   {
     "subCategoryName": "Payment Processing",
@@ -5336,7 +5616,8 @@
       "in-app-purchases"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTvC5"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTvC5",
+    "subCategoryNameWithEmoji": "Payment Processing 💳"
   },
   {
     "subCategoryName": "Hardware Integration",
@@ -5355,7 +5636,8 @@
       "biometrics"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9nE"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9nE",
+    "subCategoryNameWithEmoji": "Hardware Integration 🖥️"
   },
   {
     "subCategoryName": "NFC Reader",
@@ -5374,7 +5656,8 @@
       "data-exchange"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqXLj"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqXLj",
+    "subCategoryNameWithEmoji": "NFC Reader 📱"
   },
   {
     "subCategoryName": "Currency Conversion",
@@ -5393,7 +5676,8 @@
       "localization"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqXUX"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqXUX",
+    "subCategoryNameWithEmoji": "Currency Conversion 💱"
   },
   {
     "subCategoryName": "Data Parsing",
@@ -5412,7 +5696,8 @@
       "data-extraction"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTvaT"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTvaT",
+    "subCategoryNameWithEmoji": "Data Parsing 🔢"
   },
   {
     "subCategoryName": "Customer Support Integration",
@@ -5431,7 +5716,8 @@
       "chatbot"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqXdL"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqXdL",
+    "subCategoryNameWithEmoji": "Customer Support Integration 🙋‍♀️"
   },
   {
     "subCategoryName": "Console Output Styling",
@@ -5450,7 +5736,8 @@
       "console-tables"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9rM"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9rM",
+    "subCategoryNameWithEmoji": "Console Output Styling 🎨"
   },
   {
     "subCategoryName": "Mobile Wallet Integration",
@@ -5469,7 +5756,8 @@
       "loyalty-programs"
     ],
     "packageCount": 2,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTvyr"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTvyr",
+    "subCategoryNameWithEmoji": "Mobile Wallet Integration 💼"
   },
   {
     "subCategoryName": "Code Organization",
@@ -5488,7 +5776,8 @@
       "code-style"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDp9ya"
+    "subcategoryId": "YPzePRnofxqIDzAJMDp9ya",
+    "subCategoryNameWithEmoji": "Code Organization 📁"
   },
   {
     "subCategoryName": "Onboarding",
@@ -5507,7 +5796,8 @@
       "onboarding-flow"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpA1g"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpA1g",
+    "subCategoryNameWithEmoji": "Onboarding 👋"
   },
   {
     "subCategoryName": "Social Feed Integration",
@@ -5526,7 +5816,8 @@
       "social-analytics"
     ],
     "packageCount": 2,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqXm9"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqXm9",
+    "subCategoryNameWithEmoji": "Social Feed Integration 📱"
   },
   {
     "subCategoryName": "Scripting Engines",
@@ -5545,7 +5836,8 @@
       "runtime-scripting"
     ],
     "packageCount": 2,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpA4m"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpA4m",
+    "subCategoryNameWithEmoji": "Scripting Engines 🚀"
   },
   {
     "subCategoryName": "Phone Number Verification",
@@ -5564,7 +5856,8 @@
       "identity-verification"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqXux"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqXux",
+    "subCategoryNameWithEmoji": "Phone Number Verification 📞"
   },
   {
     "subCategoryName": "API Documentation",
@@ -5583,7 +5876,8 @@
       "swagger"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqY3l"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqY3l",
+    "subCategoryNameWithEmoji": "API Documentation 📚"
   },
   {
     "subCategoryName": "Financial Data",
@@ -5602,7 +5896,8 @@
       "risk-assessment"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTwGH"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTwGH",
+    "subCategoryNameWithEmoji": "Financial Data 💹"
   },
   {
     "subCategoryName": "Physics Simulations",
@@ -5621,7 +5916,8 @@
       "realistic-motion"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqYLN"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqYLN",
+    "subCategoryNameWithEmoji": "Physics Simulations 🧲"
   },
   {
     "subCategoryName": "iOS Live Activities",
@@ -5640,7 +5936,8 @@
       "background-updates"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpA8u"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpA8u",
+    "subCategoryNameWithEmoji": "iOS Live Activities 📱"
   },
   {
     "subCategoryName": "UI Design Tools",
@@ -5659,7 +5956,8 @@
       "accessibility-tools"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAHA"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAHA",
+    "subCategoryNameWithEmoji": "UI Design Tools 🎨"
   },
   {
     "subCategoryName": "Data Grid",
@@ -5678,7 +5976,8 @@
       "excel-like-ui"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqYfv"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqYfv",
+    "subCategoryNameWithEmoji": "Data Grid 📊"
   },
   {
     "subCategoryName": "Code Highlighting",
@@ -5697,7 +5996,8 @@
       "markdown-code-blocks"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpALI"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpALI",
+    "subCategoryNameWithEmoji": "Code Highlighting 🌈"
   },
   {
     "subCategoryName": "Directory Access Protocol",
@@ -5716,7 +6016,8 @@
       "organizational-data"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqYrf"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqYrf",
+    "subCategoryNameWithEmoji": "Directory Access Protocol 📁"
   },
   {
     "subCategoryName": "Code Evaluation",
@@ -5735,7 +6036,8 @@
       "code-injection"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAOO"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAOO",
+    "subCategoryNameWithEmoji": "Code Evaluation 🧑‍💻"
   },
   {
     "subCategoryName": "Code Cleaning",
@@ -5754,7 +6056,8 @@
       "dart-format"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpARU"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpARU",
+    "subCategoryNameWithEmoji": "Code Cleaning 🧹"
   },
   {
     "subCategoryName": "Pattern Matching",
@@ -5773,7 +6076,8 @@
       "search-algorithms"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqZ0T"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqZ0T",
+    "subCategoryNameWithEmoji": "Pattern Matching 🔍"
   },
   {
     "subCategoryName": "Wearable Devices",
@@ -5792,7 +6096,8 @@
       "companion-apps"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAUa"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAUa",
+    "subCategoryNameWithEmoji": "Wearable Devices ⌚"
   },
   {
     "subCategoryName": "Object-Relational Mapping",
@@ -5811,7 +6116,8 @@
       "query-builder"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAYi"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAYi",
+    "subCategoryNameWithEmoji": "Object-Relational Mapping 🗃️"
   },
   {
     "subCategoryName": "Game Testing",
@@ -5830,7 +6136,8 @@
       "game-balancing"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTwef"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTwef",
+    "subCategoryNameWithEmoji": "Game Testing 🎮"
   },
   {
     "subCategoryName": "Static Analysis",
@@ -5849,7 +6156,8 @@
       "dart-analyzer"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTwp7"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTwp7",
+    "subCategoryNameWithEmoji": "Static Analysis 🔍"
   },
   {
     "subCategoryName": "Message Queues",
@@ -5868,7 +6176,8 @@
       "distributed-systems"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAbo"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAbo",
+    "subCategoryNameWithEmoji": "Message Queues 📨"
   },
   {
     "subCategoryName": "File Type Detection",
@@ -5887,7 +6196,8 @@
       "binary-analysis"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqZCD"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqZCD",
+    "subCategoryNameWithEmoji": "File Type Detection 🔍"
   },
   {
     "subCategoryName": "Noise Generation",
@@ -5906,7 +6216,8 @@
       "game-development"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqZL1"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqZL1",
+    "subCategoryNameWithEmoji": "Noise Generation 🔊"
   },
   {
     "subCategoryName": "Package Analysis",
@@ -5925,7 +6236,8 @@
       "pub-score"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqZTp"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqZTp",
+    "subCategoryNameWithEmoji": "Package Analysis 📦"
   },
   {
     "subCategoryName": "Task Management",
@@ -5944,7 +6256,8 @@
       "team-collaboration"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAeu"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAeu",
+    "subCategoryNameWithEmoji": "Task Management ✅"
   },
   {
     "subCategoryName": "Document Generation",
@@ -5963,7 +6276,8 @@
       "content-creation"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAi0"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAi0",
+    "subCategoryNameWithEmoji": "Document Generation 📄"
   },
   {
     "subCategoryName": "Browser Integration",
@@ -5982,7 +6296,8 @@
       "browser-automation"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqZcd"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqZcd",
+    "subCategoryNameWithEmoji": "Browser Integration 🌐"
   },
   {
     "subCategoryName": "Vector Databases",
@@ -6001,7 +6316,8 @@
       "data-persistence"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqZlR"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqZlR",
+    "subCategoryNameWithEmoji": "Vector Databases 🗃️"
   },
   {
     "subCategoryName": "Wearable Device Integration",
@@ -6020,7 +6336,8 @@
       "watchos"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAl6"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAl6",
+    "subCategoryNameWithEmoji": "Wearable Device Integration ⌚"
   },
   {
     "subCategoryName": "Feed Parsing",
@@ -6039,7 +6356,8 @@
       "data-extraction"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAoC"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAoC",
+    "subCategoryNameWithEmoji": "Feed Parsing 📰"
   },
   {
     "subCategoryName": "Health Monitoring",
@@ -6058,7 +6376,8 @@
       "telemedicine"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpArI"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpArI",
+    "subCategoryNameWithEmoji": "Health Monitoring 💓"
   },
   {
     "subCategoryName": "Template Engine",
@@ -6077,7 +6396,8 @@
       "customization"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTxA1"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTxA1",
+    "subCategoryNameWithEmoji": "Template Engine 📄"
   },
   {
     "subCategoryName": "Data Integrity",
@@ -6096,7 +6416,8 @@
       "data-recovery"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTxKT"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTxKT",
+    "subCategoryNameWithEmoji": "Data Integrity ✅"
   },
   {
     "subCategoryName": "Containerization",
@@ -6115,7 +6436,8 @@
       "scalability"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAuO"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAuO",
+    "subCategoryNameWithEmoji": "Containerization 📦"
   },
   {
     "subCategoryName": "Privacy Management",
@@ -6134,7 +6456,8 @@
       "privacy-by-design"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpAxU"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpAxU",
+    "subCategoryNameWithEmoji": "Privacy Management 🔒"
   },
   {
     "subCategoryName": "Synchronization",
@@ -6153,7 +6476,8 @@
       "multi-device-sync"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqZuF"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqZuF",
+    "subCategoryNameWithEmoji": "Synchronization 🔄"
   },
   {
     "subCategoryName": "Audio Recognition",
@@ -6172,7 +6496,8 @@
       "natural-language-processing"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqa33"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqa33",
+    "subCategoryNameWithEmoji": "Audio Recognition 🎵"
   },
   {
     "subCategoryName": "Encoding and Decoding",
@@ -6191,7 +6516,8 @@
       "codec"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpB0a"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpB0a",
+    "subCategoryNameWithEmoji": "Encoding and Decoding 🔀"
   },
   {
     "subCategoryName": "Surveys",
@@ -6210,7 +6536,8 @@
       "market-research"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpB3g"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpB3g",
+    "subCategoryNameWithEmoji": "Surveys 📝"
   },
   {
     "subCategoryName": "Color Management",
@@ -6229,7 +6556,8 @@
       "material-design"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpB6m"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpB6m",
+    "subCategoryNameWithEmoji": "Color Management 🎨"
   },
   {
     "subCategoryName": "Package Management",
@@ -6248,7 +6576,8 @@
       "modular-development"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTxYP"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTxYP",
+    "subCategoryNameWithEmoji": "Package Management 📦"
   },
   {
     "subCategoryName": "Financial Services",
@@ -6267,7 +6596,8 @@
       "risk-management"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqaBr"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqaBr",
+    "subCategoryNameWithEmoji": "Financial Services 💰"
   },
   {
     "subCategoryName": "Virtual Machine",
@@ -6286,7 +6616,8 @@
       "runtime-environment"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTxir"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTxir",
+    "subCategoryNameWithEmoji": "Virtual Machine 💻"
   },
   {
     "subCategoryName": "Time Tracking",
@@ -6305,7 +6636,8 @@
       "time-analysis"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTxtJ"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTxtJ",
+    "subCategoryNameWithEmoji": "Time Tracking ⏱️"
   },
   {
     "subCategoryName": "URL Parsing",
@@ -6324,7 +6656,8 @@
       "url-encoding"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBAu"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBAu",
+    "subCategoryNameWithEmoji": "URL Parsing 🔗"
   },
   {
     "subCategoryName": "String Matching Algorithms",
@@ -6343,7 +6676,8 @@
       "data-mining"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTyS9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTyS9",
+    "subCategoryNameWithEmoji": "String Matching Algorithms 🔍"
   },
   {
     "subCategoryName": "Machine Learning Algorithms",
@@ -6362,7 +6696,8 @@
       "decision-trees"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTycb"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTycb",
+    "subCategoryNameWithEmoji": "Machine Learning Algorithms 🧠"
   },
   {
     "subCategoryName": "Queue Management",
@@ -6381,7 +6716,8 @@
       "task-orchestration"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBE0"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBE0",
+    "subCategoryNameWithEmoji": "Queue Management 🚶‍♂️"
   },
   {
     "subCategoryName": "Firmware Updates",
@@ -6400,7 +6736,8 @@
       "software-deployment"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTzBR"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTzBR",
+    "subCategoryNameWithEmoji": "Firmware Updates 🔧"
   },
   {
     "subCategoryName": "Text Recognition",
@@ -6419,7 +6756,8 @@
       "computer-vision"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTzLt"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTzLt",
+    "subCategoryNameWithEmoji": "Text Recognition 👁️"
   },
   {
     "subCategoryName": "Conditional Rendering",
@@ -6438,7 +6776,8 @@
       "conditional-widgets"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqaKf"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqaKf",
+    "subCategoryNameWithEmoji": "Conditional Rendering 🔀"
   },
   {
     "subCategoryName": "Hot Reload",
@@ -6457,7 +6796,8 @@
       "real-time-updates"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqaTT"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqaTT",
+    "subCategoryNameWithEmoji": "Hot Reload 🔥"
   },
   {
     "subCategoryName": "Presentation Tools",
@@ -6476,7 +6816,8 @@
       "multimedia-presentations"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqacH"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqacH",
+    "subCategoryNameWithEmoji": "Presentation Tools 📊"
   },
   {
     "subCategoryName": "Unit Conversion",
@@ -6495,7 +6836,8 @@
       "dimensional-analysis"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTzWL"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTzWL",
+    "subCategoryNameWithEmoji": "Unit Conversion 🔄"
   },
   {
     "subCategoryName": "Message Queue Integration",
@@ -6514,7 +6856,8 @@
       "microservices"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqal5"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqal5",
+    "subCategoryNameWithEmoji": "Message Queue Integration 📨"
   },
   {
     "subCategoryName": "Web Crawling",
@@ -6533,7 +6876,8 @@
       "web-automation"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqatt"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqatt",
+    "subCategoryNameWithEmoji": "Web Crawling 🕷️"
   },
   {
     "subCategoryName": "Data Retrieval",
@@ -6552,7 +6896,8 @@
       "content-delivery"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqb2h"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqb2h",
+    "subCategoryNameWithEmoji": "Data Retrieval 🔍"
   },
   {
     "subCategoryName": "Discord Integration",
@@ -6571,7 +6916,8 @@
       "social-media"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvTzgn"
+    "subcategoryId": "U7GiXZxomc47lFvBHvTzgn",
+    "subCategoryNameWithEmoji": "Discord Integration 💬"
   },
   {
     "subCategoryName": "User Management",
@@ -6590,7 +6936,8 @@
       "user-permissions"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBOK"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBOK",
+    "subCategoryNameWithEmoji": "User Management 👥"
   },
   {
     "subCategoryName": "Cryptocurrency Exchange",
@@ -6609,7 +6956,8 @@
       "defi"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBRQ"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBRQ",
+    "subCategoryNameWithEmoji": "Cryptocurrency Exchange 💱"
   },
   {
     "subCategoryName": "Video Downloading",
@@ -6628,7 +6976,8 @@
       "content-syncing"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU0J7"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU0J7",
+    "subCategoryNameWithEmoji": "Video Downloading 📥"
   },
   {
     "subCategoryName": "Key-Value Storage",
@@ -6647,7 +6996,8 @@
       "app-settings"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBWa"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBWa",
+    "subCategoryNameWithEmoji": "Key-Value Storage 🗝️"
   },
   {
     "subCategoryName": "Health Data Integration",
@@ -6666,7 +7016,8 @@
       "health-analytics"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqbW3"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqbW3",
+    "subCategoryNameWithEmoji": "Health Data Integration 💉"
   },
   {
     "subCategoryName": "E-book Rendering",
@@ -6685,7 +7036,8 @@
       "content-pagination"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU0X3"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU0X3",
+    "subCategoryNameWithEmoji": "E-book Rendering 📚"
   },
   {
     "subCategoryName": "Project Scaffolding",
@@ -6704,7 +7056,8 @@
       "best-practices"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU0kz"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU0kz",
+    "subCategoryNameWithEmoji": "Project Scaffolding 🏗️"
   },
   {
     "subCategoryName": "ID Generation",
@@ -6723,7 +7076,8 @@
       "distributed-systems"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBai"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBai",
+    "subCategoryNameWithEmoji": "ID Generation 🆔"
   },
   {
     "subCategoryName": "Data Conversion",
@@ -6742,7 +7096,8 @@
       "format-conversion"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBdo"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBdo",
+    "subCategoryNameWithEmoji": "Data Conversion 🔄"
   },
   {
     "subCategoryName": "Type Safety",
@@ -6761,7 +7116,8 @@
       "strong-typing"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqbhn"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqbhn",
+    "subCategoryNameWithEmoji": "Type Safety ✅"
   },
   {
     "subCategoryName": "Data Warehousing",
@@ -6780,7 +7136,8 @@
       "reporting"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBo8"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBo8",
+    "subCategoryNameWithEmoji": "Data Warehousing 🏭"
   },
   {
     "subCategoryName": "Audio Protocols",
@@ -6799,7 +7156,8 @@
       "multimedia"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBrE"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBrE",
+    "subCategoryNameWithEmoji": "Audio Protocols 🎵"
   },
   {
     "subCategoryName": "Date Calculation",
@@ -6818,7 +7176,8 @@
       "date-range"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqbqb"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqbqb",
+    "subCategoryNameWithEmoji": "Date Calculation 📅"
   },
   {
     "subCategoryName": "File Metadata",
@@ -6837,7 +7196,8 @@
       "file-system"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU1lh"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU1lh",
+    "subCategoryNameWithEmoji": "File Metadata 📄"
   },
   {
     "subCategoryName": "Audio Streaming",
@@ -6856,7 +7216,8 @@
       "audio-quality"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpBwO"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpBwO",
+    "subCategoryNameWithEmoji": "Audio Streaming 🎵"
   },
   {
     "subCategoryName": "Learning Algorithms",
@@ -6875,7 +7236,8 @@
       "data-science"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU1w9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU1w9",
+    "subCategoryNameWithEmoji": "Learning Algorithms 🧠"
   },
   {
     "subCategoryName": "SEO Optimization",
@@ -6894,7 +7256,8 @@
       "structured-data"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpC0W"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpC0W",
+    "subCategoryNameWithEmoji": "SEO Optimization 🔍"
   },
   {
     "subCategoryName": "Network Discovery",
@@ -6913,7 +7276,8 @@
       "iot"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqbzP"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqbzP",
+    "subCategoryNameWithEmoji": "Network Discovery 🔍"
   },
   {
     "subCategoryName": "Conditional Logic",
@@ -6932,7 +7296,8 @@
       "logical-operators"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpC3c"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpC3c",
+    "subCategoryNameWithEmoji": "Conditional Logic 🔀"
   },
   {
     "subCategoryName": "Terminal Emulation",
@@ -6951,7 +7316,8 @@
       "terminal-ui"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpC6i"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpC6i",
+    "subCategoryNameWithEmoji": "Terminal Emulation 💻"
   },
   {
     "subCategoryName": "Time Synchronization",
@@ -6970,7 +7336,8 @@
       "time-server"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCAq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCAq",
+    "subCategoryNameWithEmoji": "Time Synchronization ⏰"
   },
   {
     "subCategoryName": "Currency Handling",
@@ -6989,7 +7356,8 @@
       "billing"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU26b"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU26b",
+    "subCategoryNameWithEmoji": "Currency Handling 💱"
   },
   {
     "subCategoryName": "Clustering Algorithms",
@@ -7008,7 +7376,8 @@
       "unsupervised-learning"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCDw"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCDw",
+    "subCategoryNameWithEmoji": "Clustering Algorithms 🧮"
   },
   {
     "subCategoryName": "Device Orientation",
@@ -7027,7 +7396,8 @@
       "accelerometer"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCH2"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCH2",
+    "subCategoryNameWithEmoji": "Device Orientation 📱"
   },
   {
     "subCategoryName": "Clipboard Management",
@@ -7046,7 +7416,8 @@
       "pasteboard"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCK8"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCK8",
+    "subCategoryNameWithEmoji": "Clipboard Management 📋"
   },
   {
     "subCategoryName": "RTL Language Support",
@@ -7065,7 +7436,8 @@
       "multilingual"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCNE"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCNE",
+    "subCategoryNameWithEmoji": "RTL Language Support 🌐"
   },
   {
     "subCategoryName": "Serverless Computing",
@@ -7084,7 +7456,8 @@
       "scalable-architecture"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCQK"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCQK",
+    "subCategoryNameWithEmoji": "Serverless Computing ☁️"
   },
   {
     "subCategoryName": "Headless CMS",
@@ -7103,7 +7476,8 @@
       "content-delivery"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU2KX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU2KX",
+    "subCategoryNameWithEmoji": "Headless CMS 📝"
   },
   {
     "subCategoryName": "Code Generation Tools",
@@ -7122,7 +7496,8 @@
       "template-based-generation"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCTQ"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCTQ",
+    "subCategoryNameWithEmoji": "Code Generation Tools 🤖"
   },
   {
     "subCategoryName": "Financial Tools",
@@ -7141,7 +7516,8 @@
       "risk-assessment"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqc8D"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqc8D",
+    "subCategoryNameWithEmoji": "Financial Tools 💹"
   },
   {
     "subCategoryName": "Digital Wallet",
@@ -7160,7 +7536,8 @@
       "contactless-payments"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU2Uz"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU2Uz",
+    "subCategoryNameWithEmoji": "Digital Wallet 💳"
   },
   {
     "subCategoryName": "Customer Relationship Management",
@@ -7179,7 +7556,8 @@
       "business-tools"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCWW"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCWW",
+    "subCategoryNameWithEmoji": "Customer Relationship Management 👥"
   },
   {
     "subCategoryName": "Industrial Protocols",
@@ -7198,7 +7576,8 @@
       "hardware-interface"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU2fR"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU2fR",
+    "subCategoryNameWithEmoji": "Industrial Protocols 🏭"
   },
   {
     "subCategoryName": "Layout Constraints",
@@ -7217,7 +7596,8 @@
       "ui-toolkit"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCae"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCae",
+    "subCategoryNameWithEmoji": "Layout Constraints 📏"
   },
   {
     "subCategoryName": "DevOps",
@@ -7236,7 +7616,8 @@
       "infrastructure-as-code"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCdk"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCdk",
+    "subCategoryNameWithEmoji": "DevOps 🔧"
   },
   {
     "subCategoryName": "Documentation",
@@ -7255,7 +7636,8 @@
       "project-documentation"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU2pt"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU2pt",
+    "subCategoryNameWithEmoji": "Documentation 📚"
   },
   {
     "subCategoryName": "Email Handling",
@@ -7274,7 +7656,8 @@
       "email-validation"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqcYd"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqcYd",
+    "subCategoryNameWithEmoji": "Email Handling 📧"
   },
   {
     "subCategoryName": "Hardware Description",
@@ -7293,7 +7676,8 @@
       "low-level-programming"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqchR"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqchR",
+    "subCategoryNameWithEmoji": "Hardware Description 🖥️"
   },
   {
     "subCategoryName": "Speech Synthesis",
@@ -7312,7 +7696,8 @@
       "voice-assistant"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU33p"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU33p",
+    "subCategoryNameWithEmoji": "Speech Synthesis 🗣️"
   },
   {
     "subCategoryName": "UI Testing",
@@ -7331,7 +7716,8 @@
       "quality-assurance"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqcqF"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqcqF",
+    "subCategoryNameWithEmoji": "UI Testing 🧪"
   },
   {
     "subCategoryName": "Search Result Highlighting",
@@ -7350,7 +7736,8 @@
       "text-processing"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpChs"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpChs",
+    "subCategoryNameWithEmoji": "Search Result Highlighting 🔍"
   },
   {
     "subCategoryName": "GetX Utilities",
@@ -7369,7 +7756,8 @@
       "getx-extensions"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqd7r"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqd7r",
+    "subCategoryNameWithEmoji": "GetX Utilities 🛠️"
   },
   {
     "subCategoryName": "Streaming",
@@ -7388,7 +7776,8 @@
       "adaptive-streaming"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU3qb"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU3qb",
+    "subCategoryNameWithEmoji": "Streaming 📺"
   },
   {
     "subCategoryName": "Healthcare Integration",
@@ -7407,7 +7796,8 @@
       "hipaa-compliance"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCo4"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCo4",
+    "subCategoryNameWithEmoji": "Healthcare Integration 🏥"
   },
   {
     "subCategoryName": "Environment Configuration",
@@ -7426,7 +7816,8 @@
       "app-configuration"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqdSP"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqdSP",
+    "subCategoryNameWithEmoji": "Environment Configuration ⚙️"
   },
   {
     "subCategoryName": "Mesh Networking",
@@ -7445,7 +7836,8 @@
       "offline-communication"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU4Ez"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU4Ez",
+    "subCategoryNameWithEmoji": "Mesh Networking 🕸️"
   },
   {
     "subCategoryName": "User Onboarding",
@@ -7464,7 +7856,8 @@
       "guided-tour"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpCvI"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpCvI",
+    "subCategoryNameWithEmoji": "User Onboarding 👋"
   },
   {
     "subCategoryName": "Framework",
@@ -7483,7 +7876,8 @@
       "flutter-architecture"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU51l"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU51l",
+    "subCategoryNameWithEmoji": "Framework 🏗️"
   },
   {
     "subCategoryName": "Project Management",
@@ -7502,7 +7896,8 @@
       "development-lifecycle"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpD0S"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpD0S",
+    "subCategoryNameWithEmoji": "Project Management 📊"
   },
   {
     "subCategoryName": "Screen Casting",
@@ -7521,7 +7916,8 @@
       "smart-tv-integration"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqdk1"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqdk1",
+    "subCategoryNameWithEmoji": "Screen Casting 📺"
   },
   {
     "subCategoryName": "Indoor Positioning",
@@ -7540,7 +7936,8 @@
       "proximity-detection"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpD3Y"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpD3Y",
+    "subCategoryNameWithEmoji": "Indoor Positioning 📍"
   },
   {
     "subCategoryName": "Eye Tracking",
@@ -7559,7 +7956,8 @@
       "biometric-input"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpD6e"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpD6e",
+    "subCategoryNameWithEmoji": "Eye Tracking 👁️"
   },
   {
     "subCategoryName": "Spreadsheet Processing",
@@ -7578,7 +7976,8 @@
       "spreadsheet-generation"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU5Fh"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU5Fh",
+    "subCategoryNameWithEmoji": "Spreadsheet Processing 📊"
   },
   {
     "subCategoryName": "Music",
@@ -7597,7 +7996,8 @@
       "audio-visualization"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpD9k"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpD9k",
+    "subCategoryNameWithEmoji": "Music 🎵"
   },
   {
     "subCategoryName": "Code Execution",
@@ -7616,7 +8016,8 @@
       "plugin-system"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU5Q9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU5Q9",
+    "subCategoryNameWithEmoji": "Code Execution 🏃‍♂️"
   },
   {
     "subCategoryName": "Search Utilities",
@@ -7635,7 +8036,8 @@
       "search-suggestions"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU5ab"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU5ab",
+    "subCategoryNameWithEmoji": "Search Utilities 🔍"
   },
   {
     "subCategoryName": "Barcode Generation",
@@ -7654,7 +8056,8 @@
       "product-labeling"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDCq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDCq",
+    "subCategoryNameWithEmoji": "Barcode Generation 📊"
   },
   {
     "subCategoryName": "Geospatial Data",
@@ -7673,7 +8076,8 @@
       "location-intelligence"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqdvl"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqdvl",
+    "subCategoryNameWithEmoji": "Geospatial Data 🗺️"
   },
   {
     "subCategoryName": "Device Services",
@@ -7692,7 +8096,8 @@
       "platform-specific-features"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU5l3"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU5l3",
+    "subCategoryNameWithEmoji": "Device Services 📱"
   },
   {
     "subCategoryName": "Data Streaming",
@@ -7711,7 +8116,8 @@
       "asynchronous-programming"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqe4Z"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqe4Z",
+    "subCategoryNameWithEmoji": "Data Streaming 📊"
   },
   {
     "subCategoryName": "Marketing Automation",
@@ -7730,7 +8136,8 @@
       "personalization"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqeGJ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqeGJ",
+    "subCategoryNameWithEmoji": "Marketing Automation 📈"
   },
   {
     "subCategoryName": "Time Management",
@@ -7749,7 +8156,8 @@
       "time-analysis"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDK4"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDK4",
+    "subCategoryNameWithEmoji": "Time Management ⏰"
   },
   {
     "subCategoryName": "App Architecture",
@@ -7768,7 +8176,8 @@
       "solid-principles"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqeUz"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqeUz",
+    "subCategoryNameWithEmoji": "App Architecture 🏗️"
   },
   {
     "subCategoryName": "File Upload",
@@ -7787,7 +8196,8 @@
       "document-upload"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDNA"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDNA",
+    "subCategoryNameWithEmoji": "File Upload 📤"
   },
   {
     "subCategoryName": "Network Service Discovery",
@@ -7806,7 +8216,8 @@
       "network-protocols"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU69R"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU69R",
+    "subCategoryNameWithEmoji": "Network Service Discovery 🔍"
   },
   {
     "subCategoryName": "File Transfer Protocol",
@@ -7825,7 +8236,8 @@
       "secure-file-transfer"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDQG"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDQG",
+    "subCategoryNameWithEmoji": "File Transfer Protocol 📤"
   },
   {
     "subCategoryName": "Server-Sent Events",
@@ -7844,7 +8256,8 @@
       "event-driven"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDXU"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDXU",
+    "subCategoryNameWithEmoji": "Server-Sent Events 📡"
   },
   {
     "subCategoryName": "Pathfinding",
@@ -7863,7 +8276,8 @@
       "spatial-navigation"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU6Qr"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU6Qr",
+    "subCategoryNameWithEmoji": "Pathfinding 🗺️"
   },
   {
     "subCategoryName": "Input Simulation",
@@ -7882,7 +8296,8 @@
       "automated-interaction"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqfRh"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqfRh",
+    "subCategoryNameWithEmoji": "Input Simulation ⌨️"
   },
   {
     "subCategoryName": "Web Optimization",
@@ -7901,7 +8316,8 @@
       "seo"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDce"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDce",
+    "subCategoryNameWithEmoji": "Web Optimization 🌐"
   },
   {
     "subCategoryName": "Geometry",
@@ -7920,7 +8336,8 @@
       "3d-geometry"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDho"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDho",
+    "subCategoryNameWithEmoji": "Geometry 📐"
   },
   {
     "subCategoryName": "Device Detection",
@@ -7939,7 +8356,8 @@
       "device-profiling"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU6bJ"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU6bJ",
+    "subCategoryNameWithEmoji": "Device Detection 📱"
   },
   {
     "subCategoryName": "UI Automation",
@@ -7958,7 +8376,8 @@
       "test-automation"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDku"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDku",
+    "subCategoryNameWithEmoji": "UI Automation 🤖"
   },
   {
     "subCategoryName": "Verification Framework",
@@ -7977,7 +8396,8 @@
       "compliance-checks"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqfaV"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqfaV",
+    "subCategoryNameWithEmoji": "Verification Framework ✅"
   },
   {
     "subCategoryName": "Search Analytics",
@@ -7996,7 +8416,8 @@
       "relevance-scoring"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqfjJ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqfjJ",
+    "subCategoryNameWithEmoji": "Search Analytics 🔍"
   },
   {
     "subCategoryName": "Random Data Generation",
@@ -8015,7 +8436,8 @@
       "data-generation"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDo0"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDo0",
+    "subCategoryNameWithEmoji": "Random Data Generation 🎲"
   },
   {
     "subCategoryName": "HTML Parsing",
@@ -8034,7 +8456,8 @@
       "html-rendering"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU6zh"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU6zh",
+    "subCategoryNameWithEmoji": "HTML Parsing 🌐"
   },
   {
     "subCategoryName": "Query String Manipulation",
@@ -8053,7 +8476,8 @@
       "api-query-construction"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpDr6"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpDr6",
+    "subCategoryNameWithEmoji": "Query String Manipulation 🔗"
   },
   {
     "subCategoryName": "Data Comparison",
@@ -8072,7 +8496,8 @@
       "data-matching"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU7A9"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU7A9",
+    "subCategoryNameWithEmoji": "Data Comparison 🔍"
   },
   {
     "subCategoryName": "State Machines",
@@ -8091,7 +8516,8 @@
       "state-diagrams"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpE4W"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpE4W",
+    "subCategoryNameWithEmoji": "State Machines 🔄"
   },
   {
     "subCategoryName": "Data Type Conversion",
@@ -8110,7 +8536,8 @@
       "type-coercion"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqgop"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqgop",
+    "subCategoryNameWithEmoji": "Data Type Conversion 🔄"
   },
   {
     "subCategoryName": "Authorization",
@@ -8129,7 +8556,8 @@
       "user-privileges"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpECm"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpECm",
+    "subCategoryNameWithEmoji": "Authorization 🔑"
   },
   {
     "subCategoryName": "Modular Architecture",
@@ -8148,7 +8576,8 @@
       "feature-modules"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpEFs"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpEFs",
+    "subCategoryNameWithEmoji": "Modular Architecture 🧱"
   },
   {
     "subCategoryName": "Weather Data Integration",
@@ -8167,7 +8596,8 @@
       "weather-alerts"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU7O5"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU7O5",
+    "subCategoryNameWithEmoji": "Weather Data Integration 🌤️"
   },
   {
     "subCategoryName": "Astronomy Utilities",
@@ -8186,7 +8616,8 @@
       "astronomical-events"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqi39"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqi39",
+    "subCategoryNameWithEmoji": "Astronomy Utilities 🔭"
   },
   {
     "subCategoryName": "WebAssembly Integration",
@@ -8205,7 +8636,8 @@
       "runtime-optimization"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU8SH"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU8SH",
+    "subCategoryNameWithEmoji": "WebAssembly Integration 🌐"
   },
   {
     "subCategoryName": "App Update Management",
@@ -8224,7 +8656,8 @@
       "app-maintenance"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqiTZ"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqiTZ",
+    "subCategoryNameWithEmoji": "App Update Management 🔄"
   },
   {
     "subCategoryName": "Container Orchestration",
@@ -8243,7 +8676,8 @@
       "devops"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU8cj"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU8cj",
+    "subCategoryNameWithEmoji": "Container Orchestration 🐳"
   },
   {
     "subCategoryName": "Signal Processing",
@@ -8262,7 +8696,8 @@
       "feature-extraction"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqiiF"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqiiF",
+    "subCategoryNameWithEmoji": "Signal Processing 📡"
   },
   {
     "subCategoryName": "VPN Integration",
@@ -8281,7 +8716,8 @@
       "geo-unblocking"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU9IX"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU9IX",
+    "subCategoryNameWithEmoji": "VPN Integration 🔒"
   },
   {
     "subCategoryName": "Game Backend",
@@ -8300,7 +8736,8 @@
       "cloud-gaming"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU9Sz"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU9Sz",
+    "subCategoryNameWithEmoji": "Game Backend 🎮"
   },
   {
     "subCategoryName": "Installer Creation",
@@ -8319,7 +8756,8 @@
       "software-distribution"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpEUK"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpEUK",
+    "subCategoryNameWithEmoji": "Installer Creation 💿"
   },
   {
     "subCategoryName": "AI Decision Making",
@@ -8338,7 +8776,8 @@
       "ai-agents"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpEhk"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpEhk",
+    "subCategoryNameWithEmoji": "AI Decision Making 🤖"
   },
   {
     "subCategoryName": "Productivity Tools",
@@ -8357,7 +8796,8 @@
       "developer-productivity"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvU9kP"
+    "subcategoryId": "U7GiXZxomc47lFvBHvU9kP",
+    "subCategoryNameWithEmoji": "Productivity Tools 📊"
   },
   {
     "subCategoryName": "Command Line Tools",
@@ -8376,7 +8816,8 @@
       "task-runners"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpEkq"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpEkq",
+    "subCategoryNameWithEmoji": "Command Line Tools 💻"
   },
   {
     "subCategoryName": "Simulation",
@@ -8395,7 +8836,8 @@
       "game-engine"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqj5j"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqj5j",
+    "subCategoryNameWithEmoji": "Simulation 🎮"
   },
   {
     "subCategoryName": "Screen Capture",
@@ -8414,7 +8856,8 @@
       "media-creation"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqjEX"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqjEX",
+    "subCategoryNameWithEmoji": "Screen Capture 📸"
   },
   {
     "subCategoryName": "URL Handling",
@@ -8433,7 +8876,8 @@
       "navigation"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqjNL"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqjNL",
+    "subCategoryNameWithEmoji": "URL Handling 🔗"
   },
   {
     "subCategoryName": "Privacy and Consent",
@@ -8452,7 +8896,8 @@
       "compliance"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpEu8"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpEu8",
+    "subCategoryNameWithEmoji": "Privacy and Consent 🔒"
   },
   {
     "subCategoryName": "Scheduling",
@@ -8471,7 +8916,8 @@
       "time-slots"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpF9c"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpF9c",
+    "subCategoryNameWithEmoji": "Scheduling 📅"
   },
   {
     "subCategoryName": "Calendar Integration",
@@ -8490,7 +8936,8 @@
       "calendar-widget"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpFM0"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpFM0",
+    "subCategoryNameWithEmoji": "Calendar Integration 📆"
   },
   {
     "subCategoryName": "Process Management",
@@ -8509,7 +8956,8 @@
       "background-services"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqm4f"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqm4f",
+    "subCategoryNameWithEmoji": "Process Management 🔄"
   },
   {
     "subCategoryName": "Phone Number Validation",
@@ -8528,7 +8976,8 @@
       "phone-masking"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqmDT"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqmDT",
+    "subCategoryNameWithEmoji": "Phone Number Validation ☎️"
   },
   {
     "subCategoryName": "Documentation Generation",
@@ -8547,7 +8996,8 @@
       "dartdoc"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpFWK"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpFWK",
+    "subCategoryNameWithEmoji": "Documentation Generation 📚"
   },
   {
     "subCategoryName": "Picture-in-Picture",
@@ -8566,7 +9016,8 @@
       "multitasking"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvUAs5"
+    "subcategoryId": "U7GiXZxomc47lFvBHvUAs5",
+    "subCategoryNameWithEmoji": "Picture-in-Picture 🖼️"
   },
   {
     "subCategoryName": "Network Management",
@@ -8585,7 +9036,8 @@
       "proxy-settings"
     ],
     "packageCount": 1,
-    "subcategoryId": "YPzePRnofxqIDzAJMDpFkm"
+    "subcategoryId": "YPzePRnofxqIDzAJMDpFkm",
+    "subCategoryNameWithEmoji": "Network Management 🌐"
   },
   {
     "subCategoryName": "Sorting Algorithms",
@@ -8604,7 +9056,8 @@
       "custom-sorting"
     ],
     "packageCount": 1,
-    "subcategoryId": "tbfifT6DwZibVMS7hkqn1N"
+    "subcategoryId": "tbfifT6DwZibVMS7hkqn1N",
+    "subCategoryNameWithEmoji": "Sorting Algorithms 🔢"
   },
   {
     "subCategoryName": "Parsing",
@@ -8623,6 +9076,7 @@
       "data-extraction"
     ],
     "packageCount": 1,
-    "subcategoryId": "U7GiXZxomc47lFvBHvUBQv"
+    "subcategoryId": "U7GiXZxomc47lFvBHvUBQv",
+    "subCategoryNameWithEmoji": "Parsing 🔍"
   }
 ]
