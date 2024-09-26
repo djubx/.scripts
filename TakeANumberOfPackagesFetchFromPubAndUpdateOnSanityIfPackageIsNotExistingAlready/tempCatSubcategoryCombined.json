@@ -1,0 +1,220 @@
+{
+  "📷 Media and Assets": [
+    "Image Processing",
+    "Video Handling",
+    "Audio Management",
+    "Camera Integration",
+    "Media Pickers",
+    "Asset Management",
+    "Multimedia Utilities"
+  ],
+  "📍 Location and Maps": [
+    "Geolocation Services",
+    "Map Rendering",
+    "Location Tracking",
+    "Geocoding and Reverse Geocoding",
+    "Place Search and Discovery",
+    "Route Planning and Navigation"
+  ],
+  "🎨 UI Components and Styling": [
+    "Widget Libraries",
+    "Theming and Styling",
+    "Custom Animations",
+    "Responsive Design",
+    "Material Design Components",
+    "Cupertino Design Components",
+    "UI Frameworks"
+  ],
+  "🌐 Networking and API": [
+    "HTTP Clients",
+    "RESTful API Utilities",
+    "GraphQL Integration",
+    "WebSocket Handling",
+    "Network Status Monitoring",
+    "API Code Generation"
+  ],
+  "💾 Data Storage and Persistence": [
+    "Local Databases",
+    "Cloud Storage Solutions",
+    "Caching Mechanisms",
+    "File System Operations",
+    "Secure Storage",
+    "Data Serialization"
+  ],
+  "🧠 State Management": [
+    "Reactive State Management",
+    "BLoC Pattern",
+    "Provider Pattern",
+    "Redux Implementation",
+    "MobX Integration",
+    "GetX Utilities"
+  ],
+  "🔐 Authentication and Security": [
+    "OAuth Integration",
+    "Biometric Authentication",
+    "JWT Handling",
+    "Encryption and Decryption",
+    "Secure Storage",
+    "Two-Factor Authentication"
+  ],
+  "🧭 Navigation and Routing": [
+    "Route Management",
+    "Deep Linking",
+    "Navigation Patterns",
+    "Transition Animations",
+    "Named Routes",
+    "Navigation State Preservation"
+  ],
+  "🌍 Internationalization and Localization": [
+    "Multilingual Support",
+    "RTL Language Support",
+    "Translation Management",
+    "Localized Resources",
+    "Dynamic Language Switching",
+    "Internationalization Utilities"
+  ],
+  "🔌 Platform and Hardware Integration": [
+    "Platform Channels",
+    "Native API Access",
+    "Sensor Integration",
+    "Bluetooth and NFC",
+    "Camera and Microphone Access",
+    "Background Services"
+  ],
+  "📊 Analytics and Reporting": [
+    "Usage Analytics",
+    "Crash Reporting",
+    "Performance Monitoring",
+    "Custom Event Tracking",
+    "A/B Testing",
+    "User Behavior Analysis"
+  ],
+  "🧪 Testing and Debugging": [
+    "Unit Testing",
+    "Widget Testing",
+    "Integration Testing",
+    "Mocking and Stubbing",
+    "Performance Profiling",
+    "Debugging Tools"
+  ],
+  "🔔 Notifications and Messaging": [
+    "Push Notifications",
+    "In-App Messaging",
+    "Local Notifications",
+    "Notification Scheduling",
+    "Rich Media Notifications",
+    "Notification Channels"
+  ],
+  "💰 Monetization and Payments": [
+    "In-App Purchases",
+    "Payment Gateways",
+    "Subscription Management",
+    "Ad Integration",
+    "E-commerce Solutions",
+    "Crypto Payments"
+  ],
+  "🎮 Animation and Graphics": [
+    "Custom Animations",
+    "Lottie Animations",
+    "Particle Systems",
+    "3D Rendering",
+    "Game Engines",
+    "SVG Handling"
+  ],
+  "🛠️ Developer Tools and Utilities": [
+    "Code Generation",
+    "Build Automation",
+    "Linting and Formatting",
+    "Dependency Management",
+    "CI/CD Integration",
+    "Performance Optimization"
+  ],
+  "📄 Document and File Processing": [
+    "PDF Generation and Manipulation",
+    "Office Document Handling",
+    "Image Compression",
+    "File Format Conversion",
+    "Text Extraction",
+    "Document Scanning"
+  ],
+  "🔧 Device Features and Sensors": [
+    "Accelerometer and Gyroscope",
+    "Proximity Sensor",
+    "Ambient Light Sensor",
+    "Fingerprint Scanner",
+    "NFC Reader",
+    "Barcode and QR Code Scanning"
+  ],
+  "🔌 Third-party Integrations": [
+    "Social Media SDKs",
+    "Cloud Services Integration",
+    "Analytics Platforms",
+    "Mapping Services",
+    "Payment Processors",
+    "Messaging Platforms"
+  ],
+  "🧩 Plugins and Extensions": [
+    "IDE Plugins",
+    "Build Extensions",
+    "Code Generation Tools",
+    "Custom Lint Rules",
+    "Asset Management Extensions",
+    "Debugging Extensions"
+  ],
+  "👤 User Input and Forms": [
+    "Form Validation",
+    "Input Formatting",
+    "Custom Input Fields",
+    "Auto-complete",
+    "Multi-step Forms",
+    "Dynamic Form Generation"
+  ],
+  "📅 Date, Time, and Scheduling": [
+    "Date Pickers",
+    "Time Pickers",
+    "Calendar Widgets",
+    "Scheduling Algorithms",
+    "Time Zone Handling",
+    "Date-Time Formatting"
+  ],
+  "🤖 AI and Machine Learning": [
+    "On-Device ML",
+    "Natural Language Processing",
+    "Image Recognition",
+    "Speech Recognition",
+    "Predictive Models",
+    "ChatGPT Integration"
+  ],
+  "🔍 Search and Filtering": [
+    "Full-Text Search",
+    "Fuzzy Search",
+    "Faceted Search",
+    "Search Suggestions",
+    "Filter UI Components",
+    "Search Result Highlighting"
+  ],
+  "🔗 Social Media and Sharing": [
+    "Social Media Logins",
+    "Share to Social Platforms",
+    "Social Feed Integration",
+    "User Profile Management",
+    "Social Graph APIs",
+    "Content Sharing Utilities"
+  ],
+  "📐 Architecture and Design Patterns": [
+    "MVVM Implementation",
+    "Clean Architecture",
+    "Dependency Injection",
+    "Repository Pattern",
+    "Service Locator",
+    "Event Bus"
+  ],
+  "🔄 State Synchronization and Real-time Updates": [
+    "WebSocket Integration",
+    "Real-time Database Sync",
+    "Offline-First Architecture",
+    "Conflict Resolution",
+    "Live Data Streams",
+    "Push-based Updates"
+  ]
+}

@@ -1,0 +1,1818 @@
+[
+  {
+    "name": "Widget Libraries",
+    "packageCount": 1177
+  },
+  {
+    "name": "Custom Animations",
+    "packageCount": 516
+  },
+  {
+    "name": "UI Frameworks",
+    "packageCount": 425
+  },
+  {
+    "name": "Native API Access",
+    "packageCount": 363
+  },
+  {
+    "name": "Custom Input Fields",
+    "packageCount": 246
+  },
+  {
+    "name": "Image Processing",
+    "packageCount": 234
+  },
+  {
+    "name": "State Management",
+    "packageCount": 166
+  },
+  {
+    "name": "Utility Functions",
+    "packageCount": 164
+  },
+  {
+    "name": "Asset Management",
+    "packageCount": 163
+  },
+  {
+    "name": "Video Handling",
+    "packageCount": 161
+  },
+  {
+    "name": "Audio Management",
+    "packageCount": 154
+  },
+  {
+    "name": "Payment Gateways",
+    "packageCount": 145
+  },
+  {
+    "name": "File System Operations",
+    "packageCount": 145
+  },
+  {
+    "name": "Debugging Tools",
+    "packageCount": 130
+  },
+  {
+    "name": "Map Rendering",
+    "packageCount": 124
+  },
+  {
+    "name": "Navigation Patterns",
+    "packageCount": 124
+  },
+  {
+    "name": "Data Serialization",
+    "packageCount": 121
+  },
+  {
+    "name": "Local Databases",
+    "packageCount": 117
+  },
+  {
+    "name": "Data Visualization",
+    "packageCount": 95
+  },
+  {
+    "name": "Form Validation",
+    "packageCount": 94
+  },
+  {
+    "name": "Network Status Monitoring",
+    "packageCount": 91
+  },
+  {
+    "name": "Authentication",
+    "packageCount": 86
+  },
+  {
+    "name": "Date-Time Formatting",
+    "packageCount": 84
+  },
+  {
+    "name": "Theming and Styling",
+    "packageCount": 82
+  },
+  {
+    "name": "Build Automation",
+    "packageCount": 81
+  },
+  {
+    "name": "Geolocation Services",
+    "packageCount": 81
+  },
+  {
+    "name": "Encryption and Decryption",
+    "packageCount": 80
+  },
+  {
+    "name": "HTTP Clients",
+    "packageCount": 80
+  },
+  {
+    "name": "Responsive Design",
+    "packageCount": 80
+  },
+  {
+    "name": "Analytics Platforms",
+    "packageCount": 79
+  },
+  {
+    "name": "Barcode and QR Code Scanning",
+    "packageCount": 78
+  },
+  {
+    "name": "Text Processing",
+    "packageCount": 78
+  },
+  {
+    "name": "Custom Scroll Views",
+    "packageCount": 75
+  },
+  {
+    "name": "Security",
+    "packageCount": 74
+  },
+  {
+    "name": "Code Generation",
+    "packageCount": 73
+  },
+  {
+    "name": "Date Pickers",
+    "packageCount": 71
+  },
+  {
+    "name": "Media Pickers",
+    "packageCount": 66
+  },
+  {
+    "name": "Natural Language Processing",
+    "packageCount": 62
+  },
+  {
+    "name": "Localized Resources",
+    "packageCount": 62
+  },
+  {
+    "name": "RESTful API Utilities",
+    "packageCount": 61
+  },
+  {
+    "name": "Messaging Platforms",
+    "packageCount": 56
+  },
+  {
+    "name": "OAuth Integration",
+    "packageCount": 55
+  },
+  {
+    "name": "Rich Text Editing",
+    "packageCount": 55
+  },
+  {
+    "name": "Cloud Storage Solutions",
+    "packageCount": 55
+  },
+  {
+    "name": "Caching Mechanisms",
+    "packageCount": 54
+  },
+  {
+    "name": "Game Engines",
+    "packageCount": 54
+  },
+  {
+    "name": "Bluetooth and NFC",
+    "packageCount": 52
+  },
+  {
+    "name": "Cloud Services Integration",
+    "packageCount": 50
+  },
+  {
+    "name": "Calendar Widgets",
+    "packageCount": 49
+  },
+  {
+    "name": "WebSocket Handling",
+    "packageCount": 46
+  },
+  {
+    "name": "PDF Generation and Manipulation",
+    "packageCount": 46
+  },
+  {
+    "name": "Ad Integration",
+    "packageCount": 44
+  },
+  {
+    "name": "Social Media SDKs",
+    "packageCount": 44
+  },
+  {
+    "name": "Data Structures",
+    "packageCount": 42
+  },
+  {
+    "name": "Push Notifications",
+    "packageCount": 42
+  },
+  {
+    "name": "Platform Channels",
+    "packageCount": 40
+  },
+  {
+    "name": "Input Formatting",
+    "packageCount": 40
+  },
+  {
+    "name": "Camera Integration",
+    "packageCount": 40
+  },
+  {
+    "name": "Secure Storage",
+    "packageCount": 39
+  },
+  {
+    "name": "Device Information",
+    "packageCount": 36
+  },
+  {
+    "name": "Local Notifications",
+    "packageCount": 34
+  },
+  {
+    "name": "Web Integration",
+    "packageCount": 34
+  },
+  {
+    "name": "Linting and Formatting",
+    "packageCount": 34
+  },
+  {
+    "name": "Logging",
+    "packageCount": 33
+  },
+  {
+    "name": "On-Device ML",
+    "packageCount": 32
+  },
+  {
+    "name": "Reactive State Management",
+    "packageCount": 31
+  },
+  {
+    "name": "Place Search and Discovery",
+    "packageCount": 31
+  },
+  {
+    "name": "Utilities",
+    "packageCount": 31
+  },
+  {
+    "name": "Document Scanning",
+    "packageCount": 30
+  },
+  {
+    "name": "Route Management",
+    "packageCount": 29
+  },
+  {
+    "name": "Content Sharing Utilities",
+    "packageCount": 29
+  },
+  {
+    "name": "Sensor Integration",
+    "packageCount": 29
+  },
+  {
+    "name": "Multilingual Support",
+    "packageCount": 29
+  },
+  {
+    "name": "Performance Monitoring",
+    "packageCount": 28
+  },
+  {
+    "name": "Blockchain Integration",
+    "packageCount": 28
+  },
+  {
+    "name": "Performance Optimization",
+    "packageCount": 27
+  },
+  {
+    "name": "Crash Reporting",
+    "packageCount": 27
+  },
+  {
+    "name": "Localization",
+    "packageCount": 27
+  },
+  {
+    "name": "Biometric Authentication",
+    "packageCount": 26
+  },
+  {
+    "name": "Internationalization Utilities",
+    "packageCount": 26
+  },
+  {
+    "name": "Background Services",
+    "packageCount": 26
+  },
+  {
+    "name": "String Manipulation",
+    "packageCount": 26
+  },
+  {
+    "name": "Dependency Injection",
+    "packageCount": 26
+  },
+  {
+    "name": "Testing Utilities",
+    "packageCount": 26
+  },
+  {
+    "name": "Printing",
+    "packageCount": 25
+  },
+  {
+    "name": "Real-time Communication",
+    "packageCount": 24
+  },
+  {
+    "name": "GraphQL Integration",
+    "packageCount": 22
+  },
+  {
+    "name": "Concurrency",
+    "packageCount": 22
+  },
+  {
+    "name": "Error Handling",
+    "packageCount": 21
+  },
+  {
+    "name": "Time Pickers",
+    "packageCount": 21
+  },
+  {
+    "name": "Testing",
+    "packageCount": 21
+  },
+  {
+    "name": "Cupertino Design Components",
+    "packageCount": 20
+  },
+  {
+    "name": "Deep Linking",
+    "packageCount": 20
+  },
+  {
+    "name": "Geocoding and Reverse Geocoding",
+    "packageCount": 20
+  },
+  {
+    "name": "Speech Recognition",
+    "packageCount": 20
+  },
+  {
+    "name": "In-App Purchases",
+    "packageCount": 19
+  },
+  {
+    "name": "Backend as a Service",
+    "packageCount": 19
+  },
+  {
+    "name": "Math Utilities",
+    "packageCount": 18
+  },
+  {
+    "name": "3D Rendering",
+    "packageCount": 17
+  },
+  {
+    "name": "Transition Animations",
+    "packageCount": 17
+  },
+  {
+    "name": "BLoC Pattern",
+    "packageCount": 17
+  },
+  {
+    "name": "Location Tracking",
+    "packageCount": 17
+  },
+  {
+    "name": "WebView Integration",
+    "packageCount": 17
+  },
+  {
+    "name": "Input Handling",
+    "packageCount": 16
+  },
+  {
+    "name": "E-commerce Solutions",
+    "packageCount": 16
+  },
+  {
+    "name": "Data Processing",
+    "packageCount": 16
+  },
+  {
+    "name": "Document Handling",
+    "packageCount": 16
+  },
+  {
+    "name": "Event Bus",
+    "packageCount": 15
+  },
+  {
+    "name": "Unit Testing",
+    "packageCount": 15
+  },
+  {
+    "name": "Color Utilities",
+    "packageCount": 15
+  },
+  {
+    "name": "Unique Identifiers",
+    "packageCount": 14
+  },
+  {
+    "name": "SVG Handling",
+    "packageCount": 14
+  },
+  {
+    "name": "API Integration",
+    "packageCount": 14
+  },
+  {
+    "name": "Image Recognition",
+    "packageCount": 14
+  },
+  {
+    "name": "Gesture Recognition",
+    "packageCount": 13
+  },
+  {
+    "name": "Cryptocurrency",
+    "packageCount": 13
+  },
+  {
+    "name": "Dependency Management",
+    "packageCount": 13
+  },
+  {
+    "name": "Customer Support",
+    "packageCount": 13
+  },
+  {
+    "name": "Search Suggestions",
+    "packageCount": 12
+  },
+  {
+    "name": "Two-Factor Authentication",
+    "packageCount": 12
+  },
+  {
+    "name": "Network Protocols",
+    "packageCount": 12
+  },
+  {
+    "name": "Version Management",
+    "packageCount": 12
+  },
+  {
+    "name": "Utility Libraries",
+    "packageCount": 12
+  },
+  {
+    "name": "Widget Testing",
+    "packageCount": 11
+  },
+  {
+    "name": "Mocking and Stubbing",
+    "packageCount": 11
+  },
+  {
+    "name": "Social Media Logins",
+    "packageCount": 11
+  },
+  {
+    "name": "Full-Text Search",
+    "packageCount": 11
+  },
+  {
+    "name": "Multimedia Utilities",
+    "packageCount": 11
+  },
+  {
+    "name": "Configuration Management",
+    "packageCount": 11
+  },
+  {
+    "name": "Office Document Handling",
+    "packageCount": 11
+  },
+  {
+    "name": "API Code Generation",
+    "packageCount": 11
+  },
+  {
+    "name": "Route Planning and Navigation",
+    "packageCount": 11
+  },
+  {
+    "name": "Input Validation",
+    "packageCount": 10
+  },
+  {
+    "name": "JWT Handling",
+    "packageCount": 9
+  },
+  {
+    "name": "Health and Fitness",
+    "packageCount": 9
+  },
+  {
+    "name": "App Updates",
+    "packageCount": 9
+  },
+  {
+    "name": "Network Handling",
+    "packageCount": 9
+  },
+  {
+    "name": "Auto-complete",
+    "packageCount": 9
+  },
+  {
+    "name": "Content Management",
+    "packageCount": 9
+  },
+  {
+    "name": "Platform Detection",
+    "packageCount": 9
+  },
+  {
+    "name": "Command Line Utilities",
+    "packageCount": 9
+  },
+  {
+    "name": "A/B Testing",
+    "packageCount": 8
+  },
+  {
+    "name": "Scheduling Algorithms",
+    "packageCount": 8
+  },
+  {
+    "name": "Time Zone Handling",
+    "packageCount": 8
+  },
+  {
+    "name": "Cryptography",
+    "packageCount": 8
+  },
+  {
+    "name": "User Feedback",
+    "packageCount": 8
+  },
+  {
+    "name": "App Configuration",
+    "packageCount": 8
+  },
+  {
+    "name": "Chat SDKs",
+    "packageCount": 8
+  },
+  {
+    "name": "Material Design Components",
+    "packageCount": 7
+  },
+  {
+    "name": "Algorithms",
+    "packageCount": 7
+  },
+  {
+    "name": "Augmented Reality",
+    "packageCount": 7
+  },
+  {
+    "name": "Translation Management",
+    "packageCount": 7
+  },
+  {
+    "name": "Development Tools",
+    "packageCount": 7
+  },
+  {
+    "name": "Drawing Tools",
+    "packageCount": 7
+  },
+  {
+    "name": "Reactive Programming",
+    "packageCount": 7
+  },
+  {
+    "name": "App Store Integration",
+    "packageCount": 7
+  },
+  {
+    "name": "Web Scraping",
+    "packageCount": 7
+  },
+  {
+    "name": "Data Tables",
+    "packageCount": 7
+  },
+  {
+    "name": "Network Utilities",
+    "packageCount": 7
+  },
+  {
+    "name": "CI/CD Integration",
+    "packageCount": 6
+  },
+  {
+    "name": "Syntax Highlighting",
+    "packageCount": 6
+  },
+  {
+    "name": "Asynchronous Programming",
+    "packageCount": 6
+  },
+  {
+    "name": "Accessibility",
+    "packageCount": 6
+  },
+  {
+    "name": "Console Utilities",
+    "packageCount": 6
+  },
+  {
+    "name": "Identity Verification",
+    "packageCount": 6
+  },
+  {
+    "name": "Web Development",
+    "packageCount": 6
+  },
+  {
+    "name": "Analytics",
+    "packageCount": 6
+  },
+  {
+    "name": "Computer Vision",
+    "packageCount": 6
+  },
+  {
+    "name": "Backend Integration",
+    "packageCount": 6
+  },
+  {
+    "name": "Crypto Payments",
+    "packageCount": 5
+  },
+  {
+    "name": "Design Tools",
+    "packageCount": 5
+  },
+  {
+    "name": "Permissions Handling",
+    "packageCount": 5
+  },
+  {
+    "name": "MVVM Implementation",
+    "packageCount": 5
+  },
+  {
+    "name": "CAPTCHA",
+    "packageCount": 5
+  },
+  {
+    "name": "Game Development",
+    "packageCount": 5
+  },
+  {
+    "name": "Text-to-Speech",
+    "packageCount": 5
+  },
+  {
+    "name": "Mathematics",
+    "packageCount": 5
+  },
+  {
+    "name": "Text Extraction",
+    "packageCount": 5
+  },
+  {
+    "name": "IoT Integration",
+    "packageCount": 5
+  },
+  {
+    "name": "Video Conferencing",
+    "packageCount": 5
+  },
+  {
+    "name": "Local Storage",
+    "packageCount": 5
+  },
+  {
+    "name": "Gesture Handling",
+    "packageCount": 5
+  },
+  {
+    "name": "Image Compression",
+    "packageCount": 5
+  },
+  {
+    "name": "Data Analysis",
+    "packageCount": 5
+  },
+  {
+    "name": "AI Integration",
+    "packageCount": 5
+  },
+  {
+    "name": "MobX Integration",
+    "packageCount": 4
+  },
+  {
+    "name": "Lottie Animations",
+    "packageCount": 4
+  },
+  {
+    "name": "Redux Implementation",
+    "packageCount": 4
+  },
+  {
+    "name": "Functional Programming",
+    "packageCount": 4
+  },
+  {
+    "name": "Database Queries",
+    "packageCount": 4
+  },
+  {
+    "name": "File Format Conversion",
+    "packageCount": 4
+  },
+  {
+    "name": "Social Media Integration",
+    "packageCount": 4
+  },
+  {
+    "name": "Media Streaming",
+    "packageCount": 4
+  },
+  {
+    "name": "Performance Profiling",
+    "packageCount": 4
+  },
+  {
+    "name": "Version Control",
+    "packageCount": 4
+  },
+  {
+    "name": "Test Data Generation",
+    "packageCount": 4
+  },
+  {
+    "name": "Code Analysis",
+    "packageCount": 4
+  },
+  {
+    "name": "App Lifecycle",
+    "packageCount": 4
+  },
+  {
+    "name": "Text Generation",
+    "packageCount": 4
+  },
+  {
+    "name": "Cryptocurrency Wallets",
+    "packageCount": 4
+  },
+  {
+    "name": "Usage Analytics",
+    "packageCount": 4
+  },
+  {
+    "name": "ChatGPT Integration",
+    "packageCount": 4
+  },
+  {
+    "name": "App Security",
+    "packageCount": 4
+  },
+  {
+    "name": "App Update Checking",
+    "packageCount": 4
+  },
+  {
+    "name": "Form Generation",
+    "packageCount": 4
+  },
+  {
+    "name": "File Compression",
+    "packageCount": 3
+  },
+  {
+    "name": "Device Management",
+    "packageCount": 3
+  },
+  {
+    "name": "Data Migration",
+    "packageCount": 3
+  },
+  {
+    "name": "Data Compression",
+    "packageCount": 3
+  },
+  {
+    "name": "Data Synchronization",
+    "packageCount": 3
+  },
+  {
+    "name": "Integration Testing",
+    "packageCount": 3
+  },
+  {
+    "name": "Code Coverage",
+    "packageCount": 3
+  },
+  {
+    "name": "Data Export",
+    "packageCount": 3
+  },
+  {
+    "name": "Audio Processing",
+    "packageCount": 3
+  },
+  {
+    "name": "Astronomy",
+    "packageCount": 3
+  },
+  {
+    "name": "In-App Updates",
+    "packageCount": 3
+  },
+  {
+    "name": "Template Rendering",
+    "packageCount": 3
+  },
+  {
+    "name": "Video Processing",
+    "packageCount": 3
+  },
+  {
+    "name": "Consent Management",
+    "packageCount": 3
+  },
+  {
+    "name": "Network Information",
+    "packageCount": 3
+  },
+  {
+    "name": "Feature Flagging",
+    "packageCount": 3
+  },
+  {
+    "name": "Wearable Integration",
+    "packageCount": 3
+  },
+  {
+    "name": "In-App Messaging",
+    "packageCount": 3
+  },
+  {
+    "name": "Haptic Feedback",
+    "packageCount": 3
+  },
+  {
+    "name": "Network Configuration",
+    "packageCount": 3
+  },
+  {
+    "name": "Financial Services Integration",
+    "packageCount": 3
+  },
+  {
+    "name": "Chat Integration",
+    "packageCount": 3
+  },
+  {
+    "name": "Screen Recording",
+    "packageCount": 3
+  },
+  {
+    "name": "Fuzzy Search",
+    "packageCount": 3
+  },
+  {
+    "name": "CLI Tools",
+    "packageCount": 3
+  },
+  {
+    "name": "User Behavior Analysis",
+    "packageCount": 3
+  },
+  {
+    "name": "Contact Management",
+    "packageCount": 3
+  },
+  {
+    "name": "Data Generation",
+    "packageCount": 3
+  },
+  {
+    "name": "Network Security",
+    "packageCount": 3
+  },
+  {
+    "name": "Memory Management",
+    "packageCount": 3
+  },
+  {
+    "name": "Document Processing",
+    "packageCount": 3
+  },
+  {
+    "name": "Dynamic Form Generation",
+    "packageCount": 2
+  },
+  {
+    "name": "Subscription Management",
+    "packageCount": 2
+  },
+  {
+    "name": "Event Handling",
+    "packageCount": 2
+  },
+  {
+    "name": "RSS Feed Parsing",
+    "packageCount": 2
+  },
+  {
+    "name": "Weather Data",
+    "packageCount": 2
+  },
+  {
+    "name": "Clean Architecture",
+    "packageCount": 2
+  },
+  {
+    "name": "File Preview",
+    "packageCount": 2
+  },
+  {
+    "name": "Machine Learning",
+    "packageCount": 2
+  },
+  {
+    "name": "Communication Utilities",
+    "packageCount": 2
+  },
+  {
+    "name": "User Profile Management",
+    "packageCount": 2
+  },
+  {
+    "name": "Healthcare Data Standards",
+    "packageCount": 2
+  },
+  {
+    "name": "Feedback Collection",
+    "packageCount": 2
+  },
+  {
+    "name": "Data Collection",
+    "packageCount": 2
+  },
+  {
+    "name": "Religious Content",
+    "packageCount": 2
+  },
+  {
+    "name": "VoIP Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Random Number Generation",
+    "packageCount": 2
+  },
+  {
+    "name": "Design Patterns",
+    "packageCount": 2
+  },
+  {
+    "name": "JavaScript Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Database Management",
+    "packageCount": 2
+  },
+  {
+    "name": "Markdown Processing",
+    "packageCount": 2
+  },
+  {
+    "name": "Command Line Interfaces",
+    "packageCount": 2
+  },
+  {
+    "name": "File Transfer",
+    "packageCount": 2
+  },
+  {
+    "name": "File Sharing",
+    "packageCount": 2
+  },
+  {
+    "name": "Data Encoding",
+    "packageCount": 2
+  },
+  {
+    "name": "Reflection",
+    "packageCount": 2
+  },
+  {
+    "name": "Data Validation",
+    "packageCount": 2
+  },
+  {
+    "name": "Data Fetching",
+    "packageCount": 2
+  },
+  {
+    "name": "UI Development",
+    "packageCount": 2
+  },
+  {
+    "name": "Email Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Localization Management",
+    "packageCount": 2
+  },
+  {
+    "name": "Real-time Database Sync",
+    "packageCount": 2
+  },
+  {
+    "name": "VoIP",
+    "packageCount": 2
+  },
+  {
+    "name": "Template Engines",
+    "packageCount": 2
+  },
+  {
+    "name": "Database Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Feature Flags",
+    "packageCount": 2
+  },
+  {
+    "name": "Computational Geometry",
+    "packageCount": 2
+  },
+  {
+    "name": "Messaging",
+    "packageCount": 2
+  },
+  {
+    "name": "WebRTC",
+    "packageCount": 2
+  },
+  {
+    "name": "Offline-First Architecture",
+    "packageCount": 2
+  },
+  {
+    "name": "Streaming Services",
+    "packageCount": 2
+  },
+  {
+    "name": "Server-Side Dart",
+    "packageCount": 2
+  },
+  {
+    "name": "Text Encoding",
+    "packageCount": 2
+  },
+  {
+    "name": "Architecture Patterns",
+    "packageCount": 2
+  },
+  {
+    "name": "Python Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Payment Processing",
+    "packageCount": 2
+  },
+  {
+    "name": "Hardware Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "NFC Reader",
+    "packageCount": 2
+  },
+  {
+    "name": "Currency Conversion",
+    "packageCount": 2
+  },
+  {
+    "name": "Data Parsing",
+    "packageCount": 2
+  },
+  {
+    "name": "Customer Support Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Console Output Styling",
+    "packageCount": 2
+  },
+  {
+    "name": "Mobile Wallet Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Code Organization",
+    "packageCount": 2
+  },
+  {
+    "name": "Onboarding",
+    "packageCount": 2
+  },
+  {
+    "name": "Social Feed Integration",
+    "packageCount": 2
+  },
+  {
+    "name": "Scripting Engines",
+    "packageCount": 2
+  },
+  {
+    "name": "Phone Number Verification",
+    "packageCount": 1
+  },
+  {
+    "name": "API Documentation",
+    "packageCount": 1
+  },
+  {
+    "name": "Financial Data",
+    "packageCount": 1
+  },
+  {
+    "name": "Physics Simulations",
+    "packageCount": 1
+  },
+  {
+    "name": "iOS Live Activities",
+    "packageCount": 1
+  },
+  {
+    "name": "UI Design Tools",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Grid",
+    "packageCount": 1
+  },
+  {
+    "name": "Code Highlighting",
+    "packageCount": 1
+  },
+  {
+    "name": "Directory Access Protocol",
+    "packageCount": 1
+  },
+  {
+    "name": "Code Evaluation",
+    "packageCount": 1
+  },
+  {
+    "name": "Code Cleaning",
+    "packageCount": 1
+  },
+  {
+    "name": "Pattern Matching",
+    "packageCount": 1
+  },
+  {
+    "name": "Wearable Devices",
+    "packageCount": 1
+  },
+  {
+    "name": "Object-Relational Mapping",
+    "packageCount": 1
+  },
+  {
+    "name": "Game Testing",
+    "packageCount": 1
+  },
+  {
+    "name": "Static Analysis",
+    "packageCount": 1
+  },
+  {
+    "name": "Message Queues",
+    "packageCount": 1
+  },
+  {
+    "name": "File Type Detection",
+    "packageCount": 1
+  },
+  {
+    "name": "Noise Generation",
+    "packageCount": 1
+  },
+  {
+    "name": "Package Analysis",
+    "packageCount": 1
+  },
+  {
+    "name": "Task Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Document Generation",
+    "packageCount": 1
+  },
+  {
+    "name": "Browser Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "Vector Databases",
+    "packageCount": 1
+  },
+  {
+    "name": "Wearable Device Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "Feed Parsing",
+    "packageCount": 1
+  },
+  {
+    "name": "Health Monitoring",
+    "packageCount": 1
+  },
+  {
+    "name": "Template Engine",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Integrity",
+    "packageCount": 1
+  },
+  {
+    "name": "Containerization",
+    "packageCount": 1
+  },
+  {
+    "name": "Privacy Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Synchronization",
+    "packageCount": 1
+  },
+  {
+    "name": "Audio Recognition",
+    "packageCount": 1
+  },
+  {
+    "name": "Encoding and Decoding",
+    "packageCount": 1
+  },
+  {
+    "name": "Surveys",
+    "packageCount": 1
+  },
+  {
+    "name": "Color Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Package Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Financial Services",
+    "packageCount": 1
+  },
+  {
+    "name": "Virtual Machine",
+    "packageCount": 1
+  },
+  {
+    "name": "Time Tracking",
+    "packageCount": 1
+  },
+  {
+    "name": "URL Parsing",
+    "packageCount": 1
+  },
+  {
+    "name": "String Matching Algorithms",
+    "packageCount": 1
+  },
+  {
+    "name": "Machine Learning Algorithms",
+    "packageCount": 1
+  },
+  {
+    "name": "Queue Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Firmware Updates",
+    "packageCount": 1
+  },
+  {
+    "name": "Text Recognition",
+    "packageCount": 1
+  },
+  {
+    "name": "Conditional Rendering",
+    "packageCount": 1
+  },
+  {
+    "name": "Hot Reload",
+    "packageCount": 1
+  },
+  {
+    "name": "Presentation Tools",
+    "packageCount": 1
+  },
+  {
+    "name": "Unit Conversion",
+    "packageCount": 1
+  },
+  {
+    "name": "Message Queue Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "Web Crawling",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Retrieval",
+    "packageCount": 1
+  },
+  {
+    "name": "Discord Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "User Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Cryptocurrency Exchange",
+    "packageCount": 1
+  },
+  {
+    "name": "Video Downloading",
+    "packageCount": 1
+  },
+  {
+    "name": "Key-Value Storage",
+    "packageCount": 1
+  },
+  {
+    "name": "Health Data Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "E-book Rendering",
+    "packageCount": 1
+  },
+  {
+    "name": "Project Scaffolding",
+    "packageCount": 1
+  },
+  {
+    "name": "ID Generation",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Conversion",
+    "packageCount": 1
+  },
+  {
+    "name": "Type Safety",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Warehousing",
+    "packageCount": 1
+  },
+  {
+    "name": "Audio Protocols",
+    "packageCount": 1
+  },
+  {
+    "name": "Date Calculation",
+    "packageCount": 1
+  },
+  {
+    "name": "File Metadata",
+    "packageCount": 1
+  },
+  {
+    "name": "Audio Streaming",
+    "packageCount": 1
+  },
+  {
+    "name": "Learning Algorithms",
+    "packageCount": 1
+  },
+  {
+    "name": "SEO Optimization",
+    "packageCount": 1
+  },
+  {
+    "name": "Network Discovery",
+    "packageCount": 1
+  },
+  {
+    "name": "Conditional Logic",
+    "packageCount": 1
+  },
+  {
+    "name": "Terminal Emulation",
+    "packageCount": 1
+  },
+  {
+    "name": "Time Synchronization",
+    "packageCount": 1
+  },
+  {
+    "name": "Currency Handling",
+    "packageCount": 1
+  },
+  {
+    "name": "Clustering Algorithms",
+    "packageCount": 1
+  },
+  {
+    "name": "Device Orientation",
+    "packageCount": 1
+  },
+  {
+    "name": "Clipboard Management",
+    "packageCount": 1
+  },
+  {
+    "name": "RTL Language Support",
+    "packageCount": 1
+  },
+  {
+    "name": "Serverless Computing",
+    "packageCount": 1
+  },
+  {
+    "name": "Headless CMS",
+    "packageCount": 1
+  },
+  {
+    "name": "Code Generation Tools",
+    "packageCount": 1
+  },
+  {
+    "name": "Financial Tools",
+    "packageCount": 1
+  },
+  {
+    "name": "Digital Wallet",
+    "packageCount": 1
+  },
+  {
+    "name": "Customer Relationship Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Industrial Protocols",
+    "packageCount": 1
+  },
+  {
+    "name": "Layout Constraints",
+    "packageCount": 1
+  },
+  {
+    "name": "DevOps",
+    "packageCount": 1
+  },
+  {
+    "name": "Documentation",
+    "packageCount": 1
+  },
+  {
+    "name": "Email Handling",
+    "packageCount": 1
+  },
+  {
+    "name": "Hardware Description",
+    "packageCount": 1
+  },
+  {
+    "name": "Speech Synthesis",
+    "packageCount": 1
+  },
+  {
+    "name": "UI Testing",
+    "packageCount": 1
+  },
+  {
+    "name": "Search Result Highlighting",
+    "packageCount": 1
+  },
+  {
+    "name": "GetX Utilities",
+    "packageCount": 1
+  },
+  {
+    "name": "Streaming",
+    "packageCount": 1
+  },
+  {
+    "name": "Healthcare Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "Environment Configuration",
+    "packageCount": 1
+  },
+  {
+    "name": "Mesh Networking",
+    "packageCount": 1
+  },
+  {
+    "name": "User Onboarding",
+    "packageCount": 1
+  },
+  {
+    "name": "Framework",
+    "packageCount": 1
+  },
+  {
+    "name": "Project Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Screen Casting",
+    "packageCount": 1
+  },
+  {
+    "name": "Indoor Positioning",
+    "packageCount": 1
+  },
+  {
+    "name": "Eye Tracking",
+    "packageCount": 1
+  },
+  {
+    "name": "Spreadsheet Processing",
+    "packageCount": 1
+  },
+  {
+    "name": "Music",
+    "packageCount": 1
+  },
+  {
+    "name": "Code Execution",
+    "packageCount": 1
+  },
+  {
+    "name": "Search Utilities",
+    "packageCount": 1
+  },
+  {
+    "name": "Barcode Generation",
+    "packageCount": 1
+  },
+  {
+    "name": "Geospatial Data",
+    "packageCount": 1
+  },
+  {
+    "name": "Device Services",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Streaming",
+    "packageCount": 1
+  },
+  {
+    "name": "Marketing Automation",
+    "packageCount": 1
+  },
+  {
+    "name": "Time Management",
+    "packageCount": 1
+  },
+  {
+    "name": "App Architecture",
+    "packageCount": 1
+  },
+  {
+    "name": "File Upload",
+    "packageCount": 1
+  },
+  {
+    "name": "Network Service Discovery",
+    "packageCount": 1
+  },
+  {
+    "name": "File Transfer Protocol",
+    "packageCount": 1
+  },
+  {
+    "name": "Server-Sent Events",
+    "packageCount": 1
+  },
+  {
+    "name": "Pathfinding",
+    "packageCount": 1
+  },
+  {
+    "name": "Input Simulation",
+    "packageCount": 1
+  },
+  {
+    "name": "Web Optimization",
+    "packageCount": 1
+  },
+  {
+    "name": "Geometry",
+    "packageCount": 1
+  },
+  {
+    "name": "Device Detection",
+    "packageCount": 1
+  },
+  {
+    "name": "UI Automation",
+    "packageCount": 1
+  },
+  {
+    "name": "Verification Framework",
+    "packageCount": 1
+  },
+  {
+    "name": "Search Analytics",
+    "packageCount": 1
+  },
+  {
+    "name": "Random Data Generation",
+    "packageCount": 1
+  },
+  {
+    "name": "HTML Parsing",
+    "packageCount": 1
+  },
+  {
+    "name": "Query String Manipulation",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Comparison",
+    "packageCount": 1
+  },
+  {
+    "name": "State Machines",
+    "packageCount": 1
+  },
+  {
+    "name": "Data Type Conversion",
+    "packageCount": 1
+  },
+  {
+    "name": "Authorization",
+    "packageCount": 1
+  },
+  {
+    "name": "Modular Architecture",
+    "packageCount": 1
+  },
+  {
+    "name": "Weather Data Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "Astronomy Utilities",
+    "packageCount": 1
+  },
+  {
+    "name": "WebAssembly Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "App Update Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Container Orchestration",
+    "packageCount": 1
+  },
+  {
+    "name": "Signal Processing",
+    "packageCount": 1
+  },
+  {
+    "name": "VPN Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "Game Backend",
+    "packageCount": 1
+  },
+  {
+    "name": "Installer Creation",
+    "packageCount": 1
+  },
+  {
+    "name": "AI Decision Making",
+    "packageCount": 1
+  },
+  {
+    "name": "Productivity Tools",
+    "packageCount": 1
+  },
+  {
+    "name": "Command Line Tools",
+    "packageCount": 1
+  },
+  {
+    "name": "Simulation",
+    "packageCount": 1
+  },
+  {
+    "name": "Screen Capture",
+    "packageCount": 1
+  },
+  {
+    "name": "URL Handling",
+    "packageCount": 1
+  },
+  {
+    "name": "Privacy and Consent",
+    "packageCount": 1
+  },
+  {
+    "name": "Scheduling",
+    "packageCount": 1
+  },
+  {
+    "name": "Calendar Integration",
+    "packageCount": 1
+  },
+  {
+    "name": "Process Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Phone Number Validation",
+    "packageCount": 1
+  },
+  {
+    "name": "Documentation Generation",
+    "packageCount": 1
+  },
+  {
+    "name": "Picture-in-Picture",
+    "packageCount": 1
+  },
+  {
+    "name": "Network Management",
+    "packageCount": 1
+  },
+  {
+    "name": "Sorting Algorithms",
+    "packageCount": 1
+  },
+  {
+    "name": "Parsing",
+    "packageCount": 1
+  }
+]
