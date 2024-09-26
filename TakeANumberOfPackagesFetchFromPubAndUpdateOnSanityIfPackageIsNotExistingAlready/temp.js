@@ -17,31 +17,42 @@ function generateRandomKey(length = 8) {
 }
 
 async function updateSanityPackagesWithSubCategories() {
-  const specialCasePackagesPath = path.join(__dirname, 'SpecialCasePackageAndSubcategoryFinalUpdateSexy.json');
-  const specialCasePackages = JSON.parse(fs.readFileSync(specialCasePackagesPath, 'utf8'));
+	try {
+		const specialCasePackagesPath = path.join(__dirname, 'SpecialCasePackageAndSubcategoryFinalUpdateSexy.json');
+		const specialCasePackages = JSON.parse(fs.readFileSync(specialCasePackagesPath, 'utf8'));
 
-  const serverPackages = await client.fetch(`*[_type == "package"]`);
+		const serverPackages = await client.fetch(`*[_type == "package"]`);
 
-  let counter = 0;
-  for(const package of specialCasePackages) {
-    const serverPackage = serverPackages.find(serverPackage => serverPackage.name === package.name);
-    if(serverPackage) {
-      let subCategories = [];
-      for(const category of package.categories) {
-        subCategories.push({
-          _type: 'reference',
-          _ref: category.id,
-          _key: generateRandomKey()
-        })
-      }
-      await client.patch(serverPackage._id).set({
-        subCategories: subCategories
-      }).commit();
-      console.log(`Updated package ${package.name} ${counter++}`);
-    } else {
-      console.log(`Package ${package.name} does not exist on Sanity.`);
-    }
-  }
+		const updatePromises = specialCasePackages.map(async (package, index) => {
+			try {
+				const serverPackage = serverPackages.find(serverPackage => serverPackage.name === package.name);
+				if (serverPackage) {
+					let subCategories = package.categories.map(category => ({
+						_type: 'reference',
+						_ref: category.id,
+						_key: generateRandomKey()
+					}));
+
+					await client.patch(serverPackage._id).set({
+						subCategories: subCategories
+					}).commit();
+					console.log(`Updated package ${package.name} (${index + 1}/${specialCasePackages.length})`);
+				} else {
+					console.warn(`Package "${package.name}" does not exist on Sanity. Skipping update.`);
+				}
+			} catch (error) {
+				console.error(`Error updating package "${package.name}":`, error.message);
+			}
+		});
+
+		await Promise.all(updatePromises);
+		console.log('All packages processed successfully');
+	} catch (error) {
+		console.error('An error occurred during the update process:', error);
+	}
 }
 
-updateSanityPackagesWithSubCategories();
+updateSanityPackagesWithSubCategories().catch(error => {
+	console.error('Unhandled error in updateSanityPackagesWithSubCategories:', error);
+	process.exit(1);
+});
