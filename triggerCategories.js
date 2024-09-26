@@ -47,7 +47,7 @@ async function updatePackageSubCategories() {
 							subCategories: [{
 								_type: 'reference',
 								_ref: subCategory._id,
-								_key: generateRandomKey()
+								_key: generateRandomKey(8)
 							}]
 						})
 						.commit();

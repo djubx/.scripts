@@ -12,20 +12,36 @@ const client = createClient({
   apiVersion: '2021-03-25', // Use the latest API version or the one you prefer
 });
 
-async function mergeSubCategoryNameArrayWithArrayOfCategories () {
-  const subCategoryNameArrayPath = path.join(__dirname, '25thSept', 'subCategoryNameArray.json');
-  const subCategoryNameArray = JSON.parse(fs.readFileSync(subCategoryNameArrayPath, 'utf8'));
-
-  const arrayOfCategoriesPath = path.join(__dirname, '25thSept', 'arrayOfCategories.json');
-  const arrayOfCategories = JSON.parse(fs.readFileSync(arrayOfCategoriesPath, 'utf8'));
-
-  for(let i = 0; i < arrayOfCategories.length; i++) {
-    const subCategoryNameWithEmoji = subCategoryNameArray[i];
-    arrayOfCategories[i].subCategoryName = subCategoryNameWithEmoji;
-  }
-
-  const mergedArrayPath = path.join(__dirname, '25thSept', 'mergedArray.json');
-  fs.writeFileSync(arrayOfCategoriesPath, JSON.stringify(arrayOfCategories, null, 2));
+function generateRandomKey(length = 8) {
+	return Math.random().toString(36).substring(2, length + 2);
 }
 
-mergeSubCategoryNameArrayWithArrayOfCategories();
+async function updateSanityPackagesWithSubCategories() {
+  const specialCasePackagesPath = path.join(__dirname, 'SpecialCasePackageAndSubcategoryFinalUpdateSexy.json');
+  const specialCasePackages = JSON.parse(fs.readFileSync(specialCasePackagesPath, 'utf8'));
+
+  const serverPackages = await client.fetch(`*[_type == "package"]`);
+
+  let counter = 0;
+  for(const package of specialCasePackages) {
+    const serverPackage = serverPackages.find(serverPackage => serverPackage.name === package.name);
+    if(serverPackage) {
+      let subCategories = [];
+      for(const category of package.categories) {
+        subCategories.push({
+          _type: 'reference',
+          _ref: category.id,
+          _key: generateRandomKey()
+        })
+      }
+      await client.patch(serverPackage._id).set({
+        subCategories: subCategories
+      }).commit();
+      console.log(`Updated package ${package.name} ${counter++}`);
+    } else {
+      console.log(`Package ${package.name} does not exist on Sanity.`);
+    }
+  }
+}
+
+updateSanityPackagesWithSubCategories();
